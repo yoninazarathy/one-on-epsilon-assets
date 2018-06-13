@@ -19,15 +19,15 @@ Enter Carl Friedrich Gauss. Gauss was a famous German mathematician whose work h
 
 The sum of the numbers, T, can be written in two ways:
        
-$1      +   2    +  3   + …  + 98 +  99   + 100   =  T$
+$1      +   2    +  3   + \ldots  + 98 +  99   + 100   =  T$
 
-$100 +  99  + 98   + … +  3    +   2    +  1      =  T.$
+$100 +  99  + 98   + \ldots +  3    +   2    +  1      =  T.$
 
 Sum up corresponding terms on both sides of each equation to give
 
-$101 + 101 + 101 + … + 101 + 101 + 101 = 2 x T.$
+$101 + 101 + 101 + \ldots + 101 + 101 + 101 = 2 x T.$
 
-In the sum on the left, the number 101 is being added to itself 100 times. This means the left hand side is just $101 x 100 = 10100.$ 
+In the sum on the left, the number 101 is being added to itself 100 times. This means the left hand side is just $101 \times 100 = 10100.$ 
 
 Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
 
