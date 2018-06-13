@@ -94,7 +94,9 @@ If you can, try to verify some of the following results by drawing pictures of g
 | 11|	66	|121	|176	|231	|286	|341	|396	|451	|506|	561|
 | 12|	78|	144	|210	|276	|342	|408|	474|	540|	606|	672|
 
-
+```latex {cmd=true hide=true}
+\documentclass{standalone}
+\begin{document}
 $$
 \begin{tabular}{c||c|c|c|c|c|c|c|c|c|c|}
 \hline
@@ -104,6 +106,8 @@ $$
 \hline
 \end{tabular}
 $$
+\end{document}
+'''
 
 Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the nth entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). Could you work out a formula for arbitrary $p$? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
 
