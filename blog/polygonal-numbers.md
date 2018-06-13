@@ -1,6 +1,7 @@
-Patterns in polygonal numbers, 
+# Patterns in polygonal numbers 
+*June 23, 2018*
 
-Phil Isaac 13/6/2018
+**Phil Isaac**
 
 What is mathematics? Some might say that it is the study of patterns. Here we look at patterns relating to polygonal numbers, sometimes also known as figurate numbers.
 
@@ -75,21 +76,23 @@ It is at this point, we can say “AHA! There is a pattern!” Consecutive trian
 
 If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with p being the number of sides of the pentagon:
 
-n	p=3	p=4	p=5	p=6	p=7	p=8	p=9	p=10	p=11	P=12
-1	1	1	1	1	1	1	1	1	1	1
-2	3	4	5	6	7	8	9	10	11	12
-3	6	9	12	15	18	21	24	27	30	33
-4	10	16	22	28	34	40	46	52	58	64
-5	15	25	35	45	55	65	75	85	95	105
-6	21	36	51	66	81	96	111	126	141	156
-7	28	49	70	91	112	133	154	175	196	217
-8	36	64	92	120	148	176	204	232	260	288
-9	45	81	117	153	189	225	261	297	333	369
-10	55	100	145	190	235	280	325	370	415	460
-11	66	121	176	231	286	341	396	451	506	561
-12	78	144	210	276	342	408	474	540	606	672
+| n |	p=3 |	p=4	|p=5 |p=6 | p=7 | p=8 | p=9 | p=10 | p=11 | p=12 |
+|---|------|-----|----|----|-----|-----|-----|-----|-------|-----|
+| 1 |	1   |	 1	| 1  |	1	 |1   |	1 |	1	|1	|1	|1|
+| 2 |	3|	4|	5	|6	|7	|8	|9	|10|	11|	12|
+| 3 |	6|	9|	12|	15	|18	|21	|24	|27	|30|	33|
+| 4 |	10|	16|	22|	28	|34	|40	|46	|52	|58	|64|
+| 5 |	15|	25|	35|	45	|55	|65	|75	|85	|95	|105|
+| 6 |	21	|36|	51	|66	|81	|96	|111|	126|	141|	156|
+| 7 |	28|	49|	70|	91|	112|	133	|154|	175|	196|	217|
+| 8 |	36|	64|	92	|120	|148	|176|	204	|232|	260|	288|
+| 9 |	45	|81|	117|	153	|189|	225	|261|	297|	333|	369
+| 10|	55|	100|	145	|190	|235|	280|	325|	370|	415|	460|
+| 11|	66	|121	|176	|231	|286	|341	|396	|451	|506|	561|
+| 12|	78|	144	|210	|276	|342	|408|	474|	540|	606|	672|
 
-Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the nth entry in each column? (We have already worked out a formula for columns p=3, p=4 and p=5). Could you work out a formula for arbitrary p? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
+
+Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the nth entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). Could you work out a formula for arbitrary p? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
 
 
 
