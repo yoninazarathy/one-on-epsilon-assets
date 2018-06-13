@@ -31,8 +31,8 @@ In the sum on the left, the number 101 is being added to itself 100 times. This 
 
 Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
 
-In fact, thanks to the young Carl Gauss, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of n as the variable. For example, if $n=1$, then “nth” or “1th” is read as “first”. If $n=2$, “nth” or “2th” is understood as “second”, $n=3$, “3th” is meant as “third”, then “4th” as “fourth”, “5th” as fifth, and so on. We then just replace n in the formula for the actual number.)
-Try it: e.g. $28 = (8 x 7)/2, 36 = (9 x 8)/2$, etc.
+In fact, thanks to the young Carl Gauss, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of n as the variable. For example, if $n=1$, then “$n$th” or “1th” is read as “first”. If $n=2$, “$n$th” or “2th” is understood as “second”, $n=3$, “3th” is meant as “third”, then “4th” as “fourth”, “5th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
+Try it: e.g. $28 = (8 \times 7)/2, 36 = (9 \times 8)/2$, etc.
 Here’s an idea: Can we extend this to other regular polygons, like squares, pentagons, hexagons, and so on. The answer is: Yes!
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
@@ -43,7 +43,7 @@ The number of dots in each iteration give the square numbers:
 
 $1, 4, 9, 16, 25, 36, 49, 64, \ldots$
 
-In this case, the formula for each number is easy. The nth square number is given by n^2. What about the differences of consecutive square numbers? These are 3, 5, 7, 9, 11, 13, 15, … In other words – and this is cool – the square numbers are the sums of consecutive odd numbers. For example, 
+In this case, the formula for each number is easy. The $n$th square number is given by $n^2$. What about the differences of consecutive square numbers? These are $3, 5, 7, 9, 11, 13, 15, \ldots$ In other words – and this is cool – the square numbers are the sums of consecutive odd numbers. For example, 
 
 $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
@@ -59,7 +59,7 @@ These are known as the pentagonal numbers. What is the pattern here? The differe
 
 $70 = 1 + 4 + 7+ 10 + 13 + 16 + 19.$
  
-What about a formula for the nth pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the nth pentagonal number, P, can be written as 
+What about a formula for the $n$th pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the $n$th pentagonal number, $P$, can be written as 
 
 $1        +      4      +     7    + …  + (3n-8) + (3n-5) + (3n-2) = P,
 (3n-2) + (3n-5) + (3n-8) + … +   7        +     4     +     1      = P.$
@@ -68,7 +68,7 @@ As we did with the triangular numbers, sum up corresponding terms on both sides 
 
 $(3n-1) + (3n-1) + (3n-1) + … (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
-In the sum on the left, the number (3n-1) is being added to itself n times. This means the left hand side is just (3n-1)n. Therefore P = (3n-1)n/2.
+In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
 
 Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2, 92 = (3 \times 8 – 1) \times 8/2$, etc.
 
