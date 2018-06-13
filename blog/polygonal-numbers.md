@@ -49,7 +49,7 @@ In this case, the formula for each number is easy. The $n$th square number is gi
 
 $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
-Now set the number of sides to 5. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
+Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
 
  
 
@@ -63,9 +63,9 @@ $70 = 1 + 4 + 7 + 10 + 13 + 16 + 19.$
  
 What about a formula for the $n$th pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the $n$th pentagonal number, $P$, can be written as 
 
-$1        +      4      +     7    + \ldots  + (3n-8) + (3n-5) + (3n-2) = P,$
+$1 + 4 + 7 + \ldots + (3n-8) + (3n-5) + (3n-2) = P,$
 
-$(3n-2) + (3n-5) + (3n-8) + \ldots +   7        +     4     +     1      = P.$
+$(3n-2) + (3n-5) + (3n-8) + \ldots + 7 + 4 + 1 = P.$
 
 As we did with the triangular numbers, sum up corresponding terms on both sides of each equation to give
 
