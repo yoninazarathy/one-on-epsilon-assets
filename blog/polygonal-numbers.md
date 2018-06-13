@@ -73,11 +73,11 @@ $(3n-1) + (3n-1) + (3n-1) + \ldots + (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
 In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
 
-Try it: e.g. $70=(3 \times 7 – 1) \times 7/2,$ $92 = (3 \times 8 – 1) \times 8/2$, etc.
+Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2,$ $92 = (3 \times 8 – 1) \times 8/2$, etc.
 
 It is at this point, we can say “AHA! There is a pattern!” Consecutive triangular numbers have a difference of whole numbers (that differ by $1$). Consecutive square numbers have a difference of odd numbers (that differ by $2$). Now we see that consecutive pentagonal numbers have a difference of a sequence of numbers that differ by $3$. Could it be that this pattern extends to numbers associated with hexagons ($6$-sided), heptagons ($7$-sided), octagons ($8$-sided), and so on? Indeed, that is the case.
 
-If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with p being the number of sides of the pentagon:
+If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the pentagon:
 
 | n |	p=3 |	p=4	|p=5 |p=6 | p=7 | p=8 | p=9 | p=10 | p=11 | p=12 |
 |---|------|-----|----|----|-----|-----|-----|-----|-------|-----|
