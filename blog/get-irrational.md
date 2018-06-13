@@ -22,7 +22,7 @@ So if magnitude of numbers doesn’t excite them, what will? Our new mathematica
 
 Maybe you don’t know or remember the story of rational and irrational numbers. Let me briefly remind you. A rational number is a number that can be expressed as a ratio of two whole numbers, M/N, with N not 0. Look at some examples:
 
- 
+ $\int_0^\infty f(x) \, dx$
 
 4/3:  M = 4 and N = 3.
 
