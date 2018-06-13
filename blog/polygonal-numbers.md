@@ -10,20 +10,28 @@ How many dots are there with each iteration? Proceeding in this way, we generate
 
 $1, 3, 6, 10, 15, 21, 28, 36, \ldots$ 
 
-Do you notice any patterns in this sequence? One that stands out is the difference of each consecutive number, given by 2, 3, 4, 5, 6, 7, … In other words, each of these numbers is the sum of consecutive integers. For example, 
+Do you notice any patterns in this sequence? One that stands out is the difference of each consecutive number, given by $2, 3, 4, 5, 6, 7, \ldots$ In other words, each of these numbers is the sum of consecutive integers. For example, 
 
-28 = 1 + 2 + 3 + 4 + 5 + 6 + 7.
+$28 = 1 + 2 + 3 + 4 + 5 + 6 + 7.$
 
 Enter Carl Friedrich Gauss. Gauss was a famous German mathematician whose work has made a huge impact on modern mathematics and physics. As a child in the 18th century, he was notoriously precocious. One story tells of a frustrated school teacher who instructed a misbehaving Carl Gauss to add all the numbers from 1 to 100, in order to keep the child occupied for quite some time. Unfortunately for the teacher, the young Gauss devised the following shortcut.
 
 The sum of the numbers, T, can be written in two ways:
-       1      +   2    +  3   + …  + 98 +  99   + 100   =  T,
-       100 +  99  + 98   + … +  3    +   2    +  1      =  T .
+       
+$1      +   2    +  3   + …  + 98 +  99   + 100   =  T$
+
+$100 +  99  + 98   + … +  3    +   2    +  1      =  T.$
+
 Sum up corresponding terms on both sides of each equation to give
-	101 + 101 + 101 + … + 101 + 101 + 101 = 2 x T.
-In the sum on the left, the number 101 is being added to itself 100 times. This means the left hand side is just 101 x 100 = 10100. Therefore T = 10100/2 = 5050. It turns out this is a triangular number. 
-In fact, thanks to the young Carl Gauss, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula (n+1)n/2. (Here we use the typical mathematician’s place holder of n as the variable. For example, if n=1, then “nth” or “1th” is read as “first”. If n=2, “nth” or “2th” is understood as “second”, n=3, “3th” is meant as “third”, then “4th” as “fourth”, “5th” as fifth, and so on. We then just replace n in the formula for the actual number.)
-Try it: e.g. 28 = (8 x 7)/2, 36 = (9 x 8)/2, etc.
+
+$101 + 101 + 101 + … + 101 + 101 + 101 = 2 x T.$
+
+In the sum on the left, the number 101 is being added to itself 100 times. This means the left hand side is just $101 x 100 = 10100.$ 
+
+Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
+
+In fact, thanks to the young Carl Gauss, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of n as the variable. For example, if $n=1$, then “nth” or “1th” is read as “first”. If $n=2$, “nth” or “2th” is understood as “second”, $n=3$, “3th” is meant as “third”, then “4th” as “fourth”, “5th” as fifth, and so on. We then just replace n in the formula for the actual number.)
+Try it: e.g. $28 = (8 x 7)/2, 36 = (9 x 8)/2$, etc.
 Here’s an idea: Can we extend this to other regular polygons, like squares, pentagons, hexagons, and so on. The answer is: Yes!
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
@@ -46,22 +54,22 @@ Counting the number of dots in each iteration gives the following sequence:
 
 $1, 5, 12, 22, 35, 51, 70, 92 \ldots$
 
-These are known as the pentagonal numbers. What is the pattern here? The differences of consecutive pentagonal numbers are 4, 7, 10, 13, 16, 19, 22 … So, for example, the pentagonal numbers are the sums of consecutive number, starting at 1, that differ by 3. For example: 
+These are known as the pentagonal numbers. What is the pattern here? The differences of consecutive pentagonal numbers are $4, 7, 10, 13, 16, 19, 22 …$ So, for example, the pentagonal numbers are the sums of consecutive number, starting at 1, that differ by 3. For example: 
 
 $70 = 1 + 4 + 7+ 10 + 13 + 16 + 19.$
  
 What about a formula for the nth pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the nth pentagonal number, P, can be written as 
 
-1        +      4      +     7    + …  + (3n-8) + (3n-5) + (3n-2) = P,
-(3n-2) + (3n-5) + (3n-8) + … +   7        +     4     +     1      = P.
+$1        +      4      +     7    + …  + (3n-8) + (3n-5) + (3n-2) = P,
+(3n-2) + (3n-5) + (3n-8) + … +   7        +     4     +     1      = P.$
 
 As we did with the triangular numbers, sum up corresponding terms on both sides of each equation to give
 
-	(3n-1) + (3n-1) + (3n-1) + … (3n-1) + (3n-1) + ( 3n-1) = 2P
+$(3n-1) + (3n-1) + (3n-1) + … (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
 In the sum on the left, the number (3n-1) is being added to itself n times. This means the left hand side is just (3n-1)n. Therefore P = (3n-1)n/2.
 
-Try it: e.g. 70 = (3 x 7 – 1) x 7/2, 92 = (3 x 8 – 1) x 8/2, etc.
+Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2, 92 = (3 \times 8 – 1) \times 8/2$, etc.
 
 It is at this point, we can say “AHA! There is a pattern!” Consecutive triangular numbers have a difference of whole numbers (that differ by 1). Consecutive square numbers have a difference of odd numbers (that differ by 2). Now we see that consecutive pentagonal numbers have a difference of a sequence of numbers that differ by 3. Could it be that this pattern extends to numbers associated with hexagons (6-sided), heptagons (7-sided), octagons (8-sided), and so on? Indeed, that is the case.
 
