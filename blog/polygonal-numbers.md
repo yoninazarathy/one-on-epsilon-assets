@@ -19,7 +19,7 @@ Enter Carl Friedrich Gauss. Gauss was a famous German mathematician whose work h
 
 The sum of the numbers, T, can be written in two ways:
        
-$1      +   2    +  3   + \ldots  + 98 +  99   + 100   =  T$
+$1      +   2    +  3   + \ldots  + 98 +  99   + 100   =  T,$
 
 $100 +  99  + 98   + \ldots +  3    +   2    +  1      =  T.$
 
@@ -55,20 +55,21 @@ Now set the number of sides to 5. Playing the same game with regular pentagons (
 
 Counting the number of dots in each iteration gives the following sequence:
 
-$1, 5, 12, 22, 35, 51, 70, 92 \ldots$
+$1, 5, 12, 22, 35, 51, 70, 92, \ldots$
 
-These are known as the pentagonal numbers. What is the pattern here? The differences of consecutive pentagonal numbers are $4, 7, 10, 13, 16, 19, 22 …$ So, for example, the pentagonal numbers are the sums of consecutive number, starting at $1$, that differ by $3$. For example: 
+These are known as the pentagonal numbers. What is the pattern here? The differences of consecutive pentagonal numbers are $4, 7, 10, 13, 16, 19, 22, \ldots$ So, for example, the pentagonal numbers are the sums of consecutive number, starting at $1$, that differ by $3$. For example: 
 
-$70 = 1 + 4 + 7+ 10 + 13 + 16 + 19.$
+$70 = 1 + 4 + 7 + 10 + 13 + 16 + 19.$
  
 What about a formula for the $n$th pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the $n$th pentagonal number, $P$, can be written as 
 
-$1        +      4      +     7    + …  + (3n-8) + (3n-5) + (3n-2) = P,
-(3n-2) + (3n-5) + (3n-8) + … +   7        +     4     +     1      = P.$
+$1        +      4      +     7    + \ldots  + (3n-8) + (3n-5) + (3n-2) = P,$
+
+$(3n-2) + (3n-5) + (3n-8) + \ldots +   7        +     4     +     1      = P.$
 
 As we did with the triangular numbers, sum up corresponding terms on both sides of each equation to give
 
-$(3n-1) + (3n-1) + (3n-1) + … (3n-1) + (3n-1) + ( 3n-1) = 2P$
+$(3n-1) + (3n-1) + (3n-1) + \ldots + (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
 In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
 
