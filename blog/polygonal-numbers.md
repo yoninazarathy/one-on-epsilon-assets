@@ -7,12 +7,12 @@
 
 You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns. Here we look at mathematics relating to _polygonal numbers_, sometimes also known as _figurate numbers_.
 
-Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now add to this picture by doubling the lengths of two adjacent edges, and then closing off a bigger triangle by adding two lines of equal length to make the third edge. Make the new triangle have three dots, equally spaced, along each outer edge. There should now be six dots in total. Extend this idea to adding more lines along each edge, to make bigger triangles, one step at a time, so that each iteration has a number of dots on each side increasing by one. The picture would develop something like this:
+Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this proces as in the following diagram: 
 
 ![alt text](https://es-app.com/blog-assets/triangleNums1.jpg "Blog cover image")
 
 
-How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers (starting at $1$, the trivial triangle!) called the triangular numbers: 
+How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers. Note that we start at $1$, which can be thought of as the trivial triangle, i.e. where the shape collapses to a single point. The result is the sequence of the _triangular numbers_:  
 
 $1, 3, 6, 10, 15, 21, 28, 36, \ldots$ 
 
@@ -83,7 +83,7 @@ Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2,$ $92 = (3 \times 8 – 1) \tim
 
 It is at this point, we can say “AHA! There is a pattern!” Consecutive triangular numbers have a difference of whole numbers (that differ by $1$). Consecutive square numbers have a difference of odd numbers (that differ by $2$). Now we see that consecutive pentagonal numbers have a difference of a sequence of numbers that differ by $3$. Could it be that this pattern extends to numbers associated with hexagons ($6$-sided), heptagons ($7$-sided), octagons ($8$-sided), and so on? Indeed, that is the case.
 
-If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the pentagon:
+If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the polygon:
 
 | n |	p=3 |	p=4	|p=5 |p=6 | p=7 | p=8 | p=9 | p=10 | p=11 | p=12 |
 |---|------|-----|----|----|-----|-----|-----|-----|-------|-----|
