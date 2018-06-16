@@ -3,6 +3,8 @@
 
 **Phil Isaac**
 
+![alt text](https://es-app.com/assets/DF32Zc.jpg "Blog cover image")
+
 What is mathematics? Some might say that it is the study of patterns. Here we look at patterns relating to polygonal numbers, sometimes also known as figurate numbers.
 
 Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now add to this picture by doubling the lengths of two adjacent edges, and then closing off a bigger triangle by adding two lines of equal length to make the third edge. Make the new triangle have three dots, equally spaced, along each outer edge. There should now be six dots in total. Extend this idea to adding more lines along each edge, to make bigger triangles, one step at a time, so that each iteration has a number of dots on each side increasing by one. The picture would develop something like this:
