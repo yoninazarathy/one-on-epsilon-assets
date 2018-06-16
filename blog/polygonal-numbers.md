@@ -44,7 +44,7 @@ Here’s an idea: Can we extend this to other regular polygons, like squares, pe
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
 
- 
+![alt text](https://es-app.com/blog-assets/squareNums1.jpg "Blog cover image")
 
 The number of dots in each iteration give the square numbers:
 
@@ -56,7 +56,8 @@ $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
 Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
 
- 
+ ![alt text](https://es-app.com/blog-assets/pentagonalNums1.jpg "Blog cover image")
+
 
 Counting the number of dots in each iteration gives the following sequence:
 
