@@ -3,7 +3,7 @@
 
 **Phil Isaac**
 
-![alt text](https://es-app.com/assets/DF32Zc.jpg " ")
+![alt text](https://es-app.com/assets/DF32Zc.jpg "Blog cover image")
 
 What is mathematics? Some might say that it is the study of patterns. Here we look at patterns relating to polygonal numbers, sometimes also known as figurate numbers.
 
