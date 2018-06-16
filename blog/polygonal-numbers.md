@@ -9,6 +9,9 @@ What is mathematics? Some might say that it is the study of patterns. Here we lo
 
 Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now add to this picture by doubling the lengths of two adjacent edges, and then closing off a bigger triangle by adding two lines of equal length to make the third edge. Make the new triangle have three dots, equally spaced, along each outer edge. There should now be six dots in total. Extend this idea to adding more lines along each edge, to make bigger triangles, one step at a time, so that each iteration has a number of dots on each side increasing by one. The picture would develop something like this:
 
+![alt text](https://es-app.com/blog-assets/triangleNums1.jpg "Blog cover image")
+
+
 How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers (starting at $1$, the trivial triangle!) called the triangular numbers: 
 
 $1, 3, 6, 10, 15, 21, 28, 36, \ldots$ 
