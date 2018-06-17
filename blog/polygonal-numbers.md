@@ -5,11 +5,14 @@
 
 ![alt text](https://es-app.com/assets/DF32Zc.jpg "Blog cover image")
 
-What is mathematics? Some might say that it is the study of patterns. Here we look at patterns relating to polygonal numbers, sometimes also known as figurate numbers.
+You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns. Here we look at mathematics relating to _polygonal numbers_, sometimes also known as _figurate numbers_.
 
-Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now add to this picture by doubling the lengths of two adjacent edges, and then closing off a bigger triangle by adding two lines of equal length to make the third edge. Make the new triangle have three dots, equally spaced, along each outer edge. There should now be six dots in total. Extend this idea to adding more lines along each edge, to make bigger triangles, one step at a time, so that each iteration has a number of dots on each side increasing by one. The picture would develop something like this:
+Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this proces as in the following diagram: 
 
-How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers (starting at $1$, the trivial triangle!) called the triangular numbers: 
+![alt text](https://es-app.com/blog-assets/triangleNums1.jpg "Blog cover image")
+
+
+How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers. Note that we start at $1$, which can be thought of as the trivial triangle, i.e. where the shape collapses to a single point. The result is the sequence of the _triangular numbers_:  
 
 $1, 3, 6, 10, 15, 21, 28, 36, \ldots$ 
 
@@ -41,7 +44,7 @@ Here’s an idea: Can we extend this to other regular polygons, like squares, pe
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
 
- 
+![alt text](https://es-app.com/blog-assets/squareNums1.jpg "Blog cover image")
 
 The number of dots in each iteration give the square numbers:
 
@@ -53,7 +56,8 @@ $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
 Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
 
- 
+ ![alt text](https://es-app.com/blog-assets/pentagonalNums1.jpg "Blog cover image")
+
 
 Counting the number of dots in each iteration gives the following sequence:
 
@@ -79,7 +83,7 @@ Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2,$ $92 = (3 \times 8 – 1) \tim
 
 It is at this point, we can say “AHA! There is a pattern!” Consecutive triangular numbers have a difference of whole numbers (that differ by $1$). Consecutive square numbers have a difference of odd numbers (that differ by $2$). Now we see that consecutive pentagonal numbers have a difference of a sequence of numbers that differ by $3$. Could it be that this pattern extends to numbers associated with hexagons ($6$-sided), heptagons ($7$-sided), octagons ($8$-sided), and so on? Indeed, that is the case.
 
-If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the pentagon:
+If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the polygon:
 
 | n |	p=3 |	p=4	|p=5 |p=6 | p=7 | p=8 | p=9 | p=10 | p=11 | p=12 |
 |---|------|-----|----|----|-----|-----|-----|-----|-------|-----|
@@ -97,7 +101,7 @@ If you can, try to verify some of the following results by drawing pictures of g
 | 12|	78|	144	|210	|276	|342	|408|	474|	540|	606|	672|
 
 
-Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the nth entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). Could you work out a formula for arbitrary $p$? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
+Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the $n$th entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). Could you work out a formula for arbitrary $p$? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
 
 
 
