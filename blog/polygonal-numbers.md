@@ -1,4 +1,5 @@
 # Patterns in polygonal numbers 
+# Coco's favourite....
 *June 23, 2018*
 
 **Phil Isaac**
@@ -39,7 +40,7 @@ In the sum on the left, the number $101$ is being added to itself $100$ times. T
 
 Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
 
-In fact, thanks to the young Carl Gauss, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”, $n=3$, “$3$th” is meant as “third”, then “$4$th” as “fourth”, “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
+In fact, thanks to the young *Carl Gauss*, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”, $n=3$, “$3$th” is meant as “third”, then “$4$th” as “fourth”, “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
 
 Try it: e.g. $28 = (8 \times 7)/2,$ $36 = (9 \times 8)/2$, etc.
 
