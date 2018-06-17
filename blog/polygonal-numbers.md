@@ -3,7 +3,8 @@
 
 **Phil Isaac**
 
-<img src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="300px"/>
+<center <img src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="300px"/>/>
+ 
 
 You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns. Here we look at mathematics relating to _polygonal numbers_, sometimes also known as _figurate numbers_.
 
