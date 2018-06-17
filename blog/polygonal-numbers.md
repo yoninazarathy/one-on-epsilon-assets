@@ -8,7 +8,6 @@
  <img src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="450px"/>
 </center>
  
-
 You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns. Here we look at mathematics relating to _polygonal numbers_, sometimes also known as _figurate numbers_.
 
 Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this proces as in the following diagram: 
