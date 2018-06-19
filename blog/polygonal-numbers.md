@@ -13,7 +13,7 @@ You may have read several of our blog posts that suggest that mathematics is, mo
 Let’s start with the triangle. If you draw an equilateral triangle and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this proces as in the following diagram: 
 
 <center>
- <img src="https://es-app.com/blog-assets/TriangularNumbers.png" alt="drawing" width="700px"/>
+ <img src="https://es-app.com/blog-assets/TriangularNumbers.png" alt="drawing" width="600px"/>
 </center>
 
 How many dots are there with each iteration? Proceeding in this way, we generate a sequence of positive integers. Note that we start at $1$, which can be thought of as the trivial triangle, i.e. where the shape collapses to a single point. The result is the sequence of the _triangular numbers_:  
@@ -54,7 +54,9 @@ Here’s an idea: Can we extend this to other regular polygons, like squares, pe
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
 
-![alt text](https://es-app.com/blog-assets/SquareNumbers.png "Blog cover image")
+<center>
+ <img src="https://es-app.com/blog-assets/SquareNumbers.png" alt="drawing" width="600px"/>
+</center>
 
 The number of dots in each iteration give the square numbers:
 
@@ -66,8 +68,9 @@ $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
 Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
 
- ![alt text](https://es-app.com/blog-assets/PentagonalNumbers.png "Blog cover image")
-
+<center>
+ <img src="https://es-app.com/blog-assets/PentagonalNumbers.png" alt="drawing" width="600px"/>
+</center>
 
 Counting the number of dots in each iteration gives the following sequence:
 
