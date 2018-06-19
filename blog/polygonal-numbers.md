@@ -1,8 +1,8 @@
 # Patterns in polygonal numbers 
-# Coco's favourite....
+
 *June 23, 2018*
 
-**Phil Isaac**
+**Phillip Isaac**
 
 <center>
  <img src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="450px"/>
@@ -39,9 +39,15 @@ In the sum on the left, the number $101$ is being added to itself $100$ times. T
 
 Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
 
-In fact, thanks to the young *Carl Gauss*, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”, $n=3$, “$3$th” is meant as “third”, then “$4$th” as “fourth”, “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
+In fact, thanks to the young *Carl Gauss*, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”,  “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
 
-Try it: e.g. $28 = (8 \times 7)/2,$ $36 = (9 \times 8)/2$, etc.
+Try it: 
+
+$28 = (8 \times 7)/2,$ 
+
+$36 = (9 \times 8)/2,$
+
+and so on.
 
 Here’s an idea: Can we extend this to other regular polygons, like squares, pentagons, hexagons, and so on. The answer is: Yes!
 
@@ -78,17 +84,24 @@ $(3n-2) + (3n-5) + (3n-8) + \ldots + 7 + 4 + 1 = P.$
 
 As we did with the triangular numbers, sum up corresponding terms on both sides of each equation to give
 
-$(3n-1) + (3n-1) + (3n-1) + \ldots + (3n-1) + (3n-1) + ( 3n-1) = 2P$
+$(3n-1) + (3n-1) + (3n-1)  +\ldots$
+$\ldots+ (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
 In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
 
-Try it: e.g. $70 = (3 \times 7 – 1) \times 7/2,$ $92 = (3 \times 8 – 1) \times 8/2$, etc.
+Try it: 
+
+$70 = (3 \times 7 -1) \times 7/2,$ 
+
+$92 = (3 \times 8 -1) \times 8/2,$
+
+and so on.
 
 It is at this point, we can say “AHA! There is a pattern!” Consecutive triangular numbers have a difference of whole numbers (that differ by $1$). Consecutive square numbers have a difference of odd numbers (that differ by $2$). Now we see that consecutive pentagonal numbers have a difference of a sequence of numbers that differ by $3$. Could it be that this pattern extends to numbers associated with hexagons ($6$-sided), heptagons ($7$-sided), octagons ($8$-sided), and so on? Indeed, that is the case.
 
 If you can, try to verify some of the following results by drawing pictures of growing hexagons, heptagons, octagons, and by extrapolating. The result is the following table of numbers, with $p$ being the number of sides of the polygon:
 
-| n |	p=3 |	p=4	|p=5 |p=6 | p=7 | p=8 | p=9 | p=10 | p=11 | p=12 |
+| $n$ |	$p=3$ |	$p=4$	|$p=5$ |$p=6$ | $p=7$ | $p=8$ | $p=9$ | $p=10$ | $p=11$ | $p=12$ |
 |---|------|-----|----|----|-----|-----|-----|-----|-------|-----|
 | 1 |	1   |	 1	| 1  |	1	 |1   |	1 |	1	|1	|1	|1|
 | 2 |	3|	4|	5	|6	|7	|8	|9	|10|	11|	12|
@@ -105,6 +118,3 @@ If you can, try to verify some of the following results by drawing pictures of g
 
 
 Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the $n$th entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). Could you work out a formula for arbitrary $p$? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional polyhedrons? Are there any restrictions on the numbers of edges or faces in this case? Happy exploring!
-
-
-
