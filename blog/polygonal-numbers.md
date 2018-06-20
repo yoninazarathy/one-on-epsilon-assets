@@ -40,7 +40,7 @@ In the sum on the left, the number $101$ is being added to itself $100$ times. T
 
 Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number. 
 
-In fact, thanks to the young *Carl Gauss*, we can see that every triangular number can be written in a similar form. Actually, the nth triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”,  “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
+In fact, thanks to the young *Carl Gauss*, we can see that every triangular number can be written in a similar form. Actually, the $n$th triangular number is given by the formula $(n+1)n/2$. (Here we use the typical mathematician’s place holder of $n$ as the variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”,  “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number.)
 
 Try it: 
 
@@ -52,7 +52,7 @@ and so on.
 
 Here’s an idea: Can we extend this to other regular polygons, like squares, pentagons, hexagons, and so on. The answer is: Yes!
 
-Try applying a similar principle in drawing squares with growing lengths (again, starting at 1), as we did the triangles. A picture would develop something like this:
+Try applying a similar principle in drawing squares with growing lengths (again, starting at $1$), as we did the triangles. A picture would develop something like this:
 
 <center>
  <img src="https://es-app.com/blog-assets/SquareNumbers.png" alt="drawing" width="600px"/>
@@ -66,7 +66,7 @@ In this case, the formula for each number is easy. The $n$th square number is gi
 
 $49 = 1 + 3 + 5 + 7 + 9 + 11 + 13.$
 
-Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe try to reproduce some more for yourself:
+Now set the number of sides to $5$. Playing the same game with regular pentagons (that is, five-sided polygons), generating the sequence of numbers might take a bit of effort, concentration, and possibly some artistic talent. Try to follow the progression in the following diagram, and maybe reproduce some more for yourself:
 
 <center>
  <img src="https://es-app.com/blog-assets/PentagonalNumbers.png" alt="drawing" width="600px"/>
@@ -80,7 +80,7 @@ These are known as the pentagonal numbers. What is the pattern here? The differe
 
 $70 = 1 + 4 + 7 + 10 + 13 + 16 + 19.$
  
-What about a formula for the $n$th pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. Namely, note that the $n$th pentagonal number, $P$, can be written as 
+What about a formula for the $n$th pentagonal number? We could use the same principle put forward by the child prodigy, Gauss. The $n$th pentagonal number, $P$, for $n\geq 3$, can be written as 
 
 $1 + 4 + 7 + \ldots + (3n-8) + (3n-5) + (3n-2) = P,$
 
@@ -90,9 +90,9 @@ As we did with the triangular numbers, sum up corresponding terms on both sides 
 
 $(3n-1) + (3n-1) + (3n-1) + \ldots + (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
-In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
+In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$ This formula also works for the simple cases of $n=1,2$.
 
-Try it: 
+Try some examples: 
 
 $70 = (3 \times 7 -1) \times 7/2,$ 
 
