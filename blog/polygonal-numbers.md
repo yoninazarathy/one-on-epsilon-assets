@@ -94,7 +94,7 @@ In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. 
 
 Try some examples: 
 
-$70 = \frac{7(3 \times 7 -1)}{2},$ 
+$70 = (3 \times 7 -1) \times 7/2,$ 
 
 $92 = (3 \times 8 -1) \times 8/2,$
 
