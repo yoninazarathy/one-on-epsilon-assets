@@ -26,7 +26,7 @@ $28 = 1 + 2 + 3 + 4 + 5 + 6 + 7.$
 
 Enter Carl Friedrich Gauss. Gauss was a famous German mathematician whose work has made a huge impact on modern mathematics and physics. As a child in the 18th century, he was notoriously precocious. One story tells of a frustrated school teacher who instructed a misbehaving Carl Gauss to add all the numbers from $1$ to $100$, in order to keep the child occupied for quite some time. Unfortunately for the teacher, the young Gauss devised the following shortcut.
 
-The sum of the numbers, T, can be written in two ways:
+The sum of the numbers, $T$, can be written in two ways:
        
 $1      +   2    +  3   + \ldots  + 98 +  99   + 100   =  T,$
 
