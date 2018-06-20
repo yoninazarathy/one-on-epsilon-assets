@@ -88,8 +88,7 @@ $(3n-2) + (3n-5) + (3n-8) + \ldots + 7 + 4 + 1 = P.$
 
 As we did with the triangular numbers, sum up corresponding terms on both sides of each equation to give
 
-$(3n-1) + (3n-1) + (3n-1)  +\ldots$
-$\ldots+ (3n-1) + (3n-1) + ( 3n-1) = 2P$
+$(3n-1) + (3n-1) + (3n-1) + ldots + (3n-1) + (3n-1) + ( 3n-1) = 2P$
 
 In the sum on the left, the number $(3n-1)$ is being added to itself $n$ times. This means the left hand side is just $(3n-1)n.$ Therefore $P = (3n-1)n/2.$
 
