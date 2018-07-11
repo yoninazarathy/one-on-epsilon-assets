@@ -5,9 +5,11 @@
 
 **Inna Lukyanenko and Yoni Nazarathy**
 
-![bloglogoImage](https://es-app.com/assets/uIld21.png)
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/uIld21.png" alt="drawing" width="250px"/>
+</center>
 
-Yoni: The other day, I met my friend Inna, a mathematician. Inna is originally from the grand city of St. Petersburg, Russia. But these days she lives between the cities of Brisbane and Melbourne in Australia. We caught up in Brisbane and enjoyed a forest walk together. We then got hungry and went to grab some pizza.
+**Yoni:** The other day, I met my friend Inna, a mathematician. Inna is originally from the grand city of St. Petersburg, Russia. But these days she lives between the cities of Brisbane and Melbourne in Australia. We caught up in Brisbane and enjoyed a forest walk together. We then got hungry and went to grab some pizza.
 
  
 
@@ -15,7 +17,7 @@ As we waited for the pizza to be made, I asked Inna about her relationship with 
 
  
 
-Inna: I often catch myself thinking: why on earth did I end up doing maths? Aren’t there so many other exciting careers that do not require so much mental effort? For instance, how about opening a pizza restaurant?
+**Inna:** I often catch myself thinking: why on earth did I end up doing maths? Aren’t there so many other exciting careers that do not require so much mental effort? For instance, how about opening a pizza restaurant?
 
  
 
@@ -35,19 +37,15 @@ Or, to the outrage and horror of the whole Italian nation, they might want to or
 
 
 
-Yoni: OK Inna, it is very cute when you dream and I actually think your menu concept is a nice one. But let us ask a concrete question:
+**Yoni:** OK Inna, it is very cute when you dream and I actually think your menu concept is a nice one. But let us ask a concrete question:
 
  
 
 How many different pizzas can you create with these 6 ingredients?
 
-Inna: Ahh great question! In order to compute this, let's use a binary system to indicate whether we include a certain ingredient or not. We simply put “1” if we want to include the ingredient and “0” if not.
-
- 
+**Inna:** Ahh great question! In order to compute this, let's use a binary system to indicate whether we include a certain ingredient or not. We simply put “1” if we want to include the ingredient and “0” if not.
 
 In this case Margherita looks as follows:
-
-
 
 And the Hawaiian:
 
