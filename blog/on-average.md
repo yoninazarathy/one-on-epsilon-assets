@@ -1,9 +1,13 @@
 
-# Averages that make sense
+# A different kind of average
 *July 21, 2018*
 
-
 **Yoni Nazarathy**
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/rr2oUo.jpg" alt="drawing" width="450px"/>
+</center>
+
 
 We use the term "average" all the time. If not stated otherwise the average of a collection of values is their **arithmetic mean** taken as their sum divided by the number of values. 
 
@@ -13,17 +17,17 @@ However, there are different types of averages and it isn't always clear which t
 
 **(i) Total count calculations**: Say there are $N$ items in total and the average weight of an item is $A$. The total weight is:
 $$
-\mbox{weight} = N \cdot A
+\text{weight} = N \cdot A
 $$
 
 **(ii) Return on investment calculations**: Say we invest a single dollar for a period of $N$ years. If the average growth rate per year is at a rate of $A$ then after $N$ years we have:
 $$
-\mbox{return} = A^N
+\text{return} = A^N
 $$
 
 **(iii) Distance-time-speed calculations**: Say we know the distance travelled $N$ and know an average speed $A$. In this case, the time travelled is:
 $$
-\mbox{time} = \frac{N}{A}
+\text{time} = \frac{N}{A}
 $$
 
 In each of the cases (i)--(iii), the average value $A$ signifies a typical quantity. That is a typical weight in case (i), a typical growth factor in case (ii) and a typical speed in case (iii). Indeed, if all we are presented with is the value $A$, then we would probably use the above formulas without trouble.
