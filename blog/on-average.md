@@ -63,7 +63,7 @@ $$
 
 Now which of these means (averages) suites which scenario. Let's look. Plug in the arithmetic mean in case (i):
 $$
-\mbox{weight} = 4 \cdot \frac{X_1+X_2+X_3+X_4}{4} = X_1+X_2+X_3+X_4.
+\text{weight} = 4 \cdot \frac{X_1+X_2+X_3+X_4}{4} = X_1+X_2+X_3+X_4.
 $$
 Walla, the arithmetic mean seems to work for this case . That is, if the average used in case (i) is calculated using the arithmetic mean, then using it yields the desired sum of weights.
 
@@ -71,13 +71,13 @@ Walla, the arithmetic mean seems to work for this case . That is, if the average
 
 Now plug in the geometric mean in case (ii):
 $$
-\mbox{return} = A^N = \Big((X_1 X_2 X_3 X_4)^{1/4}\Big)^4 = X_1 X_2 X_3 X_4
+\text{return} = A^N = \Big((X_1 X_2 X_3 X_4)^{1/4}\Big)^4 = X_1 X_2 X_3 X_4
 $$
 Walla, the geometric mean seems to work. That is, if the average used in case (ii) is calculated using the geometric mean, then using it yields the desired product of growth factors.
 
 Finally plug in the harmonic mean in case (iii):
 $$
-\mbox{time} = \frac{4}{\frac{4}{\frac{1}{X_1} + \frac{1}{X_2} + \frac{1}{X_3} + \frac{1}{X_4}}} = \frac{1}{X_1} + \frac{1}{X_2} + \frac{1}{X_3} + \frac{1}{X_4}
+\text{time} = \frac{4}{\frac{4}{\frac{1}{X_1} + \frac{1}{X_2} + \frac{1}{X_3} + \frac{1}{X_4}}} = \frac{1}{X_1} + \frac{1}{X_2} + \frac{1}{X_3} + \frac{1}{X_4}
 $$
 This is also the desired quantity. Since on each kilometer we had a different speed $X_i$ and the time for kilometer $i$ was $1/X_i$.
 
