@@ -8,9 +8,11 @@
  <img class = "blog-inline-image" src="https://es-app.com/assets/rr2oUo.jpg" alt="drawing" width="450px"/>
 </center>
 
-When I say "average", I don't always have a specific mathematical concept in mind. I rather think about a "typical value". However, averages can also be computed in a precise manner. How?
+How often do you think about averages? In my case, there isn't a day that goes by in which I don't think about some sort of "average". However, when I do so, I seldom have a specific mathematical concept in mind. Instead I think about the average representing a "typical value". 
 
-Perhaps the most common type of average is the **arithmetic mean**. Given a collection of $N$ numbers, $X_1,\ldots,X_N$, we have,
+For example, when I shop for 
+
+One can either postulate about such typical values, or obtain them from data. When considering data, the most common the most common is the **arithmetic mean**. To caluculate it given, a collection of $N$ numbers, $X_1,\ldots,X_N$, we have,
 $$
 \text{arithmetic mean} = \frac{X_1+\ldots+X_N}{N}.
 $$
@@ -22,9 +24,13 @@ X_3=50.
 $$
 In this case, summing up the values and dividing by $3$, the average number of daily smiles is $30$. 
 
-As you may know, there are other ways of describing typical values. For example as discussed <a href="https://www.1onepsilon.com/single-post/2017/05/27/Choosing-a-Fair-Estimate">here</a> we can also use the <a href="http://epsilonstream.com/search?q=median">median</a>. Then there are also weighted averages and a variety of other varients such as the <a href="https://en.wikipedia.org/wiki/Truncated_mean"> truncated (trimmed) mean</a>. Another related term is <a href="http://epsilonstream.com/search?q=mathematical+expectation">mathematical expecation</a> dealing with an average of a probability distribution as opposed to the average of data. 
+--
 
-So why are there so many alternatives to describe the "typical value"? Which alterantive should we use?
+However, there are other ways of describing typical values, often referred to **measures of centrallity**. For example as discussed <a href="https://www.1onepsilon.com/single-post/2017/05/27/Choosing-a-Fair-Estimate">here</a> we can also use the <a href="http://epsilonstream.com/search?q=median">median</a>. Then there are also weighted averages and a variety of other varients such as the <a href="https://en.wikipedia.org/wiki/Truncated_mean"> truncated (trimmed) mean</a>. Another related term is <a href="http://epsilonstream.com/search?q=mathematical+expectation">mathematical expecation</a> dealing with an average of a probability distribution as opposed to the average of data. 
+
+Other alternatives to the arithmetic mean include the **geometric mean** and **harmonic mean**. Some students, study these for the case of two data points, $X_1$ and $X_2$ as part of their high school studies (see for example QQQQ). Then, some data scientistis understand why they are usefull in their applied work (see for example QQQQ).
+
+So why are there so many alternatives to describe the "typical value"? Which alterantive should we use? 
 
 Let's not focus on all the possible common measures of centrallity. Instead, let's consider two less popular friends of the arithmetic mean. These are the **geometric mean** and **harmonic mean**. You might have heard about these two alternative types of means before. But do you what are they good for?
 
