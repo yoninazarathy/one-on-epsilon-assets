@@ -6,12 +6,13 @@
             "authors": "Phillip Isaac",
             "publishDate": "June 22, 2018",
             "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "https://es-app.com/assets/DF32Zc.jpg"
+            "imageUrl": "https://es-app.com/assets/DF32Zc.jpg",
         },
         {
-            "title": "July 21, 2018",
+            "title": "Finding the typical value: Arithmetic, geometric or harmonic?",
             "handle":"on-average",
             "authors": "Yoni Nazarathy",
+            "publishDate":  "July 21, 2018",
             "url": "https://es-app.com/blog/on-average.md",
             "imageUrl": "https://es-app.com/assets/34xnA8.jpg"
         }
