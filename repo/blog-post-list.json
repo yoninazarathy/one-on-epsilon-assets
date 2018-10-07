@@ -3,51 +3,61 @@
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "publishDate": "date date date",
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         }
     ],
     "picks": [
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         }
     ],
     "news": [
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         },
         {
             "title": "la la la title",
             "authors": "la la la",
-            "publishDate": "date date date"
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "QQQQ"
         }
     ]
 }
