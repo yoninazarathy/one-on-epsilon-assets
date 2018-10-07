@@ -2,13 +2,15 @@
     "curious": [
         {
             "title": "Patterns in polygonal numbers",
+            "handle": "polygonal-numbers",
             "authors": "Phillip Isaac",
             "publishDate": "June 22, 2018",
             "url": "https://es-app.com/blog/polygonal-numbers.md",
             "imageUrl": "https://es-app.com/assets/DF32Zc.jpg"
         },
         {
-            "title": "la la la title",
+            "title": "July 21, 2018",
+            "handle":"on-average",
             "authors": "Yoni Nazarathy",
             "url": "https://es-app.com/blog/on-average.md",
             "imageUrl": "https://es-app.com/assets/34xnA8.jpg"
