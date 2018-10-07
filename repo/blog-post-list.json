@@ -1,63 +1,21 @@
 {
     "curious": [
         {
-            "title": "la la la title",
-            "authors": "la la la",
-            "publishDate": "date date date",
+            "title": "Patterns in polygonal numbers",
+            "authors": "Phillip Isaac",
+            "publishDate": "June 22, 2018",
             "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
+            "imageUrl": "https://es-app.com/assets/DF32Zc.jpg"
         },
         {
             "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        },
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
+            "authors": "Yoni Nazarathy",
+            "url": "https://es-app.com/blog/on-average.md",
+            "imageUrl": "https://es-app.com/assets/34xnA8.jpg"
         }
     ],
     "picks": [
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        },
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        },
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        }
     ],
     "news": [
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        },
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        },
-        {
-            "title": "la la la title",
-            "authors": "la la la",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "QQQQ"
-        }
     ]
 }
