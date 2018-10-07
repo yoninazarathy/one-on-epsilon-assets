@@ -1,0 +1,53 @@
+{
+    "curious": [
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        }
+    ],
+    "picks": [
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        }
+    ],
+    "news": [
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        },
+        {
+            "title": "la la la title",
+            "authors": "la la la",
+            "publishDate": "date date date"
+        }
+    ],
+}
