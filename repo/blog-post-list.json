@@ -247,6 +247,14 @@
             "handle": "when-will-your-child-be-half-your-age",
             "url": "https://es-app.com/blog/when-will-your-child-be-half-your-age.md",
             "imageUrl": "https://es-app.com/assets/nba234.png" 
+        },
+        { 
+            "title":"A Formula for the Personality of a Number",
+            "author":"Yoni Nazarathy",
+            "publishDate":"25 Mar 2017",
+            "handle": "personality-of-number",
+            "url": "https://es-app.com/blog/personality-of-number.md",
+            "imageUrl": "https://es-app.com/assets/64anNN.png" 
         }
     ],
     "picks": [
