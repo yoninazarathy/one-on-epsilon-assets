@@ -1,30 +1,6 @@
 {
     "curious": [
         {
-            "title": "Patterns in polygonal numbers",
-            "authors": "Phillip Isaac",
-            "publishDate": "June 22, 2018",
-            "handle": "polygonal-numbers",
-            "url": "https://es-app.com/blog/polygonal-numbers.md",
-            "imageUrl": "https://es-app.com/assets/DF32Zc.jpg"
-        },
-        {
-            "title": "Finding the typical value - Arithmetic, geometric or harmonic?",
-            "authors": "Yoni Nazarathy",
-            "publishDate":  "July 21, 2018",
-            "handle":"on-average",
-            "url": "https://es-app.com/blog/on-average.md",
-            "imageUrl": "https://es-app.com/assets/34xnA8.jpg"
-        },
-        { 
-            "title":"Epsilon Stream and Global Math Week",
-            "author":"One on Epsilon Team",
-            "publishDate":"Tue, 09 Oct 2018 23:10:32 +0000",
-            "handle": "",
-            "url": "",
-            "imageUrl": ""
-        },
-        {
             "title":"Going off on a tangent",
             "author":"Yousuf Marvi and Clara Valtorta",
             "publishDate":"Fri, 05 Oct 2018 13:03:41 +0000",
@@ -48,21 +24,21 @@
             "url": "",
             "imageUrl": ""
         },
-        { 
-            "title":"Finding the typical value: Arithmetic, geometric or harmonic?",
-            "author":"Yoni Nazarathy",
-            "publishDate":"Fri, 20 Jul 2018 14:52:06 +0000",
-            "handle": "",
-            "url": "",
-            "imageUrl": "" 
+        {
+            "title": "Finding the typical value - Arithmetic, geometric or harmonic?",
+            "authors": "Yoni Nazarathy",
+            "publishDate":  "July 21, 2018",
+            "handle":"on-average",
+            "url": "https://es-app.com/blog/on-average.md",
+            "imageUrl": "https://es-app.com/assets/34xnA8.jpg"
         },
-        { 
-            "title":"Patterns in polygonal numbers",
-            "author":"Phillip Isaac",
-            "publishDate":"Fri, 22 Jun 2018 11:50:15 +0000", 
-            "handle": "",
-            "url": "",
-            "imageUrl": ""
+        {
+            "title": "Patterns in polygonal numbers",
+            "authors": "Phillip Isaac",
+            "publishDate": "June 22, 2018",
+            "handle": "polygonal-numbers",
+            "url": "https://es-app.com/blog/polygonal-numbers.md",
+            "imageUrl": "https://es-app.com/assets/DF32Zc.jpg"
         },
         { 
             "title":"“Watts” Grade Got To Do With It?",
@@ -268,9 +244,9 @@
             "title":"When will your child be half your age?",
             "author":"Yoni Nazarathy",
             "publishDate":"Fri, 31 Mar 2017 14:43:40 +0000",
-            "handle": "",
-            "url": "",
-            "imageUrl": "" 
+            "handle": "when-will-your-child-be-half-your-age",
+            "url": "https://es-app.com/blog/when-will-your-child-be-half-your-age.md",
+            "imageUrl": "https://es-app.com/assets/nba234.png" 
         }
     ],
     "picks": [
@@ -372,6 +348,14 @@
         }
     ],
     "news": [
+        { 
+            "title":"Epsilon Stream and Global Math Week",
+            "author":"One on Epsilon Team",
+            "publishDate":"Tue, 09 Oct 2018 23:10:32 +0000",
+            "handle": "",
+            "url": "",
+            "imageUrl": ""
+        },
         { 
             "title":"Counting Mathematics on YouTube",
             "author":"Nicholas Bartlett",
