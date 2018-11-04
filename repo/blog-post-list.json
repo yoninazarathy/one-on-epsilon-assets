@@ -255,6 +255,22 @@
             "handle": "personality-of-number",
             "url": "https://es-app.com/blog/personality-of-number.md",
             "imageUrl": "https://es-app.com/assets/64anNN.png" 
+        },
+        { 
+            "title":"Is i More Imaginary than -1?",
+            "author":"Yoni Nazarathy",
+            "publishDate":"18 Mar 2017",
+            "handle": "is-i-more-imaginary",
+            "url": "https://es-app.com/blog/is-i-more-imaginary.md",
+            "imageUrl": "https://es-app.com/assets/PP0032.png" 
+        },
+        { 
+            "title":"Inna and Yoni Choosing Pizza",
+            "author":"Inna Lukyanenko and Yoni Nazarathy",
+            "publishDate":"11 Mar 2017",
+            "handle": "choosing-pizza",
+            "url": "https://es-app.com/blog/choosing-pizza.md",
+            "imageUrl": "https://es-app.com/assets/uIld21.png" 
         }
     ],
     "picks": [
