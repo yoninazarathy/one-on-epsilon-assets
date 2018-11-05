@@ -321,222 +321,68 @@
             "imageUrl": "https://es-app.com/assets/dch5fH.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"How old are these lentils?",
+            "author":"Yoni Nazarathy",
+            "publishDate":"27 Jan 2017",
+            "handle": "old-lentils",
+            "url": "https://es-app.com/blog/old-lentils.md",
+            "imageUrl": "https://es-app.com/assets/ju3s14.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"Is it Divisible by 3?",
+            "author":"Yoni Nazarathy",
+            "publishDate":"15 Jan 2017",
+            "handle": "is-it-divisible-by-3",
+            "url": "https://es-app.com/blog/is-it-divisible-by-3.md",
+            "imageUrl": "https://es-app.com/assets/7fnxAN.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"The Number Game and the Silent Version",
+            "author":"Yoni Nazarathy",
+            "publishDate":"9 Jan 2017",
+            "handle": "the-number-game-and-the-slient-version",
+            "url": "https://es-app.com/blog/the-number-game-and-the-slient-version.md",
+            "imageUrl": "https://es-app.com/assets/j7f4jl.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"Push Ups, Sit Ups and Adding Numbers",
+            "author":"Yoni Nazarathy",
+            "publishDate":"17 Nov 2016",
+            "handle": "push-ups-sit-ups-and-adding.md",
+            "url": "https://es-app.com/blog/push-ups-sit-ups-and-adding.md",
+            "imageUrl": "https://es-app.com/assets/ANCV64.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"More Votes but No Victory",
+            "author":"Yoni Nazarathy",
+            "publishDate":"11 Nov 2016",
+            "handle": "more-votes-no-victory",
+            "url": "https://es-app.com/blog/more-votes-no-victory.md",
+            "imageUrl": "https://es-app.com/assets/TY7k32.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"Two Plus Two Equals Two Times Two",
+            "author":"Yoni Nazarathy",
+            "publishDate":"2 Nov 2016",
+            "handle": "two-plus-two-equals-two-times-two",
+            "url": "https://es-app.com/blog/two-plus-two-equals-two-times-two.md",
+            "imageUrl": "https://es-app.com/assets/24snMf.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
+            "title":"Fishing for Probability, Part II",
+            "author":"Yoni Nazarathy",
+            "publishDate":"31 Oct 2016",
+            "handle": "fishing-for-probability-part-II",
+            "url": "https://es-app.com/blog/fishing-for-probability-part-II.md",
+            "imageUrl": "https://es-app.com/assets/fgJJs2.png" 
         },
         { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        },
-        { 
-            "title":"",
-            "author":"",
-            "publishDate":"",
-            "handle": "",
-            "url": "https://es-app.com/blog/QQQQ.md",
-            "imageUrl": "https://es-app.com/assets/FFFF" 
-        }
-    ],
-    "picks": [
-        { 
-            "title":"November 2018 Editors' Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"",
-            "handle": "nov-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"October 2018 Editors' Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Sat, 29 Sep 2018 11:30:42 +0000",
-            "handle": "oct-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"September 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Fri, 31 Aug 2018 22:46:38 +0000",
-            "handle": "sep-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"August 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Fri, 03 Aug 2018 07:47:06 +0000",
-            "handle": "aug-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"July 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Fri, 06 Jul 2018 09:31:05 +0000", 
-            "handle": "jul-18-picks",
-            "url": "",
-            "imageUrl": ""
-        },
-        { 
-            "title":"June 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Fri, 08 Jun 2018 12:14:52 +0000",
-            "handle": "jun-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"May 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Thu, 10 May 2018 22:39:05 +0000",
-            "handle": "may-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"April 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Thu, 12 Apr 2018 01:31:48 +0000",
-            "handle": "apr-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"March 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Thu, 15 Mar 2018 23:16:39 +0000",
-            "handle": "mar-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"February 2018 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Thu, 15 Feb 2018 23:13:07 +0000", 
-            "handle": "feb-18-picks",
-            "url": "",
-            "imageUrl": ""
-        },
-        { 
-            "title":"January 2018 Editors\" Picks",
-            "author":"one on Epsilon Team",
-            "publishDate":"Fri, 19 Jan 2018 13:35:08 +0000",
-            "handle": "jan-18-picks",
-            "url": "",
-            "imageUrl": "" 
-        },
-        { 
-            "title":"December 2017 Editors\" Picks",
-            "author":"one on Epsilon Team",
-            "publishDate":"Fri, 22 Dec 2017 13:20:57 +0000", 
-            "handle": "dec-17-picks",
-            "url": "",
-            "imageUrl": ""
-        },
-        { 
-            "title":"November 2017 Editors\" Picks",
-            "author":"One on Epsilon Team",
-            "publishDate":"Sun, 26 Nov 2017 11:26:26 +0000", 
-            "handle": "nov-17-picks",
-            "url": "",
-            "imageUrl": ""
+            "title":"Fishing for Probability, Part I",
+            "author":"Yoni Nazarathy",
+            "publishDate":"28 Oct 2016",
+            "handle": "fishing-for-probability-part-I",
+            "url": "https://es-app.com/blog/fishing-for-probability-part-I.md",
+            "imageUrl": "https://es-app.com/assets/3hFFab.png" 
         }
     ],
     "news": [
