@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="55mm"
+   viewBox="0 0 80 55"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="rationalNumber.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-306.27559"
+     inkscape:cy="148.38351"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-242)">
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28388301;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4518"
+       ry="26.585556"
+       rx="39.468887"
+       cy="269.74646"
+       cx="40.216663" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.812489"
+       y="250.16716"
+       id="text4522"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="23.812489"
+         y="250.16716"
+         style="font-size:4.93888903px;stroke-width:0.26458332">Real Numbers</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28698024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4524"
+       cx="21.960409"
+       cy="270.29211"
+       rx="18.551302"
+       ry="18.922825" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.703827"
+       y="268.50253"
+       id="text4581"><tspan
+         sodipodi:role="line"
+         id="tspan4579"
+         x="60.447968"
+         y="268.50253"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Irrational </tspan><tspan
+         sodipodi:role="line"
+         x="59.703827"
+         y="273.79419"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4583">Numbers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="8.2020893"
+       y="272.92151"
+       id="text4589"><tspan
+         sodipodi:role="line"
+         id="tspan4587"
+         x="8.2020893"
+         y="276.46185"
+         style="stroke-width:0.26458332" /></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.29034871;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4591"
+       cx="22.039497"
+       cy="275.80515"
+       rx="15.485667"
+       ry="11.569411" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4593"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.879167,238.12593)"><flowRegion
+         id="flowRegion4595"><rect
+           id="rect4597"
+           width="46"
+           height="23"
+           x="68"
+           y="262.51968" /></flowRegion><flowPara
+         id="flowPara4599">Integer</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="13.529142"
+       y="270.27563"
+       id="text4603"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="13.529142"
+         y="270.27563"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Integers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.322981"
+       y="278.21326"
+       id="text4607"><tspan
+         sodipodi:role="line"
+         id="tspan4605"
+         x="22.067122"
+         y="278.21326"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Counting </tspan><tspan
+         sodipodi:role="line"
+         x="21.322981"
+         y="283.50491"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4609">Numbers</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4611"
+       cx="21.828115"
+       cy="279.27161"
+       rx="12.567708"
+       ry="7.4083333" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28185686;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4524-7"
+       cx="59.39896"
+       cy="270.54169"
+       rx="17.892405"
+       ry="18.925386" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.26458332;"
+       x="12.7"
+       y="256.25418"
+       id="text840"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="12.7"
+         y="259.79453"
+         style="stroke-width:0.26458332;font-size:4.23333333px;fill:#000000;fill-opacity:0;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.322981"
+       y="257.3125"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="21.322981"
+         y="257.3125"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Rational</tspan><tspan
+         sodipodi:role="line"
+         x="21.322981"
+         y="262.60416"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan846">Numbers</tspan></text>
+  </g>
+</svg>
