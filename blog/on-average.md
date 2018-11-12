@@ -5,7 +5,7 @@
 **Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/rr2oUo.jpg" alt="drawing" width="450px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/34xnA8.jpg" alt="drawing" width="450px"/>
 </center>
 
 How often do you think about averages? In my case, there isn't a day that goes by in which I don't think about some sort of "average". However, when I do so, I seldom have a specific mathematical concept in mind. Instead I think about the average representing a "typical value". 
