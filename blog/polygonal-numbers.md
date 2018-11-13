@@ -5,7 +5,7 @@
 **Phillip Isaac**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="450px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/DF32Zc.jpg" alt="drawing" width="250px"/>
 </center>
  
 You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns. Here we look at mathematics relating to _polygonal numbers_, sometimes also known as _figurate numbers_.
@@ -24,7 +24,7 @@ Do you notice any patterns in this sequence? One that stands out is the differen
 
 $28 = 1 + 2 + 3 + 4 + 5 + 6 + 7.$
 
-Enter Carl Friedrich Gauss. Gauss was a famous German mathematician whose work has made a huge impact on modern mathematics and physics. As a child in the 18th century, he was notoriously precocious. One story tells of a frustrated school teacher who instructed a misbehaving Carl Gauss to add all the numbers from $1$ to $100$, in order to keep the child occupied for quite some time. Unfortunately for the teacher, the young Gauss devised the following shortcut.
+Enter <a href="https://epsilonstream.com/topic/gaussMathematician"> Carl Friedrich Gauss</a>. Gauss was a famous German mathematician whose work has made a huge impact on modern mathematics and physics. As a child in the 18th century, he was notoriously precocious. One story tells of a frustrated school teacher who instructed a misbehaving Carl Gauss to add all the numbers from $1$ to $100$, in order to keep the child occupied for quite some time. Unfortunately for the teacher, the young Gauss devised the following shortcut.
 
 The sum of the numbers, $T$, can be written in two ways:
        
