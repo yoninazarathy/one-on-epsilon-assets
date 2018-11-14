@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70737049"
-     inkscape:cx="-438.46093"
-     inkscape:cy="38.801535"
+     inkscape:zoom="1.7469907"
+     inkscape:cx="-87.271247"
+     inkscape:cy="162.65087"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,12 +56,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="14.775838"
+       x="13.188339"
        y="262.05386"
        id="text4522"><tspan
          sodipodi:role="line"
          id="tspan4520"
-         x="14.775838"
+         x="13.188339"
          y="262.05386"
          style="font-size:4.93888903px;stroke-width:0.26458332">Real Numbers</tspan></text>
     <text
@@ -105,30 +105,30 @@
          id="flowPara4599">Integer</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="6.7410135"
+       x="7.970305"
        y="280.80804"
        id="text4603"><tspan
          sodipodi:role="line"
          id="tspan4601"
-         x="6.7410135"
+         x="7.970305"
          y="280.80804"
          style="font-size:4.23333311px;stroke-width:0.26458332">Integers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="15.086144"
+       x="15.764144"
        y="287.52271"
        id="text4607"><tspan
          sodipodi:role="line"
-         id="tspan4605"
-         x="15.830285"
+         x="15.764144"
          y="287.52271"
-         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Counting </tspan><tspan
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4609">Natural</tspan><tspan
          sodipodi:role="line"
-         x="15.086144"
+         x="15.764144"
          y="292.81436"
          style="font-size:4.23333311px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan4609">Numbers</tspan></text>
+         id="tspan35">Numbers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.26458332"
@@ -143,16 +143,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="15.178429"
+       x="16.078064"
        y="268.14087"
        id="text844"><tspan
          sodipodi:role="line"
          id="tspan842"
-         x="15.178429"
+         x="16.078064"
          y="268.14087"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Rational</tspan><tspan
          sodipodi:role="line"
-         x="15.178429"
+         x="16.078064"
          y="273.43253"
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
          id="tspan846">Numbers</tspan></text>
@@ -170,7 +170,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2527158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 30.638358,263.73667 v 32.744"
+       d="m 30.738358,263.73667 v 32.744"
        id="path859"
        inkscape:connector-curvature="0" />
     <rect
@@ -178,14 +178,19 @@
        id="rect863"
        width="24"
        height="20"
-       x="3.1828752"
+       x="3.8829999"
        y="274.57828" />
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect865"
        width="21"
        height="10"
-       x="4.7049999"
+       x="5.3829999"
        y="283.63376" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.182875,274.57828 Z"
+       id="path37"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
