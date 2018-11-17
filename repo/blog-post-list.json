@@ -401,6 +401,102 @@
             "handle": "nov-2018-editors-picks",
             "url": "https://es-app.com/blog/nov-2018-editors-picks.md",
             "imageUrl": ""
+        },
+        { 
+            "title":"October 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "oct-2018-editors-picks",
+            "url": "https://es-app.com/blog/oct-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"September 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "sep-2018-editors-picks",
+            "url": "https://es-app.com/blog/sep-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"August 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "aug-2018-editors-picks",
+            "url": "https://es-app.com/blog/aug-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"July 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "jul-2018-editors-picks",
+            "url": "https://es-app.com/blog/jul-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"June 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "jun-2018-editors-picks",
+            "url": "https://es-app.com/blog/jun-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"May 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "may-2018-editors-picks",
+            "url": "https://es-app.com/blog/may-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"April 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "apr-2018-editors-picks",
+            "url": "https://es-app.com/blog/apr-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"March 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "mar-2018-editors-picks",
+            "url": "https://es-app.com/blog/mar-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"February 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "feb-2018-editors-picks",
+            "url": "https://es-app.com/blog/feb-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"January 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "jan-2018-editors-picks",
+            "url": "https://es-app.com/blog/jan-2018-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"December 2017 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "dec-2017-editors-picks",
+            "url": "https://es-app.com/blog/dec-2017-editors-picks.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"November 2017 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "nov-2017-editors-picks",
+            "url": "https://es-app.com/blog/nov-2017-editors-picks.md",
+            "imageUrl": ""
         }
     ],
     "news": [
