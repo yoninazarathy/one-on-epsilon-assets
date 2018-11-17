@@ -393,7 +393,25 @@
             "imageUrl": "https://es-app.com/assets/3hFFab.png" 
         }
     ],
+    "curious": [
+        { 
+            "title":"November 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "nov-2018-editors-picks",
+            "url": "https://es-app.com/blog/nov-2018-editors-picks.md",
+            "imageUrl": ""
+        }
+    ],
     "news": [
+        { 
+            "title":"Celebrating a Year of Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "celebrating-a-year-of-editors-picks",
+            "url": "",
+            "imageUrl": ""
+        },
         { 
             "title":"Celebrating a Year of Editors' Picks",
             "author":"One on Epsilon Team",
