@@ -501,11 +501,11 @@
     ],
     "news": [
         { 
-            "title":"Celebrating a Year of Editors' Picks",
+            "title":"Introducing: MATH TEACHERS CODE",
             "author":"One on Epsilon Team",
             "publishDate":"",
-            "handle": "celebrating-a-year-of-editors-picks",
-            "url": "",
+            "handle": "introducing-math-teachers-code",
+            "url": "https://es-app.com/blog/introducing-math-teachers-code.md",
             "imageUrl": ""
         },
         { 
@@ -513,7 +513,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "celebrating-a-year-of-editors-picks",
-            "url": "",
+            "url": "https://es-app.com/blog/celebrating-a-year-of-editors-picks.md",
             "imageUrl": ""
         },
         { 
@@ -521,7 +521,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "the-spirit-of-global-math-week",
-            "url": "",
+            "url": "https://es-app.com/blog/the-spirit-of-global-math-week.md",
             "imageUrl": ""
         },
         { 
@@ -529,15 +529,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"Tue, 09 Oct 2018 23:10:32 +0000",
             "handle": "epsilon-stream-and-gmw",
-            "url": "",
-            "imageUrl": ""
-        },
-        { 
-            "title":"Epsilon Stream and Global Math Week",
-            "author":"One on Epsilon Team",
-            "publishDate":"Tue, 09 Oct 2018 23:10:32 +0000",
-            "handle": "epsilon-stream-and-gmw",
-            "url": "",
+            "url": "https://es-app.com/blog/",
             "imageUrl": ""
         },
         { 
@@ -545,7 +537,7 @@
             "author":"Nicholas Bartlett",
             "publishDate":"Tue, 07 Aug 2018 08:40:34 +0000", 
             "handle": "counting-math-on-youtube",
-            "url": "",
+            "url": "https://es-app.com/blog/counting-math-on-youtube.md",
             "imageUrl": ""
         },
         { 
@@ -553,7 +545,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"Sun, 15 Oct 2017 12:20:58 +0000",
             "handle": "more-resources-for-gmw",
-            "url": "",
+            "url": "https://es-app.com/blog/more-resources-for-gmw.md",
             "imageUrl": ""
         },        
         { 
@@ -561,7 +553,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"Thu, 14 Sep 2017 06:26:00 +0000",
             "handle": "get-epsilon-stream-ios",
-            "url": "",
+            "url": "https://es-app.com/blog/get-epsilon-stream-ios.md",
             "imageUrl": ""
         },
         { 
@@ -569,7 +561,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"Sun, 10 Sep 2017 09:24:33 +0000",
             "handle": "incredible-mathematics-on-youtube",
-            "url": "",
+            "url": "https://es-app.com/blog/incredible-mathematics-on-youtube.m",
             "imageUrl": ""
         },
         { 
@@ -577,7 +569,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"Sat, 19 Aug 2017 02:38:09 +0000",
             "handle": "watch-play-and-explore-mathematics",
-            "url": "",
+            "url": "https://es-app.com/blog/watch-play-and-explore-mathematics.md",
             "imageUrl": ""
         },
         { 
@@ -585,7 +577,15 @@
             "author":"One on Epsilon Team",
             "publishDate":"Sun, 23 Jul 2017 12:56:23 +0000",
             "handle": "epsilon-stream-release-2017",
-            "url": "",
+            "url": "https://es-app.com/blog/epsilon-stream-release-2017.md",
+            "imageUrl": ""
+        },
+        { 
+            "title":"Designing-Square-Root-Marbles-for-iOS",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "square-root-marbles-for-ios",
+            "url": "https://es-app.com/blog/square-root-marbles-for-ios.md",
             "imageUrl": ""
         },
         { 
@@ -593,7 +593,7 @@
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "one-on-epsilon-what-is-that",
-            "url": "",
+            "url": "https://es-app.com/blog/one-on-epsilon-what-is-that.md",
             "imageUrl": ""
         }
     ]
