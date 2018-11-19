@@ -1,1 +1,1 @@
-blog post text
+The blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/11/16/11-15-21-30-or-36-possible-outcomes). We are in the process of moving it to the current location.
