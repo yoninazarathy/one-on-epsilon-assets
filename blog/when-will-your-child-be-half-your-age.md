@@ -1,3 +1,5 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/04/01/When-will-your-child-be-half-your-age/). We are in the process of moving it to the current location.
+
 # When will your child be half your age?
 *April 1, 2017*
 

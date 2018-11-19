@@ -1,3 +1,4 @@
+The full blog post is still accessed through [here](). We are in the process of moving it to the current location.
 
 # More Votes but No Victory
 *November 11, 2016*

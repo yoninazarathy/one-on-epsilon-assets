@@ -1,3 +1,5 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/01/20/Why-Burn-Math-Class). We are in the process of moving it to the current location.
+
 
 # Why Burn Math Class?
 *February 3, 2017*

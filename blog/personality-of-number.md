@@ -1,3 +1,5 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/03/25/A-Formula-for-the-Personality-of-a-Number/). We are in the process of moving it to the current location.
+
 
 # A Formula for the Personality of a Number
 *March 25, 2017*

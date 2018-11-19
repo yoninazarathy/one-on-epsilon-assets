@@ -1,3 +1,6 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/07/06/July-2018-Editors-Picks). We are in the process of moving it to the current location.
+
+
 
 # Book Reviews: Julia for Data Science
 *October 26, 2016*

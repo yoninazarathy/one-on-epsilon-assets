@@ -1,1 +1,1 @@
-blog post text
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/06/09/Machines-and-Mathematics-Play-Together). We are in the process of moving it to the current location.

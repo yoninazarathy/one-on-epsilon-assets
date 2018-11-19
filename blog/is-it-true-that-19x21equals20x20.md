@@ -1,3 +1,8 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/02/03/Is-it-true-that-19x21-20x20/). We are in the process of moving it to the current location.
+
+
+
+
 
 # Is it true that 19 x 21 = 20 x 20?
 *February 3, 2017*

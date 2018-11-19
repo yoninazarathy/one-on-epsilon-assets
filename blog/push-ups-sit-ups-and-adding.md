@@ -1,3 +1,5 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2016/11/17/Push-Ups-Sit-Ups-and-Adding-Numbers). We are in the process of moving it to the current location.
+
 
 # Push Ups, Sit Ups and Adding Numbers
 *November 17, 2016*

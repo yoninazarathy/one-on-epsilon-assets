@@ -1,3 +1,8 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/03/18/Is-i-More-Imaginary-than--1/). We are in the process of moving it to the current location.
+
+
+
+
 
 # Is i More Imaginary than -1?
 *March 18, 2017*

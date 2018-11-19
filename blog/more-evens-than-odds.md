@@ -1,3 +1,4 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/03/04/Are-There-More-Evens-Than-Odds/). We are in the process of moving it to the current location.
 
 # Are There More Evens Than Odds?
 *March 4, 2017*

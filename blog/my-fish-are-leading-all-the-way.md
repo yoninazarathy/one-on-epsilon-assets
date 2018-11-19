@@ -1,3 +1,4 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2016/11/08/My-Fish-are-Leading-all-the-Way/). We are in the process of moving it to the current location.
 
 # My Fish are Leading All the Way
 *November 8, 2016*

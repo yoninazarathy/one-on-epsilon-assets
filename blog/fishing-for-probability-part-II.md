@@ -1,3 +1,4 @@
+The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2016/10/31/Fishing-for-Probability-Part-II/). We are in the process of moving it to the current location.
 
 # Fishing for Probability, Part II
 *October 31, 2016*
