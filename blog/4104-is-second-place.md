@@ -1,1 +1,1 @@
-blog post text
+The blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/01/06/4104-is-Second-Place). We are in the process of moving it to the current location.
