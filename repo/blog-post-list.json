@@ -501,6 +501,22 @@
     ],
     "news": [
         { 
+            "title":"Curious Epsilon, Two Years and Counting",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "curious-epsilon-two-years",
+            "url": "https://es-app.com/blog/curious-epsilon-two-years.md",
+            "imageUrl": "https://es-app.com/assets/cucu32.jpg"
+        },
+        { 
+            "title":"Introducing: MATH TEACHERS CODE",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "introducing-math-teachers-code",
+            "url": "https://es-app.com/blog/introducing-math-teachers-code.md",
+            "imageUrl": "https://es-app.com/assets/mtcmtc.jpg"
+        },
+        { 
             "title":"Introducing: MATH TEACHERS CODE",
             "author":"One on Epsilon Team",
             "publishDate":"",
