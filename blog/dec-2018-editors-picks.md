@@ -1,7 +1,12 @@
 # December 2018 Editors' Picks
 
 **One on Epsilon Team**
-Welcome to our December 2018 Editors' Picks. 
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/dicem3.jpg" alt="drawing" width="250px"/>
+</center> 
+
+Welcome to our December 2018 Editors' Picks. Here we share with you some of the neat mathematics videos that we came across during the past month...
 
 1. https://epsilonstream.com/video/ql8b8y/ 
 If you look for something inspiring, Standupmaths never fails to surprise you. 
