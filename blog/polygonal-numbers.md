@@ -20,7 +20,7 @@ Let’s start with the triangle. If you draw an [equilateral triangle](https://e
 
 How many dots are there with each iteration? Proceeding in this way, we generate a [sequence](https://epsilonstream.com/topic/sequence) of positive integers. Note that we start at $1$, which can be thought of as the trivial triangle, i.e. where the shape collapses to a single point. The result is the sequence of the **triangular numbers**:  
 
-$1, 3, 6, 10, 15, 21, 28, 36, \ldots$
+$1, 3, 6, 10, 15, 21, 28, 36, 45, \ldots$
 
 Do you notice any patterns in this sequence? One that stands out is the difference of each consecutive number, given by $2, 3, 4, 5, 6, 7, \ldots$ In other words, each of these numbers is the sum of consecutive integers. For example, 
 
