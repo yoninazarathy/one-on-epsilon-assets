@@ -8,7 +8,7 @@
 
 Welcome to our December 2018 Editors' Picks. Here we share with you some neat mathematics videos we came across during the past month.
 
--
+---
 
 **THE SCUTOID: did scientists discover a new shape?** by *[standupmaths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A)*:
 If you are looking for something inspiring, Standupmaths always delivers. 
@@ -22,7 +22,7 @@ Check out this video to explore shapes that extend beyond the classroom and an e
 	</center> 
 </a>
 
--
+---
 
 **Powers of Ten™ (1977)** by *[Eames Office](https://www.youtube.com/channel/UCCRa-wycVfgh1ctaKaD0BeQ)*:  You may know what $10^6$ equals, but can you appreciate the magnitude of $10^6$? How much is $10^6$ dollars? How long is $10^6$ meters?
 What about $10^{-6}$? How can you conceptualize that?
@@ -35,7 +35,7 @@ You can see the change in size that the power of ten represents, which is quite 
 	</center> 
 </a>
 
--
+---
 
 **Spidermath** by *[Vihart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg)*: Vihart has an amazing ability to take something seemingly trivial and use it to stretch the brain as much as possible.  In this video, the maths thoughts come from the discovery of a spider web. It is surprising to see how a common scene in daily life can extend to a wider field of knowledge.
 Whether it's about a vortex or a 4D torus, you will get caught up in the web of knowledge.
@@ -46,6 +46,6 @@ Whether it's about a vortex or a 4D torus, you will get caught up in the web of 
 	</center> 
 </a>
 
--
+---
 
 Which of these is your favorite? We're sure these videos got you thinking. What about? [Let us know](https://oneonepsilon.com/contact/).
