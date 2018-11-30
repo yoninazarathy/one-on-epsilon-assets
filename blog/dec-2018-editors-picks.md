@@ -1,6 +1,7 @@
 # December 2018 Editors' Picks
 
-*One on Epsilon Team*
+**One on Epsilon Team**
+Welcome to our December 2018 Editors' Picks. 
 
 1. https://epsilonstream.com/video/ql8b8y/ 
 If you look for something inspiring, Standupmaths never fails to surprise you. 
