@@ -395,6 +395,14 @@
     ],
     "picks": [
         { 
+            "title":"December 2018 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "dec-2018-editors-picks",
+            "url": "https://es-app.com/blog/dec-2018-editors-picks.md",
+            "imageUrl": "https://es-app.com/assets/QQQQ.jpg"
+        },
+        { 
             "title":"November 2018 Editors' Picks",
             "author":"One on Epsilon Team",
             "publishDate":"",
