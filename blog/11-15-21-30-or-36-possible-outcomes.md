@@ -44,7 +44,6 @@ There are 6 possible outcomes for the first colour and 6 possible outcomes for t
 
 In this case, you may write out all the possibilities and count that there are 15. These would be
 
-<center>
 $
 \begin{array}{c}
 \{1, 2\}, \{1, 3\}, \{1, 4\}, \{1, 5\}, \{1, 6\},\\
@@ -54,7 +53,6 @@ $
 \{5, 6\}. \\
 \end{array}
 $
-</center>
  
 Yes, you can count, but you can also think of it this way: Consider the case of 30 above where, for example, the pair $(3, 5)$ and the pair $(5, 3)$ came from different outcomes. The former came from a 3 for the green and 5 for the yellow and the latter came for 5 for the yellow and 3 for the green. Now in the current case where both dice have the same colour we cannot distinguish between $(3, 5)$ and $(5, 3)$. Instead we just denote this outcome by $\{3, 5\}$ agreeing that the curly braces imply that order doesn't matter. Then for every two outcomes in the former case there is a single outcome in the latter case and that is why we divide 30 by 2 to get 15.
 
@@ -62,12 +60,10 @@ Yes, you can count, but you can also think of it this way: Consider the case of 
 
 **The answer 21:** In many ways, I believe that this is the "best" answer to the question posed at the start of this blog post. That is, if you don't specify anything else and ask me: "How many possible outcomes are there in a toss of 2 dice?" then I will say 21! This is the case where the dice are indistinguishable (e.g. both red) just like in the case above. Further, there isn't any problem with getting a "double". Hence take the count of the previous case and add the 6 additional possibilities:
 
-<center>
 $
 \{1, 1\}, \{2, 2\}, \{3, 3\},
 \{4, 4\}, \{5, 5\}, \{6, 6\}.
 $
-</center>
 
 Then $15 + 6 = 21$ and there are $21$ possible outcomes. 
 
