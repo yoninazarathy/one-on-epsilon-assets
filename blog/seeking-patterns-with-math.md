@@ -29,7 +29,7 @@ If math is the science of finding patterns, then how do we actually find them? W
 In this blog, we will use the deductive method to help us solve the following puzzle:
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/blog-assets/seeking-patterns-with-math-image2.png" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/blog-assets/seekingPatternsWithMathImage2.png" alt="drawing" width="250px"/>
 </center>
 
 In the above diagram, we have two primary shapes: a quarter circle with a radius, $r$, of length $6$ inches, and a rectangle inscribed inside the quarter circle whose side lengths of $x$ and $y$ add up to $8$ inches. The problem is to find the area of the white triangle.
