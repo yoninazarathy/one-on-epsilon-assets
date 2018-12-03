@@ -20,4 +20,14 @@ In a short ten minute [Numberphile](https://www.numberphile.com/) video [James G
 
 [Encryption and HUGE numbers - Numberphile](https://epsilonstream.com/video/w1tn50)
 
- 
+If math is the science of finding patterns, then how do we actually find them? Well, there may be many avenues; here, let’s consider two popular themes:
+
+1) **Induction**: we find a new or a unique rule that helps explain the pattern.
+
+2) **Deduction**: we use other existing patterns to help uncover the new pattern.
+
+In this blog, we will use the deductive method to help us solve the following puzzle:
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/blog-assets/seeking-patterns-with-math-image2.png" alt="drawing" width="250px"/>
+</center>
