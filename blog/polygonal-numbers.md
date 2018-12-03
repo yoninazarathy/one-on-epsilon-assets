@@ -12,7 +12,7 @@ Do you have a favourite pattern? In fact, what is the first thing that comes to 
 
 You may have read several of our blog posts that suggest that mathematics is, more or less, the study of patterns (e.g. [Seeking Patterns with Math](https://www.1onepsilon.com/single-post/2017/07/15/Seeking-Patterns-with-Math)). Such an endeavour can help us to identify and classify different mathematical structures, which ultimately leads us to a deeper understanding of mathematics as an art, a science, and a tool. In this blog post, we look at mathematics relating to **polygonal numbers**, sometimes also known as **figurate numbers**.
 
-Let’s start with the triangle. If you draw an [equilateral triangle](https://epsilonstream.com/topic/equilateralTriangle) and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this process as in the following diagram:  
+Let’s start with the triangle. If you draw an [equilateral triangle](https://epsilonstream.com/topic/equilateraltriangle) and mark the vertices as dots, there are three dots. Now extend two adjacent edges, and make a bigger triangle. Iterate this process as in the following diagram:  
 
 <center>
  <img src="https://es-app.com/blog-assets/TriangularNumbers.png" alt="drawing" style="max-width:100%;" />
