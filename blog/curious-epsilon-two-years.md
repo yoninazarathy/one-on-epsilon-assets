@@ -2,7 +2,7 @@
 
 *November 24, 2018*
 
-**Yoni Nazarathy**
+**One on Epsilon Team**
 
 <center>
  <img class = "blog-inline-image" src="https://es-app.com/assets/cucu32.jpg" alt="drawing" width="250px"/>
@@ -18,6 +18,8 @@ There are currently 45 Curious Epsilon blog posts dealing with a variety of subj
 
 When we create a blog post, the main author(s) receives feedback from the rest of the team. We love the collaboration and love learning from one another. Our blog post creation process also parallels our main content activity: curation for [Epsilon Stream](https://oneonepsilon.com/epsilonstream). This free platform aims to answer anything in primary, secondary and exploratory mathematics by delivering a concise hand picked collection of content selected by our team. Search for anything in Epsilon Stream and you'll get descriptions, YouTube videos and our [Curious Epsilon](https://epsilonstream.com/topic/oneonepsilonblog) blog posts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7zZhs3nMYKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="250px" src="https://www.youtube.com/embed/7zZhs3nMYKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 Is there a specific topic that you would like to see in a Curious Epsilon post? We have written about numbers, geometry, statistics, combinatorics, applied maths, open problems and more. There is always more to say. [Let us know](https://oneonepsilon.com/contact/). 
