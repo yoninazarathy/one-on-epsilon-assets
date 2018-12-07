@@ -432,7 +432,7 @@
             "publishDate":"",
             "handle": "aug-2018-editors-picks",
             "url": "https://es-app.com/blog/aug-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/ffF2ax.jpg"
         },
         { 
             "title":"July 2018 Editors' Picks",
@@ -440,7 +440,7 @@
             "publishDate":"",
             "handle": "jul-2018-editors-picks",
             "url": "https://es-app.com/blog/jul-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/6dXV10.jpg"
         },
         { 
             "title":"June 2018 Editors' Picks",
@@ -448,7 +448,7 @@
             "publishDate":"",
             "handle": "jun-2018-editors-picks",
             "url": "https://es-app.com/blog/jun-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/ue8mx3.jpg"
         },
         { 
             "title":"May 2018 Editors' Picks",
@@ -456,7 +456,7 @@
             "publishDate":"",
             "handle": "may-2018-editors-picks",
             "url": "https://es-app.com/blog/may-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/jdvza3.jpg"
         },
         { 
             "title":"April 2018 Editors' Picks",
@@ -464,7 +464,7 @@
             "publishDate":"",
             "handle": "apr-2018-editors-picks",
             "url": "https://es-app.com/blog/apr-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/sh35i2.jpg"
         },
         { 
             "title":"March 2018 Editors' Picks",
@@ -472,7 +472,7 @@
             "publishDate":"",
             "handle": "mar-2018-editors-picks",
             "url": "https://es-app.com/blog/mar-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/d2VBA2.jpg"
         },
         { 
             "title":"February 2018 Editors' Picks",
@@ -480,15 +480,15 @@
             "publishDate":"",
             "handle": "feb-2018-editors-picks",
             "url": "https://es-app.com/blog/feb-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/qq93v2.jpg"
         },
         { 
-            "title":"January 2018 Editors' Picks",
+            "title": "January 2018 Editors' Picks",
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "jan-2018-editors-picks",
             "url": "https://es-app.com/blog/jan-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/cn3zh2.jpg"
         },
         { 
             "title":"December 2017 Editors' Picks",
@@ -496,7 +496,7 @@
             "publishDate":"",
             "handle": "dec-2017-editors-picks",
             "url": "https://es-app.com/blog/dec-2017-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/9dax39.jpg"
         },
         { 
             "title":"November 2017 Editors' Picks",
@@ -504,7 +504,7 @@
             "publishDate":"",
             "handle": "nov-2017-editors-picks",
             "url": "https://es-app.com/blog/nov-2017-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/2319us.png"
         }
     ],
     "news": [
@@ -546,7 +546,7 @@
             "publishDate":"",
             "handle": "celebrating-a-year-of-editors-picks",
             "url": "https://es-app.com/blog/celebrating-a-year-of-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/pix18a.jpg"
         },
         { 
             "title":"The Spirit of Global Math Week",
@@ -554,7 +554,7 @@
             "publishDate":"",
             "handle": "the-spirit-of-global-math-week",
             "url": "https://es-app.com/blog/the-spirit-of-global-math-week.md",
-            "imageUrl": "https://es-app.com/assets/45sxj3.jpg"
+            "imageUrl": "https://es-app.com/assets/73dfnm.jpg"
         },
         { 
             "title":"Epsilon Stream and Global Math Week",
@@ -570,7 +570,7 @@
             "publishDate":"Tue, 07 Aug 2018 08:40:34 +0000", 
             "handle": "counting-math-on-youtube",
             "url": "https://es-app.com/blog/counting-math-on-youtube.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/45sxj3.jpg"
         },
         { 
             "title":"More Resources for Global Math Week",
