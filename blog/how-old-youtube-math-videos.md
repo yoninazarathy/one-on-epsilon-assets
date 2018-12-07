@@ -1,1 +1,11 @@
-The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/08/07/Counting-Mathematics-on-Youtube). We are in the process of moving it to the current location.
+# How Old are YouTube Mathematics Videos? 
+
+*June 23, 2018*
+
+**Nicholas Bartlett and Yoni Nazarathy**
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="250px"/>
+</center> 
+
+Coming soon....
