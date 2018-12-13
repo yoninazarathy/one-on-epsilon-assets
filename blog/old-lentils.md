@@ -6,7 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 **Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/ju3s14.png" alt="drawing" width="250px"/>
 </center> 
 
 Do you keep a jar of lentils? Lentils are those little lens-bean looking things that often mix so well with rice and other ingredients to make tasty and healthy meals. How old are the lentils in your jar?

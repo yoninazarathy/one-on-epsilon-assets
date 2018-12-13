@@ -1,5 +1,5 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/04/07/Guessing-in-Multiple-Choice-Exams---Part-I). We are in the process of moving it to the current location.
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/32uic2.png" alt="drawing" width="250px"/>
 </center> 

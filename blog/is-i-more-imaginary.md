@@ -6,7 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 **Inna Lukyanenko and Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/PP0032.png" alt="drawing" width="250px"/>
 </center> 
 
 Is the number 5 imaginary? Look at the 5 fingers on your left hand. You don't need to imagine them, you can see them. So unless all that we experience is a big dream, 5 probably isn't imaginary, it exists.

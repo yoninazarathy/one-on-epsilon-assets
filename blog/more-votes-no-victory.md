@@ -6,7 +6,7 @@ The full blog post is still accessed through [here](). We are in the process of 
 **Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/hk7e99.jpg" alt="drawing" width="250px"/>
 </center> 
 
 Last evening in Australia, my three children were with me at my place. Often during these evenings together, I try to entertain them with mind games, jokes, stories and the like (not to mention Square Root Marbles competitions). But yesterday I just wasn't the same engaging father that I aspire to be. Instead, I was mostly stuck to the computer screen, closely following the news and analysis of Mr. Trump's success.
