@@ -3,11 +3,13 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Are There More Evens Than Odds?
 *March 4, 2017*
 
-
 *Yoni Nazarathy**
 
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
 
- 
+
 
 Before you rush to answer, please consider my claim: Asking this question is just as important as answering. Indeed, a central goal of many of our blog posts is to empower parents and educators with basic ideas and knowledge for guiding children through mathematical exploration.
 

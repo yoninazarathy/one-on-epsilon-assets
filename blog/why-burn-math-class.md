@@ -4,10 +4,9 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Why Burn Math Class?
 *February 3, 2017*
 
-
 **Yoni Nazarathy**
 
-![blogLogoImage](https://es-app.com/assets/dch5fH.png)
+![blogLogoImage](https://es-app.com/assets/dch5fH.png) 
 
 “Mathematics has been stolen from us, and it is time we take it back.” – You’ll find this on page 2 of Burn Math Class and Reinvent Mathematics for Yourself, an incredible Book by Jason Wilkes. Has mathematics really been stolen from us? I am not sure. But for me, one thing is certain, this enlightening book goes a long way in presenting the beauty of mathematics in a manner that is perhaps accessible to anyone who is willing to read and think. No prior knowledge is needed.
 

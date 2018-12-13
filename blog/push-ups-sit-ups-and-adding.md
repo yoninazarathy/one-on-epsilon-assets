@@ -4,11 +4,11 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Push Ups, Sit Ups and Adding Numbers
 *November 17, 2016*
 
-
 **Yoni Nazarathy**
 
-
- 
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
 
 There are 45 days left until the end of 2016. Do you want to do something meaningful in that time? So many options come to mind. One possibility is to start a simple incremental core strength training program.
 

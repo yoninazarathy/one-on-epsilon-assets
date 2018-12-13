@@ -3,8 +3,11 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # My Fish are Leading All the Way
 *November 8, 2016*
 
-
 **Yoni Nazarathy**
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
 
 An important event is taking place today: The US elections. Americans will vote and the world will soon find out who is destined to be the next American president. The first woman ever to do so, Hillary Clinton; or alternatively Mr. Trump.
 

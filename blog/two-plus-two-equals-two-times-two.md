@@ -4,9 +4,11 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Two Plus Two Equals Two Times Two
 *November 2, 2016*
 
-
 **Yoni Nazarathy**
 
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
 
 You know that 2 + 2 = 4 right? A six year old child probably knows this too.
 

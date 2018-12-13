@@ -23,3 +23,7 @@ When we create a blog post, the main author(s) receives feedback from the rest o
 </center>
 
 Is there a specific topic that you would like to see in a Curious Epsilon post? We have written about numbers, geometry, statistics, combinatorics, applied maths, open problems and more. There is always more to say. [Let us know](https://oneonepsilon.com/contact/). 
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/cucu32.jpg" alt="drawing" width="250px"/>
+</center> 

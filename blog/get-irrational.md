@@ -4,9 +4,11 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Get Irrational, Impress Your Kids
 *February 25, 2017*
 
-
 **Yoni Nazarathy**
 
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/983vzA.png" alt="drawing" width="250px"/>
+</center> 
 
  
 

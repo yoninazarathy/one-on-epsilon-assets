@@ -1,11 +1,13 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/07/06/July-2018-Editors-Picks). We are in the process of moving it to the current location.
 
-
-
 # Book Reviews: Julia for Data Science
 *October 26, 2016*
 
 **Yoni Nazarathy**
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
 
 Data Science is clearly a hot area, and so is Julia. Maybe you haven’t heard about the programming language Julia? It is a high level dynamic programming language, designed to be both fast and flexible from the start. Fast, means having (almost) comparable performance to C. Flexible, means that it feels like a scripting language (but it is Just-In-Time compiled). Julia has mechanisms and libraries in place to carry out data scientific and numerical tasks similarly to R or Python (NumPy). Indeed, after following the Julia language for the past few months, I am quite convinced that it is a revolutionary tool in scientific computing; it is here to stay.
 

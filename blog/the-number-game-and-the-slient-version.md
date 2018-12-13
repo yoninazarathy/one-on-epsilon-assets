@@ -1,15 +1,13 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/01/09/The-Number-Game-and-the-Silent-Version). We are in the process of moving it to the current location.
 
-
 # The Number Game and the Silent Version
 *January 9, 2017*
 
-
 **Yoni Nazarathy**
 
-
- 
-
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/QQQQ.jpg" alt="drawing" width="250px"/>
+</center> 
  
 
 My kids and I love playing verbal games. These include "Guess the person", "I spy with my little eye" and other general types of trivia games. Such games are great to play while driving, sitting in public transport or waiting in a queue at a doctor's office. This genre of games also features the "Number Game", a rather simple home brewed, verbal arithmetic game, that quickly becomes exciting and challenging. 

@@ -3,8 +3,11 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Fishing for Probability, Part I
 *October 28, 2016*
 
-
 **Yoni Nazarathy**
+
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/3hFFab.png" alt="drawing" width="250px"/>
+</center> 
 
 So you want to explain probability to your child? Or maybe you want to understand it a bit more yourself? Consider this example. I've done it with a class of 10 year olds before and they seemed very receptive.
 

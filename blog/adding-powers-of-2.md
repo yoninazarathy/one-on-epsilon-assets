@@ -6,6 +6,10 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yoni Nazarathy**
 
+<center>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/vmK21a.png" alt="drawing" width="250px"/>
+</center> 
+
 
 Have a look at this equation:
 
