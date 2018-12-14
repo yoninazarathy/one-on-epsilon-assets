@@ -23,7 +23,9 @@ For this month, we thought to present you with a slightly more refined view. How
 This graph illustrates the age distribution of videos watched during November 2018. 
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/blog-assets/squareNums1.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="300px"/>
 </center> 
 
-According to our estimate, there were 4.25 Million hours viewed, 
+According to our estimate, there were 4.25 Million hours viewed. But what was viewed? How old was it? Well, as the graph shows, a good part of what was viewed is videos from the past 5 years with roughly a uniform distribution over the past 5 years?
+
+Do you have any insights from this data? Do you have any specific questions that you'd like to find out? [let us know](https://oneonepsilon.com/contact/).
