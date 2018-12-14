@@ -1,4 +1,4 @@
-# Do Mathematics YouTube Videos Age Well?  
+# How do Mathematics Videos Age?  
 
 *June 23, 2018*
 
@@ -7,23 +7,26 @@
 <center>
  <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="250px"/>
 </center> 
+<br>
 
-Mathematics on YouTube is big business. There are hundreds of channels and tens of thousands of videos. You can search for "volume of parallepeiod", "how to divide fractions" or even for "are there more irrational numbers than rationals". Key such things in YouTube and you get an array of videos, many of which are great.
+In its purest form, mathematics does not age. You can consider mathematics results and discoveries from centuries ago and they are still very relvant today. As the field is based on clean axioms and logical deductions, what was true and relevant hundreds or thousands of years ago, remains true and relevant today.
 
-Our Free Epsilon Stream App refines the experience. If you search for such terms in our App, you will not be bombarded by dozens of results, you will rather get a short response with content that we ensure is right for your query. 
+How about mathematics videos? After all, mathematics on YouTube is big business. There are dozens of quality channels and tens of thousands of videos. Infact, there is so much quality stuff out there that it drove us to create [Epsilon Stream](https://epsilonstream.com). 
 
-To get this to you, much of what we do is curate content. We watch it, sort it and make sure that the best content for the right queries appears in Epsilon Stream. Some of the process involves automation, however most of it relies on the experience of our content team. A group of mathematicians, parents and educators.
+Back to the question: Do Mathematics videos age? That is, are older mathematics videos loosing relevance? Our answer is no. Read on to see why.
 
 ---
 
-Nevertheless, the main supply of content for Epsilon Stream is YouTube and for this we continuously track the content of YouTube mathematics channels. Every month we update our estimate of the number of hours of mathematics watched on YouTube during the past month. This number typically lies at a value between 4 Million hours and 5 Million hours! That is a-lot of math.
+At One on Epsilon, we continously follow YouTube mathematics content and include the most relevant content that we find in Epsilon Stream. A good part of the process involves the expertise of our [content team](), however some aspects of the process are automated. For this process, we continously track YouTube mathematics videos from dozens of channels. 
 
-For this month, we thought to present you with a slightly more refined view. How old is the mathematics content consumed via YouTube?
+As a side product, every month we update our estimate of the number of hours of mathematics watched on YouTube during the past month. This number typically lies at a value between 4 Million hours and 5 Million hours! That is a-lot of math - and that is in English alone.
+
+For the month of November, there were 4.25 million hours of mathematics video views. If you are interested in the method we used 
 
 This graph illustrates the age distribution of videos watched during November 2018. 
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="300px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="450px"/>
 </center> 
 
 According to our estimate, there were 4.25 Million hours viewed. But what was viewed? How old was it? Well, as the graph shows, a good part of what was viewed is videos from the past 5 years with roughly a uniform distribution over the past 5 years?
