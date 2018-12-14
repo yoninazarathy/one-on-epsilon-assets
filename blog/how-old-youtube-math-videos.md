@@ -5,13 +5,13 @@
 **Nicholas Bartlett and Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="350px"/>
 </center> 
 <br>
 
 Do mathematics result age and become obsolete? The pure answer is generally "no".  As the field is based on clean axioms and logical deductions, what was true hundreds or thousands of years ago, remains true today.
 
-How about mathematics videos? After all, mathematics on YouTube is big business. There are dozens of quality channels and tens of thousands of videos. Do Mathematics videos age? That is, are older mathematics videos loosing relevance? Read on...
+How about mathematics videos? After all, mathematics on YouTube is big business. There are dozens of [quality channels](https://epsilonstream.com/topic/channels) and tens of thousands of videos. Do Mathematics videos age? That is, are older mathematics videos loosing relevance? Read on...
 
 ---
 
@@ -40,3 +40,6 @@ Yes, mathematics has existed in human knowledge for thousands of years and YouTu
 ---
 
 Do you have any insights from this data? Or maybe any specific questions that you'd like to pose? [let us know](https://oneonepsilon.com/contact/).
+
+<br>
+<br>
