@@ -5,7 +5,7 @@
 **Nicholas Bartlett and Yoni Nazarathy**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="350px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="70%"/>
 </center> 
 <br>
 
@@ -27,7 +27,8 @@ To answer this we analyzed the data, considering the number of views per quarter
 
 <br>
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="450px"/>
+
+<a href="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png"> <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="100%"/></a>
 </center> 
 <br>
 
