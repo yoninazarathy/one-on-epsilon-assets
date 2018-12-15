@@ -5,7 +5,7 @@
 **One on Epsilon Team**
 
 <center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/cucu32.jpg" alt="drawing" width="250px"/>
+ <img class = "blog-inline-image" src="https://es-app.com/assets/cucu32.jpg" alt="drawing" width="70%"/>
 </center> 
 
 We started creating our mathematical blog posts two years ago and we continue up to this day with the overarching theme of Nurturing Mathematical Curiosity. A few months ago we separated our weekly blog posts into the main series [Curious Epsilon](https://epsilonstream.com/topic/oneonepsilonblog), [Editors' Picks](https://epsilonstream.com/topic/awesomevideos) and [One on Epsilon News](https://epsilonstream.com/topic/oneonepsilonnews). These are all accessible from our [landing page](https://oneonepsilon.com) or from [Epsilon Stream](https://oneonepsilon.com/epsilonstream) and updates are sent to those who are [registered](https://oneonepsilon.com/register/) with us.  
@@ -23,7 +23,3 @@ When we create a blog post, the main author(s) receives feedback from the rest o
 </center>
 
 Is there a specific topic that you would like to see in a Curious Epsilon post? We have written about numbers, geometry, statistics, combinatorics, applied maths, open problems and more. There is always more to say. [Let us know](https://oneonepsilon.com/contact/). 
-
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/cucu32.jpg" alt="drawing" width="250px"/>
-</center> 
