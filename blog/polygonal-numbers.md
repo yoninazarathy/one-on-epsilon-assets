@@ -112,7 +112,7 @@ If you can, try to verify some of the following results by drawing pictures of g
 
 Here is where you can let your inner mathematician roam free. What patterns do you notice in this table? How about the differences across each row? Are there any interesting patterns down diagonal entries? Could you apply the Gauss idea to find a formula for the $n$th entry in each column? (We have already worked out a formula for columns $p=3$, $p=4$ and $p=5$). 
 
-![](https://es-app.com/blog-assets/ladyReadingBook.png){.blog-image-inline-small}
+![](https://es-app.com/blog-assets/ladyReadingBook.jpg){.blog-image-inline-small}
 
 Could you work out a formula for arbitrary $p$? Here is the big challenge: Is it possible to reproduce a similar table for number sequences related to three-dimensional [polyhedra](https://epsilonstream.com/topic/polyhedron)? Are there any restrictions on the numbers of edges or faces in this case? 
 
