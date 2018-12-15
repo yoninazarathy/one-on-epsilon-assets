@@ -40,7 +40,7 @@ Therefore $T = 10100/2 = 5050.$ It turns out this is a triangular number.
 
 In fact, thanks to the young _Carl Gauss_, we can see that every triangular number can be written in a similar form. Actually, the $n$th triangular number is given by the formula $(n+1)n/2$. Here we are using the typical mathematician’s place holder of "$n$" as an integer variable. For example, if $n=1$, then “$n$th” or “$1$th” is read as “first”. If $n=2$, “$n$th” or “$2$th” is understood as “second”,  “$5$th” as fifth, and so on. We then just replace $n$ in the formula for the actual number. Try it: 
 
-$28 = (8 \times 7)/2,$ 
+$$28 = (8 \times 7)/2,$$ 
 
 $$36 = (9 \times 8)/2,$$
 
