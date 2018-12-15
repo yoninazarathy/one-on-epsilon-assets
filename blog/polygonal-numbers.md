@@ -50,7 +50,7 @@ Here’s an idea: Can we extend this to other regular [polygons](https://epsilon
 
 Try applying a similar principle in drawing squares with growing lengths (again, starting at $1$), as we did the triangles. A picture would develop something like this:
 
-![](https://es-app.com/blog-assets/SquareNumbers.png){.blog-image-inline-full}
+[![](https://es-app.com/blog-assets/SquareNumbers.png){.blog-image-inline-full}](https://es-app.com/blog-assets/SquareNumbers.png)
 
 The number of dots in each iteration give the square numbers:
 
