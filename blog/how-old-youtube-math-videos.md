@@ -1,6 +1,6 @@
 # How do Mathematics Videos Age?  
 
-*June 23, 2018*
+*December 15, 2018*
 
 **Nicholas Bartlett and Yoni Nazarathy**
 
