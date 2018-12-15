@@ -9,15 +9,15 @@
 </center> 
 <br>
 
-Do mathematics result age and become obsolete? The pure answer is generally "no".  As the field is based on clean axioms and logical deductions, what was true hundreds or thousands of years ago, remains true today.
+Do mathematics theorems age and become obsolete? Generally "no".  As the field is based on axioms and logical deductions, what was true hundreds or thousands of years ago, remains true today.
 
-How about mathematics videos? After all, mathematics on YouTube is big business. There are dozens of [quality channels](https://epsilonstream.com/topic/channels) and tens of thousands of videos. Do Mathematics videos age? That is, are older mathematics videos loosing relevance? Read on...
+How about mathematics videos? After all, mathematics on YouTube is big business. There are dozens of [quality channels](https://epsilonstream.com/topic/channels) and tens of thousands of videos. Do mathematics videos age? Are older mathematics videos loosing relevance? 
 
 ---
 
-At One on Epsilon, we continously follow YouTube mathematics content and include the most relevant content that we find in [Epsilon Stream](https://epsilonstream.com). A good part of the process involves the expertise of our [content team](https://oneonepsilon.com/epsilonstream/#content-team), however other aspects are automated. For example, our system automatically tracks YouTube mathematics videos from dozens of channels. More on how we do this is in this [blog post](https://www.1onepsilon.com/single-post/2018/08/07/Counting-Mathematics-on-Youtube). 
+At One on Epsilon, we follow YouTube mathematics content and include the most relevant videos that we find in [Epsilon Stream](https://epsilonstream.com). Part of the process involves the expertise of our [content team](https://oneonepsilon.com/epsilonstream/#content-team), however other aspects are automated. For example, our system automatically tracks YouTube mathematics videos from dozens of channels. More on how we do this is in this [blog post](https://www.1onepsilon.com/single-post/2018/08/07/Counting-Mathematics-on-Youtube). 
 
-A by-product is that every month we update [our estimate](https://oneonepsilon.com/epsilonstream/#data-analysis) of the number of hours of mathematics watched on YouTube. This number typically lies in a range between 4 Million hours and 5 Million hours! That is a-lot of math and shows that the world is really appreciates the great content produced. And that is in English alone, if we were to count other languages the estimate would be bigger. For the month of November, there were 4.25 million hours of mathematics video views. 
+A by-product is that every month we update [our estimate](https://oneonepsilon.com/epsilonstream/#data-analysis) of the number of hours of mathematics watched on YouTube. This number typically lies in a range between 4 Million hours and 5 Million hours! That is a-lot of math and shows that the world really appreciates the great content produced. And that is in English alone, if we were to count other languages the estimate would be bigger. For the month of November, there were 4.25 million hours of mathematics video views. 
 
 So back to the question: do mathematics videos age? Rephrased differently: 
 
