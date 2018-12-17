@@ -6,9 +6,7 @@ The blog post is still accessed through [here](https://www.1onepsilon.com/single
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/2da9xx.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/2da9xx.jpg){.blog-image-header}
 
 You can search the web for "nobody remembers second place" and get about 5,300 search results. However if you search for the opposite: "somebody remembers second place" you get about 1.3 million  results! So is second place memorable or not? I guess it depends on who you ask.
 

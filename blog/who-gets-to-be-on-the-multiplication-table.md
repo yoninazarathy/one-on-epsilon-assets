@@ -1,5 +1,3 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/01/28/How-Many-Times-Does-a-Number-Appear-on-the-Times-Table). We are in the process of moving it to the current location.
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/843nxa.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/843nxa.jpg){.blog-image-header}

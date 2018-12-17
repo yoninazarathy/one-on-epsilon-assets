@@ -4,9 +4,7 @@
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/44dice.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/44dice.jpg){.blog-image-header}
 
 Imagine that you have a pair of [dice](https://epsilonstream.com/topic/dice). That is, number cubes with the numbers $1, 2, 3, 4, 5$ and $6$ on each side. You are using these as part of a game, tossing the pair again and again. Then at one point you stop and ask:
 
@@ -25,9 +23,7 @@ For example, $11$ is the number of possible sums that you can get. This is impor
 
 OK, so we got $11$ out of the way. But how about $15, 21, 30$ and $36$? Where are these numbers from? Can you describe a question and/or a dice tossing scenario to which the answer is $15, 21, 30$ or $36$? How do you compute these values? Which answer is "most natural"? Pause and think about it before you read on...
 
-<center>
- <img src="https://es-app.com/blog-assets/dicem3.jpg" alt="drawing" style="max-width:60%;" />
-</center>
+![Inline image](https://es-app.com/blog-assets/dicem3.jpg){.blog-image-medium}
 
 **The answer 36:** Ok, so if the dice are distinctly coloured then 36 is the number of possible outcomes.
 
@@ -67,9 +63,7 @@ $
 
 Then $15 + 6 = 21$ and there are $21$ possible outcomes. 
 
-<center>
- <img src="https://es-app.com/assets/cn3zh2.jpg" alt="drawing" style="max-width:60%;" />
-</center>
+![Inline image](https://es-app.com/assets/cn3zh2.jpg){.blog-image-medium}
 
 
 ---
@@ -80,8 +74,5 @@ Exploration of these types of problems is very rewarding. If you are looking for
 
 The cool thing is that the basics can be explored as we did in this post without any formulas. Then by using involved formulas and arguments, glorious patterns emerge. You can also watch this great TED-ED video by Wajdi Mohamed Ratemi. Let us know what you think.
 
-<a href="https://epsilonstream.com/video/tvpxhi/">
-	<center>
- 		<img class = "blog-inline-image" src="https://i.ytimg.com/vi/XMriWTvPXHI/mqdefault.jpg" alt="drawing" width="250px"/>
-	</center> 
-</a>
+
+[https://epsilonstream.com/video/tvpxhi/](![Inline image](https://i.ytimg.com/vi/XMriWTvPXHI/mqdefault.jpg){.blog-image-medium})

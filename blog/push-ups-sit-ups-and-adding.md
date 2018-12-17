@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/ANCV64.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/ANCV64.png){.blog-image-header}
 
 There are 45 days left until the end of 2016. Do you want to do something meaningful in that time? So many options come to mind. One possibility is to start a simple incremental core strength training program.
 

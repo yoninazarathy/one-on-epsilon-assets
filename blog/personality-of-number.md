@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/64anNN.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/64anNN.png){.blog-image-header}
 
 What factors make up a person’s personality? This psychological question has intrigued many but I don't think that the answer is simple. Actually, for me, numbers are often simpler to understand than humans, so let me ask the same question about numbers. What is the personality of a positive whole number?
 

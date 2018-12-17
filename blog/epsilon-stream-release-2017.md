@@ -1,5 +1,3 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/07/23/Epsilon-Stream-Release-Sep-15). We are in the process of moving it to the current location.
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/advSTR.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/advSTR.jpg){.blog-image-header}

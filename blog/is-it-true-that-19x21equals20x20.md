@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 **Yoni Nazarathy**
 
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/bnAB23.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/bnAB23.png){.blog-image-header}
  
 
 I recently came across a neat product called the QAMA Calculator. It is a calculator that encourages thought. Ask it to calculate something and QAMA will ask you back: “First give me an estimate”. Once you supply an approximate answer, QAMA calculates the precise answer for you. But only if your approximation was sensible. This calculator forces you to think.

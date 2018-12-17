@@ -7,9 +7,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Inna Lukyanenko and Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/uIld21.png" alt="drawing" width="250px"/>
-</center>
+![Blog header image](https://es-app.com/assets/uIld21.png){.blog-image-header}
 
 **Yoni:** The other day, I met my friend Inna, a mathematician. Inna is originally from the grand city of St. Petersburg, Russia. But these days she lives between the cities of Brisbane and Melbourne in Australia. We caught up in Brisbane and enjoyed a forest walk together. We then got hungry and went to grab some pizza. Yum Yum yum
 
