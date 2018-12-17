@@ -68,21 +68,21 @@ $$x^2+y^2=6^2=36$$
 
 This might just be the extra something that we need! We now make an unexpected move that combines the given algebraic information $x + y = 8$ and the deduced Pythagorean equation: We take the square of $x + y = 8$. Let’s see:
 
-$(x+y)^2 = 8^2$
+$$(x+y)^2 = 8^2$$
 
-$\Rightarrow x^2+2xy+y^2=64$
+$$\Rightarrow x^2+2xy+y^2=64$$
 
-$\Rightarrow 2xy = 64-(x^2+y^2)$
+$$\Rightarrow 2xy = 64-(x^2+y^2)$$
 
-$\Rightarrow xy=\frac{64-(x^2+y^2)}{2}$
+$$\Rightarrow xy=\frac{64-(x^2+y^2)}{2}$$
 
-$\Rightarrow xy  = \frac{64-36}{2} = 14$
+$$\Rightarrow xy  = \frac{64-36}{2} = 14$$
 
 Notice that in the second to last step, we isolate $xy$. Also, in the last step, do you see how Pythagoras' Theorem played a role in the substitution of $x^2+ y^2$? Additionally, every time we write "$\Rightarrow$", we read it as “which means that”, so it gives us a sequence of statements, each following on from the previous one.
 
 Now that we have worked out the product of $x$ and $y$, then the area of the white triangle is just:
 
-Area $= \frac12 xy = \frac12\cdot 14 = 7.
+Area $= \frac12 xy = \frac12\cdot 14 = 7.$
 
 **Reflection time**: What do you think was the most difficult part of our working? 
 
