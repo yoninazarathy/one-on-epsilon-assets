@@ -50,7 +50,7 @@ Identifying the area *formula* is a really important step. What we need now is a
 
 Actually, there is a very special pattern hidden in this picture. We know that when we are attempting to measure a missing side length of a right-angled triangle, we can use [Pythagoras' Theorem](https://www.1onepsilon.com/single-post/2017/05/13/Cut-corners-and-save-up-to-29):
 
-$a^2+b^2=c^2$
+$$a^2+b^2=c^2$$
 
 Clearly, we can tell that the perpendicular side lengths $a$ and $b$ in the formula will be substituted by $x$ and $y$, but what about $c$ - the hypotenuse?  Before you read on, give it a try on your own.
 
@@ -60,7 +60,7 @@ Clearly, we can tell that the perpendicular side lengths $a$ and $b$ in the form
 
 Notice that the hypotenuse of the triangle we are interested in has the same length as the radius of the circle. Hence, $c = 6$.  Using the Pythagoras' Theorem, we can then see:
 
-$x^2+y^2=6^2=36$
+$$x^2+y^2=6^2=36$$
 
 <center>
  <img class = "blog-inline-image" src="https://es-app.com/blog-assets/seekingPatternsWithMathImage4.png" alt="drawing" width="250px"/>
@@ -74,7 +74,7 @@ $\Rightarrow x^2+2xy+y^2=64$
 
 $\Rightarrow 2xy = 64-(x^2+y^2)$
 
-$\Rightarrow xy=\frac{64-(x^2+y^2)}{2} $
+$\Rightarrow xy=\frac{64-(x^2+y^2)}{2}$
 
 $\Rightarrow xy  = \frac{64-36}{2} = 14$
 
