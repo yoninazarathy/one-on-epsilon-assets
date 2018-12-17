@@ -12,9 +12,9 @@ Is math important to you? Is it because you make use of basic math facts in your
 
 In fact, math can be studied for its own sake. As [Arthur Benjamin](https://www.math.hmc.edu/~benjamin/), author of [The Magic of Math: Solving for x and Figuring Out Why](https://www.amazon.com/Magic-Math-Solving-Figuring-Out/dp/0465054722/ref=asap_bc?ie=UTF8), beautifully says, “*Math is the science of finding patterns.*” Those patterns could involve anything from numeric sequences to geometric relationships. For example, **modular arithmetic**, first developed by [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), is a type of arithmetic done on a **number circle** rather than a **number line**. Numbers reset to $0$ upon reaching a certain fixed number. The classic example is arithmetic on a clock: when we get to $12$, the count resets to $0$. So, for example, on a clock, $10$ o’clock plus $4$ o’clock equals $2$ o’clock. This is mod $12$ arithmetic.
 
-While modular arithmetic does have some wonderful properties, one of its major practical uses only came about in the 1970s when mathematicians used it in developing [RSA encryption](https://simple.wikipedia.org/wiki/RSA_algorithm) -- a method used to send and receive secure data like [private love letters](http://theconversation.com/the-rsa-algorithm-or-how-to-send-private-love-letters-13191).
+While modular arithmetic does have some wonderful properties, one of its major practical uses only came about in the 1970s when mathematicians used it in developing [RSA encryption](https://simple.wikipedia.org/wiki/RSA_algorithm) -- a method used to send and receive secure data like [private love letters](https://theconversation.com/the-rsa-algorithm-or-how-to-send-private-love-letters-13191).
 
-In a short ten minute [Numberphile](https://www.numberphile.com/) video [James Grime](http://singingbanana.com/) wonderfully explains how the RSA key works:
+In a short ten minute [Numberphile](https://www.numberphile.com/) video [James Grime](https://singingbanana.com/) wonderfully explains how the RSA key works:
 
 [Encryption and HUGE numbers - Numberphile](https://epsilonstream.com/video/w1tn50)
 

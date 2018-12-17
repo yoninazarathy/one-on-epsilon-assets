@@ -110,7 +110,7 @@ Inna: Through this simple and tasty example, we got acquainted with an area of m
 
  
 
-Or, formulating it more mathematically: how many subsets are there in a set of N elements. By a <a href="https:/epsilonstream.com/topic/set"> set</a> we mean any collection of distinct objects, such as various ingredients for a pizza. Note that the possible subsets include the empty set (this is just the pizza bread with nothing on it, which doesn’t sound very exciting…) and the full set (all the ingredients included).
+Or, formulating it more mathematically: how many subsets are there in a set of N elements. By a <a href="https:/epsilonstream.com/topic/set">set</a> we mean any collection of distinct objects, such as various ingredients for a pizza. Note that the possible subsets include the empty set (this is just the pizza bread with nothing on it, which doesn’t sound very exciting…) and the full set (all the ingredients included).
 
  
 
