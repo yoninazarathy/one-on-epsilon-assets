@@ -27,3 +27,15 @@ Say you are at the southwest corner and wish to reach the northeast corner. Acco
 Walk in a north-east direction as opposed to first east and then north. This would save you about 29%, so you would walk for about 7 minutes instead of 10.
 
 You may now ask where 29% comes from?
+
+---
+
+When you have a 90 degree corner, you have a triangle. A right triangle. Then when it comes to right triangles, you have one of the most celebrated elementary classic mathematical results of all times: The Pythagoras Theorem.  See this short video:
+
+[Pythagorean theorem water demo](https://youtu.be/CAkMUdeB06o)
+
+**Q**: Is the yellow triangle in the video a right triangle?
+
+**A**: Yes, it has a 90 degree angle. This means that the side opposing the right angle is called the hypotenuse. The hypotenuse is always the longest side of a right triangle.
+
+**Q**: The video shows that the quantity of liquid that fits in the square created by the hypotenuse is exactly the same as the quantity of liquid fitting in the sum of the other squares. How would you describe this in words?
