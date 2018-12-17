@@ -50,7 +50,7 @@ Identifying the area *formula* is a really important step. What we need now is a
 
 Actually, there is a very special pattern hidden in this picture. We know that when we are attempting to measure a missing side length of a right-angled triangle, we can use [Pythagoras' Theorem](https://www.1onepsilon.com/single-post/2017/05/13/Cut-corners-and-save-up-to-29):
 
-$a^2+b^2=c^2$
+$$a^2+b^2=c^2$$
 
 Clearly, we can tell that the perpendicular side lengths $a$ and $b$ in the formula will be substituted by $x$ and $y$, but what about $c$ - the hypotenuse?  Before you read on, give it a try on your own.
 
@@ -60,7 +60,7 @@ Clearly, we can tell that the perpendicular side lengths $a$ and $b$ in the form
 
 Notice that the hypotenuse of the triangle we are interested in has the same length as the radius of the circle. Hence, $c = 6$.  Using the Pythagoras' Theorem, we can then see:
 
-$x^2+y^2=6^2=36$
+$$x^2+y^2=6^2=36$$
 
 <center>
  <img class = "blog-inline-image" src="https://es-app.com/blog-assets/seekingPatternsWithMathImage4.png" alt="drawing" width="250px"/>
@@ -68,21 +68,21 @@ $x^2+y^2=6^2=36$
 
 This might just be the extra something that we need! We now make an unexpected move that combines the given algebraic information $x + y = 8$ and the deduced Pythagorean equation: We take the square of $x + y = 8$. Let’s see:
 
-$(x+y)^2 = 8^2$
+$$(x+y)^2 = 8^2$$
 
-$\Rightarrow x^2+2xy+y^2=64$
+$$\Rightarrow x^2+2xy+y^2=64$$
 
-$\Rightarrow 2xy = 64-(x^2+y^2)$
+$$\Rightarrow 2xy = 64-(x^2+y^2)$$
 
-$\Rightarrow xy=\frac{64-(x^2+y^2)}{2} $
+$$\Rightarrow xy=\frac{64-(x^2+y^2)}{2}$$
 
-$\Rightarrow xy  = \frac{64-36}{2} = 14$
+$$\Rightarrow xy  = \frac{64-36}{2} = 14$$
 
 Notice that in the second to last step, we isolate $xy$. Also, in the last step, do you see how Pythagoras' Theorem played a role in the substitution of $x^2+ y^2$? Additionally, every time we write "$\Rightarrow$", we read it as “which means that”, so it gives us a sequence of statements, each following on from the previous one.
 
 Now that we have worked out the product of $x$ and $y$, then the area of the white triangle is just:
 
-Area $= \frac12 xy = \frac12\cdot 14 = 7.
+Area $= \frac12 xy = \frac12\cdot 14 = 7.$
 
 **Reflection time**: What do you think was the most difficult part of our working? 
 
