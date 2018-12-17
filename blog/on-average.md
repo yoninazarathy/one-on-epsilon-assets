@@ -28,7 +28,7 @@ In this case, summing up the values and dividing by $3$, the average number of d
 
 However, there are other ways of describing typical values, often referred to **measures of centrallity**. For example as discussed <a href="https://www.1onepsilon.com/single-post/2017/05/27/Choosing-a-Fair-Estimate">here</a> we can also use the <a href="http://epsilonstream.com/search?q=median">median</a>. Then there are also weighted averages and a variety of other varients such as the <a href="https://en.wikipedia.org/wiki/Truncated_mean"> truncated (trimmed) mean</a>. Another related term is <a href="http://epsilonstream.com/search?q=mathematical+expectation">mathematical expecation</a> dealing with an average of a probability distribution as opposed to the average of data. 
 
-Other alternatives to the arithmetic mean include the **geometric mean** and **harmonic mean**. Some students, study these for the case of two data points, $X_1$ and $X_2$ as part of their high school studies (see for example QQQQ). Then, some data scientistis understand why they are usefull in their applied work (see for example QQQQ).
+Other alternatives to the arithmetic mean include the **geometric mean** and **harmonic mean**. Some students, study these for the case of two data points, $X_1$ and $X_2$ as part of their high school studies. Then, some data scientistis understand why they are usefull in their applied work.
 
 So why are there so many alternatives to describe the "typical value"? Which alterantive should we use? 
 
