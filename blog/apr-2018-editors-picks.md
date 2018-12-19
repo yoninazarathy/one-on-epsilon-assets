@@ -1,5 +1,3 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/04/12/April-2018-Editors-Picks). We are in the process of moving it to the current location.
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/sh35i2.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/sh35i2.jpg){.blog-image-header}

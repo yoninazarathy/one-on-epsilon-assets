@@ -7,9 +7,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Inna Lukyanenko and Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/uIld21.png" alt="drawing" width="250px"/>
-</center>
+![Blog header image](https://es-app.com/assets/uIld21.png){.blog-image-header}
 
 **Yoni:** The other day, I met my friend Inna, a mathematician. Inna is originally from the grand city of St. Petersburg, Russia. But these days she lives between the cities of Brisbane and Melbourne in Australia. We caught up in Brisbane and enjoyed a forest walk together. We then got hungry and went to grab some pizza. Yum Yum yum
 
@@ -112,7 +110,7 @@ Inna: Through this simple and tasty example, we got acquainted with an area of m
 
  
 
-Or, formulating it more mathematically: how many subsets are there in a set of N elements. By a <a href="https:/epsilonstream.com/topic/set"> set</a> we mean any collection of distinct objects, such as various ingredients for a pizza. Note that the possible subsets include the empty set (this is just the pizza bread with nothing on it, which doesn’t sound very exciting…) and the full set (all the ingredients included).
+Or, formulating it more mathematically: how many subsets are there in a set of N elements. By a [set](https:/epsilonstream.com/topic/set) we mean any collection of distinct objects, such as various ingredients for a pizza. Note that the possible subsets include the empty set (this is just the pizza bread with nothing on it, which doesn’t sound very exciting…) and the full set (all the ingredients included).
 
  
 
