@@ -4,11 +4,7 @@
 
 **Phillip Isaac**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/tree87.jpg" alt="drawing" width="250px"/>
-</center> 
-
-coming soon...
+![People standing on the horizon](https://es-app.com/assets/tree87.jpg){.blog-image-header}
 
 My 9-year old daughter occasionally enjoys calculating the powers of 2. Starting with 1, she will happily sit there working out the powers of 2 until they are surprisingly large numbers. Recently I had a curious conversation with her related to her calculations that I thought I would share in this blog post.
 
@@ -28,13 +24,16 @@ Dad: How many great-great-grandparents?
 
 Daughter: 16… wait, these are powers of 2.
 
-Me: What if you kept going with this? 
+Dad: What if you kept going with this? 
 
-Her: How far back in time can you go?
+Daughter: How far back in time can you go?
 
 Okay, so it was at this point that we had to lay a few ground rules. What we were actually doing was starting to create a mathematical model describing the number of new ancestors in history, given a particular year. To progress, one of the key assumptions that we decided to make was that a new generation occurs every 30 years. Is this reasonable? Well, it is something we could change later if we wanted.
 
-In any case, under this simple assumption, we can produce the following table, that gives the number of new ancestors (right hand column) that were born around that year (left hand column). Note that the only reason I started at 2009 was because this was the year my daughter was born. The table conveys the information that 1 new generation member was born around 2009, and 2 direct ancestors in the previous generation were born around 1979, 4 direct ancestors in the previous generation were born around 1949, and so on. 
+In any case, under this simple assumption, we can produce the following table, that gives the number of new ancestors (right hand column) that were born around that year (left hand column). Note that the only reason I started at 2009 was because this was the year my daughter was born. The table conveys the information that 1 new generation member was born around 2009, and 2 direct ancestors in the previous generation were born around 1979, 4 direct ancestors in the previous generation were born around 1949, and so on. The toal number of ancestors would be the sum of powers of 2. This has already been discussed in a previous blog post:
+
+[![](https://es-app.com/assets/vmK21a.jpg){.blog-image-inline-small}](https://www.1onepsilon.com/single-post/2017/02/17/Adding-the-Powers-of-2)
+
 
     |     |                     |
     |-----|---------------------|
@@ -79,7 +78,7 @@ This is where it gets interesting. The data in the table suggest that around the
 
 After a bit of thought, you might have guessed that one of our key assumptions in the model may not be valid. Indeed, the assumption that the ancestors in a particular generation are all distinct individuals is plainly false. In other words, it must be the case that some of our ancestors were having children with their own extended family! In fact, this is discussed by Michaels Stevens on the VSauce YouTube Channel in the video entitled “We Are All Related”:
 
-<iframe width="250" height="140" src="https://www.youtube.com/embed/BhtgINeaJWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="196" src="https://www.youtube.com/embed/BhtgINeaJWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Could we modify our model to take this into account? Yes, but it can become extremely complicated very quickly. There are many possibilities to consider, and even the simplest modification may not be straightforward to implement. For instance, one ancestor may have had children to multiple partners. Or, one ancestor may have had children with their fourth cousin twice removed. (For a discussion on cousins, first cousins, second cousins, once/twice removed and so on, see this article by Livescience: [What's a Second Cousin vs. a First Cousin Once-Removed?](https://www.livescience.com/32121-whats-a-second-cousin-vs-a-first-cousin-once-removed.html) ).
 
@@ -87,10 +86,8 @@ As an example, try to think about how to adapt the model if we say that every se
 $$
 a_{n+1} = a_n - 4\left( \frac{n}{2} - \left\lfloor\frac{n}{2}\right\rfloor \right).
 $$
-Here, $\lfloor x \rfloor$ denotes the "floor function", or the "integer
+Here, $\lfloor x \rfloor$ denotes the "[floor function](https://epsilonstream.com/topic/floorFunction)", or the "integer
 part", of $x$ (in other words, we just round down $x$ to the nearest whole
-number). Implementing this modification in the data used above, going back to the year 1019 would give the number 7,158,278,828. More than one billion less than the original model, but still far too high to be reasonable. 
+number). Implementing this modification in the data used above, going back to the year 1019 would give the number 7,158,278,828. More than one billion less than the original model, but still far too high to be realistic. The art is to now introduce further modifications to approach some kind of realism. Without explicit data, though, this is not really feasible. Maybe you can try some othere variants and see if you can come up with mathematical formulae that take into account your new assumptions.
 
-I have a brother who is interested in our family tree, although he refers to it as the family briar patch. Next time you pass by a stranger in the street, perhaps now you cannot help but wonder how distantly you might be related.
-
- 
+I have a brother who is keenly interested in our family tree, although he refers to it as the family briar patch. Next time you pass by a stranger in the street, perhaps now you cannot help but wonder how distantly you might be related. 
