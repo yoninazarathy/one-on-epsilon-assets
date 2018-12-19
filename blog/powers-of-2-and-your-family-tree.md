@@ -84,7 +84,7 @@ Could we modify our model to take this into account? Yes, but it can become extr
 
 As an example, try to think about how to adapt the model if we say that every second generation in the family tree has exactly one set of grandparents who were first cousins. That is, to assume that in the family tree of a current person, one set of grandparents were first cousins, and one grandparent has grandparents who were first cousins, and so on. It is not easy! You would end up with a sequence like this: 1, 2, 4, 8, 14, 28, 54, 108, 214, 428, 854,... That is, from the number "4" in the sequence, you apply the following rule: Multiply by 2 every step, but every second step you also subtract 2. Try to work this out for yourself. Is it possible to represent this in a concise mathematical way? Well, here is one way to summarise this sequence. Set $a_1=1$, $a_2=2$, $a_3=4$, and then apply the formula
 $$
-a_{n+1} = a_n - 4\left( \frac{n}{2} - \left\lfloor\frac{n}{2}\right\rfloor \right).
+a_{n+1} = a_n - 4\left( \frac{n+1}{2} - \left\lfloor\frac{n+1}{2}\right\rfloor \right), \ \ n=3,4,\ldots
 $$
 Here, $\lfloor x \rfloor$ denotes the "[floor function](https://epsilonstream.com/topic/floorFunction)", or the "integer
 part", of $x$ (in other words, we just round down $x$ to the nearest whole
