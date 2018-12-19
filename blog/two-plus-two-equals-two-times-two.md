@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/24snMf.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/24snMf.png){.blog-image-header}
 
 You know that 2 + 2 = 4 right? A six year old child probably knows this too.
 

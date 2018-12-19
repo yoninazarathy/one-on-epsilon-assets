@@ -4,10 +4,7 @@
 
 **Nicholas Bartlett and Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/vvv22v.jpg" alt="drawing" width="70%"/>
-</center> 
-<br>
+![Blog header image](https://es-app.com/assets/vvv22v.jpg){.blog-image-header}
 
 Do mathematics theorems age and become obsolete? Generally "no".  As the field is based on axioms and logical deductions, what was true hundreds or thousands of years ago, remains true today.
 
@@ -25,12 +22,7 @@ So back to the question: do mathematics videos age? Rephrased differently:
 
 To answer this we analyzed the data, considering the number of views per quarter and created the following:
 
-<br>
-<center>
-
-<a href="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png"> <img class = "blog-inline-image" src="https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png" alt="drawing" width="100%"/></a>
-</center> 
-<br>
+[https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png](![Inline image](https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png){.blog-image-medium})
 
 As you can see, it is certainly not the case that most hours watched were from very recent videos. It is rather content from the past 5 years that contributes to most of the viewing time. With a slight leap of faith, this suggests the following:
 
@@ -41,6 +33,3 @@ Yes, mathematics has existed in human knowledge for thousands of years and YouTu
 ---
 
 Do you have any insights from this data? Or maybe you have a specific question that you'd like to pose? [let us know](https://oneonepsilon.com/contact/). You can also [register](https://oneonepsilon.com/register/) with us to get further updates.
-
-<br>
-<br>
