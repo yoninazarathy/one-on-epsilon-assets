@@ -5,9 +5,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/jfi241.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/jfi241.png){.blog-image-header}
 
 
 Somewhere in the universe there is a planet inhabited by beings called the Quaternary Counters or QC for short.  This friendly race is quite similar to us humans. However the QCs only have two fingers on each hand. Four fingers in total.

@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 **Yousuf Marvi**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/7342xa.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/7342xa.jpg){.blog-image-header}
 
 I once told my students that simply having an imagination isn’t enough to be a good mathematician— foremost, solid skills are needed. I wish I could take my words back. Even Einstein, who had a great mathematical skill, is noted as saying:
 

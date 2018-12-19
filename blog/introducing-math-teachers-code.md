@@ -4,10 +4,7 @@
 
 **One on Epsilon Team**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/mtcmtc.jpg" alt="drawing" width="70%"/>
-</center> 
-
+![Blog header image](https://es-app.com/assets/mtcmtc.jpg){.blog-image-header}
 
 What does K-12 mathematics education really need? Frankly, at One on Epsilon, we don't claim to have a definitive answer! However we certainly have some ideas. Our MATH TEACHERS CODE series will begin next Sunday November 18, 3:00 PM US Eastern Time. Join our YouTube stream for an interactive coding workshop geared towards math teachers, details follow.
 

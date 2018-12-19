@@ -7,9 +7,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 **Phillip Isaac and Clara Valtorta**
 
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/lglg27.jpg" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/lglg27.jpg){.blog-image-header}
 
 
 How often during the day do you think about what is true or what is false? What does it mean for a statement to be true? Are some statements more true than others? Think about the last time someone asked you a question. When you responded, was there a clear distinction between a true answer and a false answer?

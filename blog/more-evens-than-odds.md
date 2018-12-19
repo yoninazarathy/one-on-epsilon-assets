@@ -5,9 +5,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 
 *Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/abc873.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/abc873.png){.blog-image-header}
 
 
 

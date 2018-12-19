@@ -30,9 +30,9 @@ Daughter: How far back in time can you go?
 
 Okay, so it was at this point that we had to lay a few ground rules. What we were actually doing was starting to create a mathematical model describing the number of new ancestors in history, given a particular year. To progress, one of the key assumptions that we decided to make was that a new generation occurs every 30 years. Is this reasonable? Well, it is something we could change later if we wanted.
 
-In any case, under this simple assumption, we can produce the following table, that gives the number of new ancestors (right hand column) that were born around that year (left hand column). Note that the only reason I started at 2009 was because this was the year my daughter was born. The table conveys the information that 1 new generation member was born around 2009, and 2 direct ancestors in the previous generation were born around 1979, 4 direct ancestors in the previous generation were born around 1949, and so on. The toal number of ancestors would be the sum of powers of 2. This has already been discussed in a previous blog post:
+In any case, under this simple assumption, we can produce the following table, that gives the number of new ancestors (right hand column) that were born around that year (left hand column). Note that the only reason I started at 2009 was because this was the year my daughter was born. The table conveys the information that 1 new generation member was born around 2009, and 2 direct ancestors in the previous generation were born around 1979, 4 direct ancestors in the previous generation were born around 1949, and so on. Note that the total number of ancestors would be the sum of powers of 2. This has already been discussed in a previous blog post:
 
-[![](https://es-app.com/assets/vmK21a.jpg){.blog-image-inline-small}](https://www.1onepsilon.com/single-post/2017/02/17/Adding-the-Powers-of-2)
+[![](https://es-app.com/assets/vmK21a.png){.blog-image-inline-small}](https://www.1onepsilon.com/single-post/2017/02/17/Adding-the-Powers-of-2)
 
 
     |     |                     |
@@ -90,4 +90,4 @@ Here, $\lfloor x \rfloor$ denotes the "[floor function](https://epsilonstream.co
 part", of $x$ (in other words, we just round down $x$ to the nearest whole
 number). Implementing this modification in the data used above, going back to the year 1019 would give the number 7,158,278,828. More than one billion less than the original model, but still far too high to be realistic. The art is to now introduce further modifications to approach some kind of realism. Without explicit data, though, this is not really feasible. Maybe you can try some othere variants and see if you can come up with mathematical formulae that take into account your new assumptions.
 
-I have a brother who is keenly interested in our family tree, although he refers to it as the family briar patch. Next time you pass by a stranger in the street, perhaps now you cannot help but wonder how distantly you might be related. 
+I have a brother who is keenly interested in our family tree, although he refers to it as the family briar patch. There is no denying that our family histories can be quite complex. Next time you pass by a stranger in the street, perhaps now you cannot help but wonder how distantly you might be related. 

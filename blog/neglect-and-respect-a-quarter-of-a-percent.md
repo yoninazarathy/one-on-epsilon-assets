@@ -158,3 +158,4 @@ Coco: I'm glad we could discuss, it would be fun to explore more another day. Pe
 
  
 
+![Blog header image](https://es-app.com/assets/OOTR35.png){.blog-image-header}

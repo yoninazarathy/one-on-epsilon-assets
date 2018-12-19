@@ -4,9 +4,7 @@
 
 **Yoni Nazarathy**
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/7fnxAN.png"" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/7fnxAN.png){.blog-image-header}
 
 I am the father of three kids, hence for me division by three is an integral part of life. A pack of 12 water balloons is divisible by three. A pack of 30 works well too. But get a pack of 16 and you are left with a remainder of 1 and a philosophical debate about who deserves it.
 

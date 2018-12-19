@@ -6,9 +6,7 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 **Yoni Nazarathy**
 
 
-<center>
- <img class = "blog-inline-image" src="https://es-app.com/assets/4r5g7h.png" alt="drawing" width="250px"/>
-</center> 
+![Blog header image](https://es-app.com/assets/4r5g7h.png){.blog-image-header}
 
 A few months ago we set out to develop a fun and educational game. This was to be the first One on Epsilon product. We were seeking to rapidly develop a product that is not too complex, yet serves a specific purpose in alignment with our overarching mission: Creating positive and fun content that supports learning and drives curiosity.
 
