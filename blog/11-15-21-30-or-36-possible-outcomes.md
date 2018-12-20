@@ -75,4 +75,4 @@ Exploration of these types of problems is very rewarding. If you are looking for
 The cool thing is that the basics can be explored as we did in this post without any formulas. Then by using involved formulas and arguments, glorious patterns emerge. You can also watch this great TED-ED video by Wajdi Mohamed Ratemi. Let us know what you think.
 
 
-[![Inline image](https://i.ytimg.com/vi/XMriWTvPXHI/mqdefault.jpg){.blog-image-medium}](https://epsilonstream.com/video/tvpxhi/)
+[![Inline image](https://i.ytimg.com/vi/XMriWTvPXHI/mqdefault.jpg){.blog-image-medium .es-play-overlay}](https://epsilonstream.com/video/tvpxhi/)
