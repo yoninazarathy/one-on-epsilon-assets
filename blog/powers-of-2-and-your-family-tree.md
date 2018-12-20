@@ -35,44 +35,43 @@ In any case, under this simple assumption, we can produce the following table, t
 [![](https://es-app.com/assets/vmK21a.png){.blog-image-inline-small}](https://www.1onepsilon.com/single-post/2017/02/17/Adding-the-Powers-of-2)
 
 
-    |     |                     |
-    |-----|---------------------|
-    | 2009|       1             | 
-    | 1979|       2             | 
-    | 1949|       4             |
-    | 1919|       8             | 
-    | 1889|       16            |
-    | 1859|       32            |
-    | 1829|       64            |
-    | 1799|       128           |
-    | 1769|       256           |
-    | 1739|       512           |
-    | 1709|       1,024         |
-    | 1679|       2,048         |
-    | 1649|       4,096         |
-    | 1619|       8,192         |
-    | 1589|       16,384        |
-    | 1559|       32,768        |
-    | 1529|       65,536        |
-    | 1499|       131,072       |
-    | 1469|       262,144       |
-    | 1439|       524,288       |
-    | 1409|       1,048,576     |
-    | 1379|       2,097,152     |
-    | 1349|       4,194,304     |
-    | 1319|       8,388,608     |
-    | 1289|       16,777,216    |
-    | 1259|       33,554,432    |
-    | 1229|       67,108,864    |
-    | 1199|       134,217,728   |
-    | 1169|       268,435,456   |
-    | 1139|       536,870,912   |
-    | 1109|       1,073,741,824 |
-    | 1079|       2,147,483,648 |
-    | 1049|       4,294,967,296 |
-    | 1019|       8,589,934,592 |
-    | 989 |       17,179,869,184|
-    |-----|---------------------|
+|      |                |
+|------|----------------|
+| 2009 | 1              |
+| 1979 | 2              |
+| 1949 | 4              |
+| 1919 | 8              |
+| 1889 | 16             |
+| 1859 | 32             |
+| 1829 | 64             |
+| 1799 | 128            |
+| 1769 | 256            |
+| 1739 | 512            |
+| 1709 | 1,024          |
+| 1679 | 2,048          |
+| 1649 | 4,096          |
+| 1619 | 8,192          |
+| 1589 | 16,384         |
+| 1559 | 32,768         |
+| 1529 | 65,536         |
+| 1499 | 131,072        |
+| 1469 | 262,144        |
+| 1439 | 524,288        |
+| 1409 | 1,048,576      |
+| 1379 | 2,097,152      |
+| 1349 | 4,194,304      |
+| 1319 | 8,388,608      |
+| 1289 | 16,777,216     |
+| 1259 | 33,554,432     |
+| 1229 | 67,108,864     |
+| 1199 | 134,217,728    |
+| 1169 | 268,435,456    |
+| 1139 | 536,870,912    |
+| 1109 | 1,073,741,824  |
+| 1079 | 2,147,483,648  |
+| 1049 | 4,294,967,296  |
+| 1019 | 8,589,934,592  |
+|  989 | 17,179,869,184 |
 
 This is where it gets interesting. The data in the table suggest that around the year 1799, there were 128 distinct individuals whose existence contributed to my daughter’s life. That’s not inconceivable, but it can be easy to become lost in the quagmire of large numbers. Indeed, the real surprise starts to manifest when we go further back in time to, say, the year 1019. Our simple model indicates that over 8 billion individuals must have been born around that year who were direct ancestors of my daughter. According to [world population estimates](https://en.wikipedia.org/wiki/World_population_estimates) from the U.N., around the year 1000, the population was around 310,000,000 (310 million). So our data says that around that year, the number of my daughter’s ancestors born numbered somewhere between 8,000,000,000 (8 billion) and 17,000,000,000 (17 billion)! That is more than the world’s population! Something must be wrong with the model. The Battle of Hastings (year 1066) was certainly not just an argument among my family! What could we have missed?
 
