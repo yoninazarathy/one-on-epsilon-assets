@@ -22,7 +22,7 @@ So back to the question: do mathematics videos age? Rephrased differently:
 
 To answer this we analyzed the data, considering the number of views per quarter and created the following:
 
-[https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png](![Inline image](https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png){.blog-image-medium})
+[![Inline image](https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png){.blog-image-medium}](https://es-app.com/blog-assets/hours_watched_november_by_publish_month.png)
 
 As you can see, it is certainly not the case that most hours watched were from very recent videos. It is rather content from the past 5 years that contributes to most of the viewing time. With a slight leap of faith, this suggests the following:
 
