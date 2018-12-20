@@ -77,7 +77,7 @@ This is where it gets interesting. The data in the table suggest that around the
 
 After a bit of thought, you might have guessed that one of our key assumptions in the model may not be valid. Indeed, the assumption that the ancestors in a particular generation are all distinct individuals is plainly false. In other words, it must be the case that some of our ancestors were having children with their own extended family! In fact, this is discussed by Michaels Stevens on the VSauce YouTube Channel in the video entitled “We Are All Related”:
 
-<iframe width="350" height="196" src="https://www.youtube.com/embed/BhtgINeaJWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="blog-video-inline"><iframe src="https://www.youtube.com/embed/BhtgINeaJWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Could we modify our model to take this into account? Yes, but it can become extremely complicated very quickly. There are many possibilities to consider, and even the simplest modification may not be straightforward to implement. For instance, one ancestor may have had children to multiple partners. Or, one ancestor may have had children with their fourth cousin twice removed. (For a discussion on cousins, first cousins, second cousins, once/twice removed and so on, see this article by Livescience: [What's a Second Cousin vs. a First Cousin Once-Removed?](https://www.livescience.com/32121-whats-a-second-cousin-vs-a-first-cousin-once-removed.html) ).
 
