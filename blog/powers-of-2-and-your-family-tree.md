@@ -59,6 +59,8 @@ After a bit of thought, you might have guessed that one of our implicit assumpti
 
 Could we modify our model to take this into account? Yes, but it can become extremely complicated very quickly. There are many possibilities to consider, and even the simplest modification may not be straightforward to implement. For instance, one ancestor may have had children to multiple partners. Or, one ancestor may have had children with their fourth cousin twice removed. (For a discussion on cousins, first cousins, second cousins, once/twice removed and so on, see this article by Livescience: [What's a Second Cousin vs. a First Cousin Once-Removed?](https://www.livescience.com/32121-whats-a-second-cousin-vs-a-first-cousin-once-removed.html) ).
 
+***
+
 As an example, try to think about how to adapt the model if we say that every second generation in the family tree has exactly one set of grandparents who were first cousins. That is, assume that in the family tree of a current person, one set of grandparents were first cousins, i.e. two of the (unpartnered) great-grandparents were siblings. Furthermore, assume one grandparent has grandparents who were first cousins, and so on, repeating this pattern for every second generation. It is not easy! You would end up with a sequence like this: 1, 2, 4, 8, 14, 28, 54, 108, 214, 428, 854,... That is, from the number "4" in the sequence, you apply the following rule: Multiply by 2 every step, but every second step (i.e. every second generation) you also subtract 2  (because there are two sets of grandparents that actually coincide). Try to work this out for yourself. 
 
 Is it possible to represent this in a concise mathematical way? Well, here is one way to summarise this sequence. Set $a_1=1$, $a_2=2$, $a_3=4$, and then apply the formula
@@ -67,7 +69,9 @@ a_{n+1} = a_n - 4\left( \frac{n+1}{2} - \left\lfloor\frac{n+1}{2}\right\rfloor \
 $$
 Here, $\lfloor x \rfloor$ denotes the "[floor function](https://epsilonstream.com/topic/floorFunction)", or the "integer
 part", of $x$ (in other words, we just round down $x$ to the nearest whole
-number). Implementing this modification in the data used above, going back to the year 1019 would give the number 7,158,278,828. More than one billion less than the original model, but still far too large to be realistic. The art is to now introduce further modifications to approach some kind of realism. Without explicit data, though, this is not really feasible. Have you seen your family tree? How far back does it go? In any case, maybe you can try some other variants and see if you can come up with mathematical formulae that take into account your new assumptions. What assumptions did you make? If you have any suggestions, let us know!
+number). Implementing this modification in the data used above, going back to the year 1019 would give the number 7,158,278,828. More than one billion less than the original model, but still far too large to be realistic. The art is to now introduce further modifications to approach some kind of realism. Without explicit data, though, this is not really feasible. Have you seen your family tree? How far back does it go? In any case, maybe you can try some other variants and see if you can come up with mathematical formulae that take into account your new assumptions. What assumptions did you make? If you have any suggestions, [let us know](https://oneonepsilon.com/contact/)!
+
+***
 
 I have a brother who is keenly interested in our family tree, although he refers to it as the family briar patch. There is no denying that our family histories can be quite complex. Next time you pass by a stranger in the street, perhaps now you cannot help but wonder how distantly you might be related.
 
