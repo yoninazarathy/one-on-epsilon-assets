@@ -8,25 +8,25 @@
 
 My 9-year old daughter occasionally enjoys calculating the powers of 2. Starting with 1, she will happily sit there working out the powers of 2 until they are surprisingly large numbers. Recently I had a curious conversation with her related to her calculations that I thought I would share in this blog post.
 
-Dad: How many parents do you have?
+**Dad**: How many parents do you have?
 
-Daughter: You know that! I have 2 parents!
+**Daughter**: You know that! I have 2 parents!
 
-Dad: How many grandparents do you have?
+**Dad**: How many grandparents do you have?
 
-Daughter: 4
+**Daughter**: 4
 
-Dad: How many great-grandparents?
+**Dad**: How many great-grandparents?
 
-Daughter: 8.
+**Daughter**: 8.
 
-Dad: How many great-great-grandparents?
+**Dad**: How many great-great-grandparents?
 
-Daughter: 16… wait, these are powers of 2.
+**Daughter**: 16… wait, these are powers of 2.
 
-Dad: What if you kept going with this? 
+**Dad**: What if you kept going with this? 
 
-Daughter: How far back in time can you go?
+**Daughter**: How far back in time can you go?
 
 Okay, so it was at this point that we had to lay a few ground rules. What we were actually doing was starting to create a mathematical model describing the number of new ancestors in history, given a particular year. To progress, one of the key assumptions that we decided to make was that a new generation occurs every 30 years. Is this reasonable? Well, it is something we could change later if we wanted. 
 
