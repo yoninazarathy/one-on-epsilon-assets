@@ -28,4 +28,4 @@ For this sequence of meetings, we used the [Julia Language](https://julialang.or
 
 Give it a try! [Register](https://oneonepsilon.com/register/) with us and subscribe to our [YouTube channel](https://www.youtube.com/channel/UCgJdh1-DfCRQ1O9w2ez5AkQ) to get updates.
 
-![Girl with dad and computer](https://es-app.com/blog-assets/girl-with-data-and-computer.jpg){.blog-image-header}
+![Girl with dad and computer](https://es-app.com/blog-assets/girl-with-dad-and-computer.jpg){.blog-image-inline-small}
