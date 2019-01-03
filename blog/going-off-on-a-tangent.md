@@ -4,9 +4,9 @@
 
 ![Blog header image](https://es-app.com/assets/pl29pl.jpg){.blog-image-header}
 
-The start of the second Global Math Week is celebrated on 10-10-18. This week has us thinking about joyful, global mathematics, and how mathematics can bring people together from all across the globe. As we mark this week, we can also consider how different mathematics subjects are interconnected to give us exciting ways of exploring similar concepts.
+The start of the second [Global Math Week](https://www.globalmathproject.org/) is celebrated on 10-10-18. This week has us thinking about joyful, global mathematics, and how mathematics can bring people together from all across the globe. As we mark this week, we can also consider how different mathematics subjects are interconnected to give us exciting ways of exploring similar concepts.
 
-For example, have you ever wondered why we take math classes in a set order? Although the classes seem to cover different skills, often the same phrase or concept appears across multiple subjects. For example, the word tangent shows up in algebra, geometry, and calculus. Then, have you ever wondered how this concept is connected across these math courses? Is the concept of tangent different in each one?
+For example, have you ever wondered why we take math classes in a set order? Although the classes seem to cover different skills, often the same phrase or concept appears across multiple subjects. For example, the word **tangent** shows up in algebra, geometry, and calculus. Then, have you ever wondered how this concept is connected across these math courses? Is the concept of tangent different in each one?
 
 Let’s explore how a tangent line interacts with a circle. A tangent line of a circle is a line that passes through exactly one point on the circle, or the point of tangency. The slope of the tangent line changes as the point of tangency rotates around the circle.
 
@@ -22,13 +22,13 @@ In elementary algebra, slope is defined as the change along the y-axis versus th
 
 $$ y - y_1 = m(x - x_1)$$
 
-The same concept of tangent line can also be explored through calculus. In fact, a large part of calculus is the study of change, and, more specifically, instantaneous change. Calculus has a wide range of applications ranging from mathematical models representing stock markets to taking rockets to space. Evaluating derivatives in calculus means finding the rate of change, and in the case of a circle, it allows us to find the slope. You may think, "Great, but why do I need another way of finding the slope?" Here is the beauty: the first derivative gives us the equation to find any slope along any smooth curve, not just circles.
+The same concept of tangent line can also be explored through calculus. In fact, a large part of calculus is the study of change, and, more specifically, instantaneous change. Calculus has a wide range of [applications](https://www.youtube.com/watch?v=4fqVT-DfpGg) ranging from mathematical models representing stock markets to taking rockets to space. Evaluating derivatives in calculus means finding the rate of change, and in the case of a circle, it allows us to find the slope. You may think, "*Great, but why do I need another way of finding the slope*?" Here is the beauty: the first derivative gives us the equation to find any slope along any smooth curve, not just circles.
 
-Now, consider the circle centered at (0, 0) with a radius of 1.
+Now, consider the circle centered at $(0, 0)$ with a radius of $1$.
 
 IMAGE
 
-It can be represented via the set of (x, y) points that satisfy the equation,
+It can be represented via the set of $(x, y)$ points that satisfy the equation,
 
 $$x^2 + y^2 =1 $$
 
@@ -52,7 +52,7 @@ By using trigonometry ratios, we can find the angle of intersecting tangent line
 
 **The measure of the angle created by the tangent lines is half the difference of the arc measures created by the tangent lines:**
 
-COMPFORMULA
+$$\frac{1}{2}\big( m \widearc{AB}_{\text{major}} - m \widearc{AB}_{\text{minor}} \big) = \measuredangle ADB$$
 
 ---
 
