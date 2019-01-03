@@ -45,4 +45,4 @@ As we do every month, our [Editors' Picks](https://epsilonstream.com/topic/edito
 
 Let us know which of these videos you liked the most. We'd love to hear from you. You can also follow @OneOnEpsilon on Twitter for daily math video shout outs and continue to support the incredible mathematics content creators on YouTube.
 
-[![Epsilon Cat](https://es-app.com/blog-assets/epsilonCat.jpg).{.blog-image-medium}](https://www.youtube.com/watch?v=7zZhs3nMYKw)
+[![Epsilon Cat](https://es-app.com/blog-assets/epsilonCat.jpg){.blog-image-inline-small}](https://www.youtube.com/watch?v=7zZhs3nMYKw)
