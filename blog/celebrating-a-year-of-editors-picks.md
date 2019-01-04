@@ -18,4 +18,5 @@ We are now celebrating a year of Editors' Picks. This is a collection of videos 
 
 If you like what you see, subscribe and support the great [YouTube creators](https://epsilonstream.com/topic/channels/) that made these videos! In fact, in the coming week, we will individually tweet about each and every video from the Editor's Picks of the past 12 moths. Then, next week, stay tuned for our 13'th Editor's picks edition. We are excited to head into our second year of editor's picks...
 
-epsEditor.jpg
+
+[![Global Math Project](https://es-app.com/blog-assets/epsEditor.jpg){.blog-image-inline-small}](https://oneonepsilon.com/register/)
