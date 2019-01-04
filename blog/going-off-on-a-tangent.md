@@ -32,7 +32,7 @@ It can be represented via the set of $(x, y)$ points that satisfy the equation,
 
 $$x^2 + y^2 =1 $$
 
-By applying a derivative to both sides of the equation, we easily find out the slope of the tangent line at any point (x, y) on the circle, as long as y is not 0. For example, the slope of the tangent line at (0.8, 0.6) will be
+By applying a derivative to both sides of the equation, we easily find out the slope of the tangent line at any point $(x, y)$ on the circle, as long as $y$ is not $0$. For example, the slope of the tangent line at $(0.8, 0.6)$ will be
 
 $$ -\frac{x}{y} = - \frac{0.8}{0.6} = - \frac{4}{3} $$
 
@@ -40,7 +40,7 @@ Then, by using the point-slope formula, we get
 
 $$ y = - \frac{4}{3} x + \frac{5}{3}$$
 
-In fact, the first derivative allows us to easily find the equation of any tangent line to this circle given the point of tangency, again, as long as the y-coordinate does not equal 0. This same tool makes it easy to examine the angle relationships of tangent lines as well.
+In fact, the first derivative allows us to easily find the equation of any tangent line to this circle given the point of tangency, again, as long as the $y$-coordinate does not equal $0$. This same tool makes it easy to examine the angle relationships of tangent lines as well.
 
 ---
 
@@ -58,10 +58,12 @@ $$\frac{1}{2}\big( m \widearc{AB}_{\text{major}} - m \widearc{AB}_{\text{minor}}
 
 As you grow in your math knowledge, you are not just learning discrete concepts, rather, you are making connections between previously learned concepts. For example, without a firm understanding of slope, the first derivative is meaningless. Mathematics is a subject built from the bottom up, and the seemingly simple concepts learned in elementary mathematics courses are the foundation. The beauty is that as you develop deeper mathematical knowledge, often prior concepts becomes clearer, and you gain a deeper understanding and appreciation of them as well. 
 
-In the video below by James Tanton of the Global Math Project, you can explore how geometry can be laced with arithmetic to explore a different approach of finding squares of numbers.
+In the video below by James Tanton of the [Global Math Project](https://www.globalmathproject.org/), you can explore how geometry can be laced with arithmetic to explore a different approach of finding squares of numbers.
 
-VIDEO
+<center>
+<iframe width="50%"  src="https://www.youtube.com/embed/80mINNY_zps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
-How about you? Have you made connections between concepts taught in different mathematics courses? Did you learn concepts later on in your math education that made earlier concepts clearer? For example, would it be better if we learned about positive and negative numbers through algebra directly? Write to let us know.
+How about you? Have you made connections between concepts taught in different mathematics courses? Did you learn concepts later on in your math education that made earlier concepts clearer? For example, would it be better if we learned about positive and negative numbers through algebra directly? Write to [let us know](https://oneonepsilon.com/contact/).
  
 GMP ImAGE
