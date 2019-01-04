@@ -98,7 +98,9 @@ This topic has been debated and written about extensively. Here are some other g
 
 Mathematics is often portrayed as being uncreative, stagnant, and mechanical. I believe posing questions like the ones in this blog post help combat that stereotype. Now it is time to share your own opinion. The following is a survey I created for adults and children alike. The goal of the survey is to get you thinking. Please take and share!
 
+<center>
 ## [Click here for Survey](https://www.surveymonkey.com/r/WHM3B7V)
+</center>
 
 ***
 
