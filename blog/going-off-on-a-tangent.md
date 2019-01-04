@@ -10,7 +10,7 @@ For example, have you ever wondered why we take math classes in a set order? Alt
 
 Let’s explore how a tangent line interacts with a circle. A tangent line of a circle is a line that passes through exactly one point on the circle, or the point of tangency. The slope of the tangent line changes as the point of tangency rotates around the circle.
 
-IMAGE
+![Inline image](https://es-app.com/blog-assets/3tangents.png){.blog-image-medium}
 
 In elementary algebra, slope is defined as the change along the y-axis versus the change along the x-axis. To find the equation of the tangent line given the point of tangency at this level, a typical approach might involve:
 
@@ -26,7 +26,7 @@ The same concept of tangent line can also be explored through calculus. In fact,
 
 Now, consider the circle centered at $(0, 0)$ with a radius of $1$.
 
-IMAGE
+![Inline image](https://es-app.com/blog-assets/single-tanget.png){.blog-image-medium}
 
 It can be represented via the set of $(x, y)$ points that satisfy the equation,
 
@@ -46,7 +46,7 @@ In fact, the first derivative allows us to easily find the equation of any tange
 
 Here is a case where tangent lines of circle appear in geometry. If we build on the previous example and create an additional tangent line, there is an angle at the point where the two tangents intersect. 
 
-IMAGE
+![Inline image](https://es-app.com/blog-assets/more-tangent.png){.blog-image-medium}
 
 By using trigonometry ratios, we can find the angle of intersecting tangent lines and then use inductive reasoning to infer one of the key theorems in geometry:
 
@@ -66,4 +66,4 @@ In the video below by James Tanton of the [Global Math Project](https://www.glob
 
 How about you? Have you made connections between concepts taught in different mathematics courses? Did you learn concepts later on in your math education that made earlier concepts clearer? For example, would it be better if we learned about positive and negative numbers through algebra directly? Write to [let us know](https://oneonepsilon.com/contact/).
  
-GMP ImAGE
+[![Global Math Project](https://es-app.com/blog-assets/facebook_gmp_vertical.png){.blog-image-inline-small}](https://www.globalmathproject.org/partners/)
