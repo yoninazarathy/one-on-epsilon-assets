@@ -42,9 +42,10 @@ VIDEO
 
 So if $1729$ comes first who comes second? Is there a second? A third? How would you compute that? The following image of a simple Excel spreadsheet does the job:
 
-IMAGE-SHEET
+![Excel sheet snapshot of 4104](https://es-app.com/blog-assets/all3.png){.blog-image-inline-full}
 
-You can download our [example spreadsheet](), or you can try and create one of your own. It is nothing more than an "addition table" of the cubes $1$, $8$, $27$, $64$,... all the way up to $15625$ ($25$ cubed). You can then inspect it visually and see that $1729$ is the first such duplicate value. So who comes second?  You got it: $4104$.  
+
+You can download our [example spreadsheet](https://es-app.com/blog-assets/1729_4104.xlsx), or you can try and create one of your own. It is nothing more than an "addition table" of the cubes $1$, $8$, $27$, $64$,... all the way up to $15625$ ($25$ cubed). You can then inspect it visually and see that $1729$ is the first such duplicate value. So who comes second?  You got it: $4104$.  
 
 $$9^3 + 15^3 = 4104 = 3^3 + 16^3$$
 
