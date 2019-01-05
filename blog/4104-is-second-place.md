@@ -24,7 +24,9 @@ Try as you might, you won't find such $a$ and $b$. So the smallest $X$ is clearl
 
 If you are a math enthusiast, or if you watched The Man who Knew Infinity, then you probably heard about the extraordinary Indian mathematician [Srinivasa Ramanujan](https://epsilonstream.com/topic/ramanujan).  In this clip from the movie, Ramanujan states that $X = 1729$ comes first. 
 
-<iframe width="70%" src="https://www.youtube.com/embed/Qi4SDDjgHdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="40%" src="https://www.youtube.com/embed/Qi4SDDjgHdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 His friend and colleague, [G. H. Hardy](https://epsilonstream.com/topic/hardyMathematician), was not aware of such a "competition". Later in historical notes, Hardy mentioned Ramanujan's observation about $1729$:
 
