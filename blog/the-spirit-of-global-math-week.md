@@ -7,9 +7,7 @@
 
 [Global Math Week](https://www.globalmathproject.org/learn/) 2018 has just finished. It was a spectacular celebration of joyful global mathematics, experienced by millions of students and tens of thousands of educators across the globe. The theme was [Exploding Dots](https://epsilonstream.com/topic/explodingdots/). A visually engaging system for numbers, arithmetic, polynomials and much more. Why global? Why celebrate? Why math?
 
-As recently stated by [Keith Devlin](http://devlinsangle.blogspot.com/2018/05/calculation-was-price-we-used-to-have.html):
-
-**Calculation was the price we used to have to pay to do mathematics.**
+As recently stated by [Keith Devlin](http://devlinsangle.blogspot.com/2018/05/calculation-was-price-we-used-to-have.html): **Calculation was the price we used to have to pay to do mathematics.**
 
 What does that actually mean? You may be thinking... "mathematics is calculation, is it not?".
 
