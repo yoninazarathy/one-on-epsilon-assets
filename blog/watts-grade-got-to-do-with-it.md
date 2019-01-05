@@ -17,7 +17,9 @@ As for professionals, take for example, the the 2013 edition of the [Tirreno-Adr
 
 Furthermore, if we measure the degrees of the gradient using trigonometry, we see that a 27% grade is only about 15 degrees - that’s quite a small angle! So what creates the uphill struggle?
 
-IMAGE2
+![Global Math Project](https://es-app.com/blog-assets/waatTriangle.png){.blog-image-inline-medium}
+
+
 
 It turns out the answer to our challenge is measured in Watts - a unit of power that measures the rate of energy transfer. We, as bodies in motion, generate power. The amount of power (P) we generate going on a slope is a product of velocity relative to the ground (v), mass (m), gravity (g), and the slope (s). The resulting equation is
 
