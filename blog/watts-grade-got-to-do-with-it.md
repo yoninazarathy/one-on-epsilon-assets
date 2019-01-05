@@ -37,6 +37,9 @@ So what can we infer from the information? Consider the graph below as we compar
 
 ![Global Math Project](https://es-app.com/blog-assets/waatGraph.png){.blog-image-inline-medium}
 
+![Global Math Project](https://es-app.com/blog-assets/waatTable3.png){.blog-image-inline-medium}
+
+
 
 
 IMAGE4
