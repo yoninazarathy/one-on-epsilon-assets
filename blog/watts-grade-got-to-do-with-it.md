@@ -6,11 +6,11 @@
 
 Have you ever bicycled uphill and found yourself walking the bike? What makes some inclines more difficult than others? Surely, it depends on an individual cyclist, but even top athletes have their breaking point and occasionally walk their bike. Why can inclines be so exhausting?
 
-IMAGE1
+![Global Math Project](https://es-app.com/blog-assets/10percentClimb.png){.blog-image-inline-small}
 
 Most hills/inclines are denoted by gradient marks to caution riders of changes in elevation. For example, a 10% grade means that a biker climbs 1 vertical meter for every 10 horizontal meters. Indeed, even a 10% grade is challenging for an average biker.
 
-As for professionals, take for example, the the 2013 edition of the Tirreno-Adriatico race. There many professional cyclists ended up walking their bicycles over a 27% grade. Understandably, such a steep grade can be tiring, especially since you are covering more distance than is apparent on a map; however,  consider this:
+As for professionals, take for example, the the 2013 edition of the [Tirreno-Adriatico race](https://en.wikipedia.org/wiki/Tirreno%E2%80%93Adriatico). There many professional cyclists ended up walking their bicycles over a 27% grade. Understandably, such a steep grade can be tiring, especially since you are covering more distance than is apparent on a map; however,  consider this:
 
 **The 27% incline covered only a small fraction of the 3km climb.
 3km out of 209km!**
@@ -27,7 +27,7 @@ Let's now explore how changes in the gradient (slope) affects Watts. The beauty 
 
 For this let's create a cyclist profile that assumes certain characteristics.
 
-IMAGE3cycling
+![Global Math Project](https://es-app.com/blog-assets/waatsNaz.jpg){.blog-image-inline-medium}
 
 Let’s assume that Joshua weighs 70kg (m) and rides the bike at a constant 20 km/h (v) over a horizontal distance of 3.33 km (part of the slope). To find out the rate of Power output for each increment in incline, we will use a cool tool developed by Sandiway Fong at the University of Arizona, USA. This is the Climbing Power Calculation tool. In addition to considering the above inputs, the tool allows us to specify the style of bicycle riding and the bike weight. 
 
