@@ -17,13 +17,15 @@ As for professionals, take for example, the the 2013 edition of the [Tirreno-Adr
 
 Furthermore, if we measure the degrees of the gradient using trigonometry, we see that a 27% grade is only about 15 degrees - that’s quite a small angle! So what creates the uphill struggle?
 
-![Global Math Project](https://es-app.com/blog-assets/waatTriangle.png){.blog-image-inline-medium}
+![Global Math Project](https://es-app.com/blog-assets/waatsCalcs.png){.blog-image-inline-medium}
 
+
+![Global Math Project](https://es-app.com/blog-assets/waatTriangle.png){.blog-image-inline-medium}
 
 
 It turns out the answer to our challenge is measured in Watts - a unit of power that measures the rate of energy transfer. We, as bodies in motion, generate power. The amount of power (P) we generate going on a slope is a product of velocity relative to the ground (v), mass (m), gravity (g), and the slope (s). The resulting equation is
 
-EQQQQ
+$$P = v \times m \times g \times \sin\big(\tan^{-1}(s)\big) \approx v \times m \times g \times s$$
 
 Let's now explore how changes in the gradient (slope) affects Watts. The beauty of the above formula is that it shows that if velocity, mass and gravity are kept constant, then the Power needed is approximately proportional to the grade. However, in the calculations below we use a more advanced model that also incorporates other aspects such rolling resistance (friction) and air drag.
 
@@ -31,7 +33,7 @@ For this let's create a cyclist profile that assumes certain characteristics.
 
 ![Global Math Project](https://es-app.com/blog-assets/waatsNaz.jpg){.blog-image-inline-medium}
 
-Let’s assume that Joshua weighs 70kg (m) and rides the bike at a constant 20 km/h (v) over a horizontal distance of 3.33 km (part of the slope). To find out the rate of Power output for each increment in incline, we will use a cool tool developed by Sandiway Fong at the University of Arizona, USA. This is the Climbing Power Calculation tool. In addition to considering the above inputs, the tool allows us to specify the style of bicycle riding and the bike weight. 
+Let’s assume that Joshua weighs 70kg (m) and rides the bike at a constant 20 km/h (v) over a horizontal distance of 3.33 km (part of the slope). To find out the rate of Power output for each increment in incline, we will use a cool tool developed by [Sandiway Fong](http://elmo.sbs.arizona.edu/sandiway/) at the University of Arizona, USA. This is the [Climbing Power Calculation tool](http://www.u.arizona.edu/~sandiway/bike/climb.html). In addition to considering the above inputs, the tool allows us to specify the style of bicycle riding and the bike weight. 
 
  
 
@@ -48,7 +50,7 @@ Just going from 0%  to 2% incline, Joshua would have to produce 147 Watts;
 126% more than his output on a flat ground! 
 
 
-As the website CyclingTips helps us to put things in perspective, a very advanced rider can only maintain about 400 Watts for approximately 11 mins. As you might imagine, Joshua will start to get tired pretty fast, the steeper he goes. However, to be fair, our model has a very unfair restriction on him.
+As the website [CyclingTips](https://cyclingtips.com/2017/06/just-how-good-are-male-pro-road-cyclists/) helps us to put things in perspective, a very advanced rider can only maintain about 400 Watts for approximately 11 mins. As you might imagine, Joshua will start to get tired pretty fast, the steeper he goes. However, to be fair, our model has a very unfair restriction on him.
 
  
 
@@ -58,4 +60,4 @@ Joshua doesn’t have to bike at a constant 20km/h, nor does he have to maintain
 
 And now a challenge question: Assuming Joshua is a professional cyclist who can sustain creating 450 Watts over a duration of 10 mins, what’s the steepest gradient he could bike up, assuming he can’t change his speed or biking position? You may use Fong’s Climbing Power Calculator or create your own table based on the equation. 
 
-Please share your results with us. We would love to hear from you! 
+Please [share your results with us](https://oneonepsilon.com/contact/). We would love to hear from you! 
