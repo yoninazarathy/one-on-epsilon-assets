@@ -11,7 +11,7 @@ It shouldn't surprise you that [our team](https://oneonepsilon.com/epsilonstre
 The free Epsilon Stream platform presents the best content from the web in a unified and clear experience. 
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7zZhs3nMYKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="70%" src="https://www.youtube.com/embed/7zZhs3nMYKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 As we do every month, our [Editors' Picks](https://epsilonstream.com/topic/editorspicks/) presents you with a few selected high quality videos across a range of topics and channels. Let's get started!
