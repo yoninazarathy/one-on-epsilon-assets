@@ -35,6 +35,10 @@ Let’s assume that Joshua weighs 70kg (m) and rides the bike at a constant 20 k
 
 So what can we infer from the information? Consider the graph below as we compare the amount of Watts Joshua’s body needs for every additional graident, assuming that he maintains a constant speed of 20 km/h and the same seated position (air drag) on his bicycle. He will have to produce approximately 40 Watts for every gradient. Clearly, as the data suggests, inclines are very difficult! To go up each additional percent of gradient, Joshua would have to keep doubling his Watts output.
 
+![Global Math Project](https://es-app.com/blog-assets/waatGraph.png){.blog-image-inline-medium}
+
+
+
 IMAGE4
 
 As if it is not daunting already to double the Watts output for each additional gradient, when we evaluate the percentage increase of Watts needed for each additional gradient, we realize how much more power is needed compared to going on a flat ground. 
