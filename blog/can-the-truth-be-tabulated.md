@@ -28,7 +28,7 @@ In using the word logic here, we mean that every statement is either true or fal
 
 In order to carefully examine and understand Curry’s Paradox, let’s first explore compound statements. A compound statement is one that is made up of two or more statements. Here is an example of a compound statement: **It is raining or the kids are playing outside.**
 
-IMAGE
+![Global Math Project](https://es-app.com/blog-assets/4girls.jpg){.blog-image-inline-medium}
  
 We can use brackets to separate out the distinct statements.
 
@@ -42,7 +42,46 @@ One way to analyze a compound statement is by using a truth table. This is a tab
 
 There are two possible values for statement A, true or false. There are two possible values of statement B, true or false. The compound statement, "A or B" uses the Boolean operator OR. We can think of it as, "When A and/or B is true, this statement is true." Here is the truth table for "A or B":
 
-TABLE1
+<style>
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+</style>
+<center>
+<table>
+<tr>
+   <th>A</th>
+   <th>B</th>
+   <th>A or B</th>
+</tr>
+<tr>
+   <td> true </td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> true </td>
+   <td> false</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> false </td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> false </td>
+   <td> false</td>
+   <td> false</td>
+</tr>
+</table>
+</center>
 
 Note that the compound statement "A or B" is only false if A and B are both false.
 
@@ -50,7 +89,51 @@ Two statements are logically equivalent if their truth tables are the same. It m
 
 **If (not A) then B**
 
-TABLE2
+<style>
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+</style>
+<center>
+<table>
+<tr>
+   <th>A</th>
+   <th>Not A</th>
+   <th>B</th>
+   <th>If (Not A) then B</th>
+</tr>
+<tr>
+   <td> true </td>
+   <td> false</td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> true </td>
+   <td> false</td>
+   <td> false</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> false </td>
+   <td> true</td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+   <td> false </td>
+   <td> true</td>
+   <td> false</td>
+   <td> false</td>
+</tr>
+</table>
+</center>
 
 Let’s look at this a bit more closely. If “not A” (the hypothesis) is true, then the entire statement can only be true if B (the conclusion) is also true.
 
@@ -73,7 +156,54 @@ Set C to represent the statement “this sentence is false” and D to represent
 
 Looking through our mathematical lens, we produce this truth table as before:
 
-TABLE3
+<style>
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+</style>
+<center>
+<table>
+  <colgroup>
+    <col span="1" style="">
+  </colgroup>
+<tr>
+   <th>Row</th>
+   <th>C</th>
+   <th>D</th>
+   <th>C or D</th>
+</tr>
+<tr>
+   <td> 1 </td>
+   <td> true </td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+<td> 2 </td>
+   <td> true </td>
+   <td> false</td>
+   <td> true</td>
+</tr>
+<tr>
+<td> 3 </td>
+   <td> false </td>
+   <td> true</td>
+   <td> true</td>
+</tr>
+<tr>
+<td> 4 </td>
+   <td> false </td>
+   <td> false</td>
+   <td> false</td>
+</tr>
+</table>
+</center>
 
 Here is where the logical paradox arises. In rows 1 and 2, C is true. However, C is a statement that refers to its own value. When C is true, this corresponds to saying that the statement “this sentence is false” is true, which means the sentence is false. That is inconsistent with the value in the right-most column. 
 
@@ -87,11 +217,14 @@ By the way, another common presentation of this paradox is the conditional state
 
 If you are interested in looking at other types of mathematical paradoxes, check out this video on the Banach-Tarski paradox by VSauce:
 
-VIDEO-VSAUCE
+<div class="blog-video-inline"><iframe src="hhttps://youtu.be/s86-Z-CbaHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 You can also check out the “proof” that pi = 4 by Vihart:
 
-VIDEO-ViHeart
+
+
+[![Inline image](https://i.ytimg.com/vi/D2xYjiL8yyE/mqdefault.jpg
+){.blog-image-medium}](https://epsilonstream.com/video/il8yye){.es-play-overlay}
 
 Although neither of these are a logical paradox like Curry's Paradox, they demonstrate that mathematics is more than just a set of rules that we follow to make intuitive deductions. There is so much more richness to mathematics!
 
