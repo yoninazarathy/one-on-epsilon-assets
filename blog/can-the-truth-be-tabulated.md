@@ -58,8 +58,7 @@ We must be very clear to take the statement at face value and not interpret anyt
 
 The situation represented by these logically equivalent statements can be summarized in the following diagram:
 
-IMAGE2-DIAGRAM
-
+![Global Math Project](https://es-app.com/blog-assets/playOrWhat.png){.blog-image-inline-medium}
 ---
 
 Now we can have fun with Curry’s Paradox!
