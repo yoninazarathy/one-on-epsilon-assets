@@ -215,11 +215,9 @@ By the way, another common presentation of this paradox is the conditional state
 
 If you are interested in looking at other types of mathematical paradoxes, check out this video on the Banach-Tarski paradox by VSauce:
 
-<div class="blog-video-inline"><iframe src="hhttps://youtu.be/s86-Z-CbaHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="blog-video-inline"><iframe src="https://www.youtube.com/watch?v=s86-Z-CbaHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 You can also check out the “proof” that pi = 4 by Vihart:
-
-
 
 [![Inline image](https://i.ytimg.com/vi/D2xYjiL8yyE/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/il8yye){.es-play-overlay}
