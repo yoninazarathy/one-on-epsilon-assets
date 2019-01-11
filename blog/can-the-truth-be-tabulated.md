@@ -1,5 +1,3 @@
-The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2018/04/27/Can-the-truth-be-tabulated/). We are in the process of moving it to the current location.
-
 # Can the truth be tabulated?
 
 *April 27, 2018*
