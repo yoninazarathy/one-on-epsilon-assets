@@ -5,7 +5,7 @@
 
 ![blogLogoImage](https://es-app.com/assets/dch5fH.png){.blog-image-header}
 
-“*Mathematics has been stolen from us, and it is time we take it back.*” – You’ll find this on page 2 of **Burn Math Class and Reinvent Mathematics for Yourself**, an incredible Book by **Jason Wilkes**. Has mathematics really been stolen from us? I am not sure. But for me, one thing is certain. This enlightening book goes a long way in presenting the beauty of mathematics in a manner that is perhaps accessible to anyone who is willing to read and think. No prior knowledge is needed.
+“*Mathematics has been stolen from us, and it is time we take it back.*” – You’ll find this on page 2 of [Burn Math Class and Reinvent Mathematics for Yourself](https://books.google.com.au/books/about/Burn_Math_Class.html?id=cB8ejgEACAAJ), an incredible Book by **Jason Wilkes**. Has mathematics really been stolen from us? I am not sure. But for me, one thing is certain. This enlightening book goes a long way in presenting the beauty of mathematics in a manner that is perhaps accessible to anyone who is willing to read and think. No prior knowledge is needed.
 
 Jason Wilkes, a young thinking scholar has done wonders in developing a non-conventional mathematics book that contains real mathematics. This book is not an exposition of the History of mathematics nor an ambassador of the usefulness of mathematics in science and engineering. It is rather a journey through thought and discovery that begins with elementary concepts and ends with highly complex notions, all presented in a neat and brilliantly accessible manner.
 
