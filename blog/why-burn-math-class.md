@@ -1,23 +1,17 @@
-The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/01/20/Why-Burn-Math-Class). We are in the process of moving it to the current location.
-
-
 # Why Burn Math Class?
 *February 3, 2017*
 
 **Yoni Nazarathy**
 
-![blogLogoImage](https://es-app.com/assets/dch5fH.png) 
+![blogLogoImage](https://es-app.com/assets/dch5fH.png){.blog-image-header}
 
-“Mathematics has been stolen from us, and it is time we take it back.” – You’ll find this on page 2 of Burn Math Class and Reinvent Mathematics for Yourself, an incredible Book by Jason Wilkes. Has mathematics really been stolen from us? I am not sure. But for me, one thing is certain, this enlightening book goes a long way in presenting the beauty of mathematics in a manner that is perhaps accessible to anyone who is willing to read and think. No prior knowledge is needed.
-
- 
+“*Mathematics has been stolen from us, and it is time we take it back.*” – You’ll find this on page 2 of **Burn Math Class and Reinvent Mathematics for Yourself**, an incredible Book by **Jason Wilkes**. Has mathematics really been stolen from us? I am not sure. But for me, one thing is certain. This enlightening book goes a long way in presenting the beauty of mathematics in a manner that is perhaps accessible to anyone who is willing to read and think. No prior knowledge is needed.
 
 Jason Wilkes, a young thinking scholar has done wonders in developing a non-conventional mathematics book that contains real mathematics. This book is not an exposition of the History of mathematics nor an ambassador of the usefulness of mathematics in science and engineering. It is rather a journey through thought and discovery that begins with elementary concepts and ends with highly complex notions, all presented in a neat and brilliantly accessible manner.
 
- 
+“*Declaration of Independence: The purpose of math courses is not to create students who know things about math. The purpose of math courses is to create students who know how to think.*” You’ll find this on page 38 and in the following pages you will find a beautiful exposition of algebraic results, derived geometrically from first principles. See for example this beautiful illustration on page 63,
 
-“Declaration of Independence: The purpose of math courses is not to create students who know things about math. The purpose of math courses is to create students who know how to think.” You’ll find this on page 38 and in the following pages you will find a beautiful exposition of algebraic results, derived geometrically from first principles. See for example this beautiful illustration on page 63,
-
+IMAGE
 
 Think a bit about the areas of right triangles and squares, and then see why the famous “Pythagorean theorem” follows.
 
@@ -41,24 +35,8 @@ On page 164, after some fun and engaging reading, we are introduced to the magic
 
 Without indicating that # is approximately 3.14159, the author continues to use this ratio until he manages to represent it using beautiful formulas of infinite series, for example,
 
+$$ \# = 4 - \frac{4}{3} + \frac{4}{5} - \frac{4}{7}  $$
  
-
-
 This is all done from first principles. You don’t need to rely on 14 years of a complicated math education to find out this incredible formula for pi (oops I mean #). The book does it from scratch!
 
- 
-
 In summary, I really enjoyed reading many parts of this 389 page long book. I enjoyed Jason Wilkes’ humour and creativity. I enjoyed the pedagogical journey. And most of all I enjoyed the beautiful art of mathematics. I recommend you try it also and I hope that even if you haven't touched mathematics for many years, this book will drive your curiosity.
-
- 
-
- 
-
-Search Tags:
-
-Book Review
-
-Burn Math Class
-
-Pi
-
