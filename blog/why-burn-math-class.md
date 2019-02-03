@@ -21,12 +21,12 @@ The book turns mathematics on its head. It is a calculus-focused book that does 
 
 After developing concepts associated with area, the author quickly moves onto understanding slopes and derivatives. Only later, are the basic trigonometric functions introduced – but without all of the bells and whistles that often turn students away from trigonometry. Burn math class – discover mathematics!
 
-On page 164, after some fun and engaging reading, we are introduced to the magical constant, #. This constant, as the author labels it, is the ratio between four times the area of a circle and the area of the square that inscribes the circle.
+On page 164, after some fun and engaging reading, we are introduced to the magical constant, $\#$. This constant, as the author labels it, is the ratio between four times the area of a circle and the area of the square that inscribes the circle.
 
-Without indicating that # is approximately 3.14159, the author continues to use this ratio until he manages to represent it using beautiful formulas of infinite series, for example,
+Without indicating that $\#$ is approximately $3.14159$, the author continues to use this ratio until he manages to represent it using beautiful formulas of infinite series, for example,
 
 $$ \# = 4 - \frac{4}{3} + \frac{4}{5} - \frac{4}{7}  + \frac{4}{9} - \frac{4}{11} + \frac{4}{13} + \ldots $$
  
-This is all done from first principles. You don’t need to rely on 14 years of a complicated math education to find out this incredible formula for pi (oops I mean #). The book does it from scratch!
+This is all done from first principles. You don’t need to rely on 14 years of a complicated math education to find out this incredible formula for $\pi$ (oops I mean $\#$). The book does it from scratch!
 
 In summary, I really enjoyed reading many parts of this 389 page long book. I enjoyed Jason Wilkes’ humour and creativity. I enjoyed the pedagogical journey. And most of all I enjoyed the beautiful art of mathematics. I recommend you try it also and I hope that even if you haven't touched mathematics for many years, this book will drive your curiosity.
