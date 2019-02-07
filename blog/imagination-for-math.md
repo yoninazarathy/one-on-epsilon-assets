@@ -41,8 +41,7 @@ The problem is asking to find out Elise’s height. The challenge is that the pr
 
 To visualize this problem, you may use a tape-diagram. This is often a great tool for solving problems involving interrelated parts. To start, draw a simple tape for Kevin. Start with his height because his cousins' height is based on his height.  He is your 'target.'
 
-IMAGE
-![Pythagorean theorem](https://es-app.com/blog-assets/page63.jpg){.blog-image-inline-small}
+![graph](https://es-app.com/blog-assets/slide1-image.png){.blog-image-inline-small}
 
 Now that you have created a tape for Kevin, you need a method to compare Kevin, Jill and Elise. You know that:
 
@@ -52,23 +51,23 @@ Elise and Jill together as five-sixths of Kevin.
 
 You can compare all three by converting their ratios into a common denominator, which in this case would be 6. Since Kevin's tape is the original whole, you may split his tape into six-sixths or one whole.
 
-IMAGE
+![graph](https://es-app.com/blog-assets/slide1-image2.png){.blog-image-inline-small}
 
 But if Kevin is six-sixths, how would you draw the tapes for 'Jill,' and 'Elise and Jill?'  
 
 Before you read on any further, attempt to complete the diagram on your own.
 
-IMAGE
+![Girl reaching high](https://es-app.com/blog-assets/youngGirlReachingHigh.jpg){.blog-image-inline-small}
 
 Compare your diagram with the one below. Does your diagram look similar to this?
 
-IMAGE
+![graph](https://es-app.com/blog-assets/Slide2_edited.png){.blog-image-inline-small}
 
 By converting all three cousins’ heights into sixths and representing them visually, you can now see that if Kevin represented six-sixths and Jill represented three-sixths of Kevin, then Elise must be two-sixths of Kevin. Together, they would represent eleven-sixths of Kevin's height. You can also check this by adding the first line (Kevin's) and the third line (Elise and Jill's) of the tape diagram together. You should get eleven-sixths.  
 
 To find out Elise's height, you would have to first divide 12 feet into 11 equal parts, which would gives approximately 1.09 feet for each one-sixth part of Kevin's height. Visually, this can be represented as: 
 
-IMAGE
+![graph](https://es-app.com/blog-assets/Slide3_edited.png){.blog-image-inline-small}
 
 Now, all you have to do is add up the respective parts for each cousin to find their total height?  What do you get?
 
