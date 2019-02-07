@@ -42,6 +42,7 @@ The problem is asking to find out Elise’s height. The challenge is that the pr
 To visualize this problem, you may use a tape-diagram. This is often a great tool for solving problems involving interrelated parts. To start, draw a simple tape for Kevin. Start with his height because his cousins' height is based on his height.  He is your 'target.'
 
 IMAGE
+![Pythagorean theorem](https://es-app.com/blog-assets/page63.jpg){.blog-image-inline-small}
 
 Now that you have created a tape for Kevin, you need a method to compare Kevin, Jill and Elise. You know that:
 

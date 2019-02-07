@@ -11,7 +11,7 @@ Jason Wilkes, a young thinking scholar has done wonders in developing a non-conv
 
 “*Declaration of Independence: The purpose of math courses is not to create students who know things about math. The purpose of math courses is to create students who know how to think.*” You’ll find this on page 38 and in the following pages you will find a beautiful exposition of algebraic results, derived geometrically from first principles. See for example this beautiful illustration on page 63,
 
-![blogLogoImage](https://es-app.com/blog-assets/page63.jpg){.blog-image-inline-small}
+![Pythagorean theorem](https://es-app.com/blog-assets/page63.jpg){.blog-image-inline-small}
 
 Think a bit about the areas of right triangles and squares, and then see why the famous “Pythagorean theorem” follows.
 
