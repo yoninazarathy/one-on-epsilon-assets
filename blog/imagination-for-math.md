@@ -103,4 +103,5 @@ VIDEO
 
 The global math week, taking place October 10-17, 2017, will celebrate mathematical joy, imagination and visualization, focusing on exploding dots. Register with the global math project to find out more.
 
-IMAGE
+![graph](https://es-app.com/assets/gmp31d.jpg){.blog-image-inline-small}
+
