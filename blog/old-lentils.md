@@ -1,12 +1,11 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/01/27/How-old-are-these-lentils). We are in the process of moving it to the current location.
 
-
 # How old are these lentils?
 *January 27, 2017*
 
-
 **Yoni Nazarathy**
 
+![Blog header image](https://es-app.com/assets/ju3s14.png){.blog-image-header}
 
 Do you keep a jar of lentils? Lentils are those little lens-bean looking things that often mix so well with rice and other ingredients to make tasty and healthy meals. How old are the lentils in your jar?
 

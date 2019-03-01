@@ -1,6 +1,14 @@
 {
     "curious": [
         {
+            "title":"Powers of 2 and your family tree",
+            "author":"Phillip Isaac",
+            "publishDate":"16, Nov 2018",
+            "handle": "powers-of-2-and-your-family-tree",
+            "url": "https://es-app.com/blog/powers-of-2-and-your-family-tree.md",
+            "imageUrl": "https://es-app.com/assets/tree87.jpg"
+        },
+        {
             "title":"11, 15, 21, 30 or 36 possible outcomes?",
             "author":"Yoni Nazarathy",
             "publishDate":"16, Nov 2018",
@@ -14,7 +22,7 @@
             "publishDate":"Fri, 05 Oct 2018 13:03:41 +0000",
             "handle": "going-off-on-a-tangent",
             "url": "https://es-app.com/blog/going-off-on-a-tangent.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/pl29pl.jpg"
         },
         { 
             "title":"May the Odds Be Ever In Your Favor",
@@ -30,7 +38,7 @@
             "publishDate":"Fri, 17 Aug 2018 23:24:22 +0000", 
             "handle": "mathematics-discovered-or-invented",
             "url": "https://es-app.com/blog/mathematics-discovered-or-invented.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/bal24x.jpg"
         },
         {
             "title": "Finding the typical value - Arithmetic, geometric or harmonic?",
@@ -54,7 +62,7 @@
             "publishDate":"Fri, 25 May 2018 22:31:30 +0000", 
             "handle": "watts-grade-got-to-do-with-it",
             "url": "https://es-app.com/blog/watts-grade-got-to-do-with-it.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/aXX32f.jpg"
         },
         { 
             "title":"Can the truth be tabulated?",
@@ -62,7 +70,7 @@
             "publishDate":"Thu, 26 Apr 2018 23:50:42 +0000",
             "handle": "can-the-truth-be-tabulated",
             "url": "https://es-app.com/blog/can-the-truth-be-tabulated.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/lglg27.jpg" 
         },
         { 
             "title":"Surds, Trapezoids and Global Math(s)",
@@ -70,7 +78,7 @@
             "publishDate":"Thu, 29 Mar 2018 05:48:22 +0000",
             "handle": "surds-trapezoids-and-global-math",
             "url": "https://es-app.com/blog/surds-trapezoids-and-global-math.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/23dict.jpg" 
         },
         { 
             "title":"Thinking outside the coordinate plane",
@@ -86,7 +94,7 @@
             "publishDate":"Fri, 02 Feb 2018 12:24:17 +0000",
             "handle": "who-gets-to-be-on-the-multiplication-table",
             "url": "https://es-app.com/blog/who-gets-to-be-on-the-multiplication-table.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/843nxa.jpg" 
         },
         { 
             "title":"4104 is Second Place!",
@@ -94,7 +102,7 @@
             "publishDate":"Sat, 06 Jan 2018 10:34:55 +0000", 
             "handle": "4104-is-second-place",
             "url": "https://es-app.com/blog/4104-is-second-place.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/2da9xx.jpg"
         },
         { 
             "title":"Functions are Alive: Funville Adventures",
@@ -102,7 +110,7 @@
             "publishDate":"Sat, 09 Dec 2017 10:33:46 +0000",
             "handle": "functions-are-alive-funville-adventures",
             "url": "https://es-app.com/blog/functions-are-alive-funville-adventures.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/fun52a.jpg" 
         },
         { 
             "title":"The Number-Line Puzzle",
@@ -110,7 +118,7 @@
             "publishDate":"Sun, 12 Nov 2017 12:15:25 +0000", 
             "handle": "the-number-line-puzzle",
             "url": "https://es-app.com/blog/the-number-line-puzzle.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/ysys32.jpg"
         },
         { 
             "title":"For the love of mathematics: The Pi of Life",
@@ -118,7 +126,7 @@
             "publishDate":"Tue, 26 Sep 2017 11:35:20 +0000", 
             "handle": "for-the-love-of-mathematics-the-pi-of-life",
             "url": "https://es-app.com/blog/for-the-love-of-mathematics-the-pi-of-life.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/life24.jpg"
         },
         { 
             "title":"Take control of your math power",
@@ -126,7 +134,7 @@
             "publishDate":"Sat, 29 Jul 2017 01:04:01 +0000",
             "handle": "take-control-of-your-math-power",
             "url": "https://es-app.com/blog/take-control-of-your-math-power.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/NMdfX2.jpg" 
         },
         { 
             "title":"Seeking Patterns with Math",
@@ -134,7 +142,7 @@
             "publishDate":"Sat, 15 Jul 2017 08:02:21 +0000", 
             "handle": "seeking-patterns-with-math",
             "url": "https://es-app.com/blog/seeking-patterns-with-math.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/4fiwXA.jpg"
         },
         { 
             "title":"All, None and Forever",
@@ -142,7 +150,7 @@
             "publishDate":"Fri, 07 Jul 2017 13:45:26 +0000",
             "handle": "all-none-and-forever",
             "url": "https://es-app.com/blog/all-none-and-forever.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/HHHd23.jpg" 
         },
         { 
             "title":"Is Love Squared More Love?",
@@ -150,7 +158,7 @@
             "publishDate":"Fri, 30 Jun 2017 12:30:29 +0000", 
             "handle": "is-love-squared-more-love",
             "url": "https://es-app.com/blog/is-love-squared-more-love.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/CBE72a.jpg"
         },
         { 
             "title":"Imagination for Math",
@@ -158,7 +166,7 @@
             "publishDate":"Fri, 23 Jun 2017 23:47:57 +0000", 
             "handle": "imagination-for-math",
             "url": "https://es-app.com/blog/imagination-for-math.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/7342xa.jpg"
         },
         { 
             "title":"Neglect and Respect a Quarter of a Percent",
@@ -166,7 +174,7 @@
             "publishDate":"Fri, 16 Jun 2017 20:19:06 +0000", 
             "handle": "neglect-and-respect-a-quarter-of-a-percent",
             "url": "https://es-app.com/blog/neglect-and-respect-a-quarter-of-a-percent.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/OOTR35.png"
         },
         { 
             "title":"Machines and Mathematics Play Together",
@@ -174,7 +182,7 @@
             "publishDate":"Thu, 08 Jun 2017 20:07:50 +0000",
             "handle": "machines-and-mathematics-play-together",
             "url": "https://es-app.com/blog/machines-and-mathematics-play-together.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/2352d2.jpg" 
         },
         { 
             "title":"Do you pay 99 cents or 1 dollar?",
@@ -182,7 +190,7 @@
             "publishDate":"Fri, 02 Jun 2017 09:26:23 +0000", 
             "handle": "do-you-pay-99-cents-or-1-dollar",
             "url": "https://es-app.com/blog/do-you-pay-99-cents-or-1-dollar.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/j8asd3.png"
         },
         { 
             "title":"Choosing a Fair Estimate",
@@ -198,7 +206,7 @@
             "publishDate":"Sat, 20 May 2017 21:57:40 +0000",
             "handle": "thinking-optimization",
             "url": "https://es-app.com/blog/thinking-optimization.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/df28ND.jpg" 
         },
         { 
             "title":"Cut corners and save up to 29%",
@@ -206,7 +214,7 @@
             "publishDate":"Sat, 13 May 2017 11:12:29 +0000",
             "handle": "cut-corners-and-save-up-to-29-percent",
             "url": "https://es-app.com/blog/cut-corners-and-save-up-to-29-percent.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/us92dJ.jpg" 
         },
         { 
             "title":"Do Some Hailstones Fly Forever?",
@@ -214,7 +222,7 @@
             "publishDate":"Sun, 07 May 2017 07:55:43 +0000",
             "handle": "do-some-hailstones-fly-forever",
             "url": "https://es-app.com/blog/do-some-hailstones-fly-forever.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/631mXW.jpg" 
         },
         { 
             "title":"Are These Digits Random?",
@@ -238,7 +246,7 @@
             "publishDate":"Sun, 16 Apr 2017 06:27:02 +0000",
             "handle": "how-to-divide-a-triangular-cake",
             "url": "https://es-app.com/blog/how-to-divide-a-triangular-cake.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/uIld21.png" 
         },
         { 
             "title":"Guessing in Multiple Choice Exams",
@@ -246,7 +254,7 @@
             "publishDate":"Fri, 07 Apr 2017 04:58:21 +0000",
             "handle": "guessing-in-multiple-choice-exam",
             "url": "https://es-app.com/blog/guessing-in-multiple-choice-exam.md",
-            "imageUrl": "" 
+            "imageUrl": "https://es-app.com/assets/32uic2.png" 
         },
         { 
             "title":"When will your child be half your age?",
@@ -356,7 +364,7 @@
             "title":"Push Ups, Sit Ups and Adding Numbers",
             "author":"Yoni Nazarathy",
             "publishDate":"17 Nov 2016",
-            "handle": "push-ups-sit-ups-and-adding.md",
+            "handle": "push-ups-sit-ups-and-adding",
             "url": "https://es-app.com/blog/push-ups-sit-ups-and-adding.md",
             "imageUrl": "https://es-app.com/assets/ANCV64.png" 
         },
@@ -395,12 +403,28 @@
     ],
     "picks": [
         { 
+            "title":"February 2019 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "feb-2019-editors-picks",
+            "url": "https://es-app.com/blog/feb-2019-editors-picks.md",
+            "imageUrl": "https://es-app.com/assets/eabs45.png" 
+        },
+        { 
+            "title":"January 2019 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "jan-2019-editors-picks",
+            "url": "https://es-app.com/blog/jan-2019-editors-picks.md",
+            "imageUrl": "https://es-app.com/assets/udpn23.jpg" 
+        },
+        { 
             "title":"December 2018 Editors' Picks",
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "dec-2018-editors-picks",
             "url": "https://es-app.com/blog/dec-2018-editors-picks.md",
-            "imageUrl": "https://es-app.com/assets/QQQQ.jpg"
+            "imageUrl": "https://es-app.com/assets/cc24ab.jpg" 
         },
         { 
             "title":"November 2018 Editors' Picks",
@@ -424,7 +448,7 @@
             "publishDate":"",
             "handle": "sep-2018-editors-picks",
             "url": "https://es-app.com/blog/sep-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/355acb.jpg"
         },
         { 
             "title":"August 2018 Editors' Picks",
@@ -432,7 +456,7 @@
             "publishDate":"",
             "handle": "aug-2018-editors-picks",
             "url": "https://es-app.com/blog/aug-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/ffF2ax.jpg"
         },
         { 
             "title":"July 2018 Editors' Picks",
@@ -440,7 +464,7 @@
             "publishDate":"",
             "handle": "jul-2018-editors-picks",
             "url": "https://es-app.com/blog/jul-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/6dXV10.jpg"
         },
         { 
             "title":"June 2018 Editors' Picks",
@@ -448,7 +472,7 @@
             "publishDate":"",
             "handle": "jun-2018-editors-picks",
             "url": "https://es-app.com/blog/jun-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/ue8mx3.jpg"
         },
         { 
             "title":"May 2018 Editors' Picks",
@@ -456,7 +480,7 @@
             "publishDate":"",
             "handle": "may-2018-editors-picks",
             "url": "https://es-app.com/blog/may-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/jdvza3.jpg"
         },
         { 
             "title":"April 2018 Editors' Picks",
@@ -464,7 +488,7 @@
             "publishDate":"",
             "handle": "apr-2018-editors-picks",
             "url": "https://es-app.com/blog/apr-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/sh35i2.jpg"
         },
         { 
             "title":"March 2018 Editors' Picks",
@@ -472,7 +496,7 @@
             "publishDate":"",
             "handle": "mar-2018-editors-picks",
             "url": "https://es-app.com/blog/mar-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/d2VBA2.jpg"
         },
         { 
             "title":"February 2018 Editors' Picks",
@@ -480,15 +504,15 @@
             "publishDate":"",
             "handle": "feb-2018-editors-picks",
             "url": "https://es-app.com/blog/feb-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/qq93v2.jpg"
         },
         { 
-            "title":"January 2018 Editors' Picks",
+            "title": "January 2018 Editors' Picks",
             "author":"One on Epsilon Team",
             "publishDate":"",
             "handle": "jan-2018-editors-picks",
             "url": "https://es-app.com/blog/jan-2018-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/cn3zh2.jpg"
         },
         { 
             "title":"December 2017 Editors' Picks",
@@ -496,7 +520,7 @@
             "publishDate":"",
             "handle": "dec-2017-editors-picks",
             "url": "https://es-app.com/blog/dec-2017-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/9dax39.jpg"
         },
         { 
             "title":"November 2017 Editors' Picks",
@@ -504,10 +528,18 @@
             "publishDate":"",
             "handle": "nov-2017-editors-picks",
             "url": "https://es-app.com/blog/nov-2017-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/2319us.png"
         }
     ],
     "news": [
+        { 
+            "title":"How Old are YouTube Mathematics Videos?",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "how-old-youtube-math-videos",
+            "url": "https://es-app.com/blog/how-old-youtube-math-videos.md",
+            "imageUrl": "https://es-app.com/assets/vvv22v.jpg"
+        },
         { 
             "title":"Curious Epsilon, Two Years and Counting",
             "author":"One on Epsilon Team",
@@ -538,7 +570,7 @@
             "publishDate":"",
             "handle": "celebrating-a-year-of-editors-picks",
             "url": "https://es-app.com/blog/celebrating-a-year-of-editors-picks.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/pix18a.jpg"
         },
         { 
             "title":"The Spirit of Global Math Week",
@@ -546,7 +578,7 @@
             "publishDate":"",
             "handle": "the-spirit-of-global-math-week",
             "url": "https://es-app.com/blog/the-spirit-of-global-math-week.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/73dfnm.jpg"
         },
         { 
             "title":"Epsilon Stream and Global Math Week",
@@ -562,7 +594,7 @@
             "publishDate":"Tue, 07 Aug 2018 08:40:34 +0000", 
             "handle": "counting-math-on-youtube",
             "url": "https://es-app.com/blog/counting-math-on-youtube.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/45sxj3.jpg"
         },
         { 
             "title":"More Resources for Global Math Week",
@@ -570,7 +602,7 @@
             "publishDate":"Sun, 15 Oct 2017 12:20:58 +0000",
             "handle": "more-resources-for-gmw",
             "url": "https://es-app.com/blog/more-resources-for-gmw.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/dd2NUx.jpg"
         },        
         { 
             "title":"Get Epsilon Stream for iOS",
@@ -578,7 +610,7 @@
             "publishDate":"Thu, 14 Sep 2017 06:26:00 +0000",
             "handle": "get-epsilon-stream-ios",
             "url": "https://es-app.com/blog/get-epsilon-stream-ios.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/935xva.jpg"
         },
         { 
             "title":"Incredible Mathematics on Youtube",
@@ -586,7 +618,7 @@
             "publishDate":"Sun, 10 Sep 2017 09:24:33 +0000",
             "handle": "incredible-mathematics-on-youtube",
             "url": "https://es-app.com/blog/incredible-mathematics-on-youtube.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/3452jn.jpg"
         },
         { 
             "title":"Watch, Play and Explore Mathematics",
@@ -594,7 +626,7 @@
             "publishDate":"Sat, 19 Aug 2017 02:38:09 +0000",
             "handle": "watch-play-and-explore-mathematics",
             "url": "https://es-app.com/blog/watch-play-and-explore-mathematics.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/leo24m.jpg"
         },
         { 
             "title":"Epsilon Stream Release: Sep 15",
@@ -602,7 +634,7 @@
             "publishDate":"Sun, 23 Jul 2017 12:56:23 +0000",
             "handle": "epsilon-stream-release-2017",
             "url": "https://es-app.com/blog/epsilon-stream-release-2017.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/advSTR.jpg"
         },
         { 
             "title":"Designing-Square-Root-Marbles-for-iOS",
@@ -610,7 +642,7 @@
             "publishDate":"",
             "handle": "square-root-marbles-for-ios",
             "url": "https://es-app.com/blog/square-root-marbles-for-ios.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/4r5g7h.png"
         },
         { 
             "title":"One on Epsilon, what is that?",
@@ -618,7 +650,7 @@
             "publishDate":"",
             "handle": "one-on-epsilon-what-is-that",
             "url": "https://es-app.com/blog/one-on-epsilon-what-is-that.md",
-            "imageUrl": ""
+            "imageUrl": "https://es-app.com/assets/eabs45.png"
         }
     ]
 }

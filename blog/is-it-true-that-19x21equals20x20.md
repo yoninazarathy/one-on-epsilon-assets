@@ -1,17 +1,12 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/02/03/Is-it-true-that-19x21-20x20/). We are in the process of moving it to the current location.
 
-
-
-
-
 # Is it true that 19 x 21 = 20 x 20?
 *February 3, 2017*
-
 
 **Yoni Nazarathy**
 
 
-
+![Blog header image](https://es-app.com/assets/bnAB23.png){.blog-image-header}
  
 
 I recently came across a neat product called the QAMA Calculator. It is a calculator that encourages thought. Ask it to calculate something and QAMA will ask you back: “First give me an estimate”. Once you supply an approximate answer, QAMA calculates the precise answer for you. But only if your approximation was sensible. This calculator forces you to think.

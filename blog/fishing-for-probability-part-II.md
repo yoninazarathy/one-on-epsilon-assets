@@ -3,8 +3,9 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # Fishing for Probability, Part II
 *October 31, 2016*
 
-
 **Yoni Nazarathy**
+
+![Blog header image](https://es-app.com/assets/fgJJs2.png){.blog-image-header}
 
 Ok, so you may have read the previous post describing the following situation: You are fishing exactly 3 fish. This is from a tiny lake with 7 fish in total, 3 of which are gold and 4 of which are grey. The random quantity X, denotes the number of gold fish that come out. These are the possibilities for X:
 

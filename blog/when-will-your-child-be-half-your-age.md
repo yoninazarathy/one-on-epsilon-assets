@@ -3,8 +3,9 @@ The full blog post is still accessed through [here](https://www.1onepsilon.com/s
 # When will your child be half your age?
 *April 1, 2017*
 
-
 **Yoni Nazarathy**
+
+![Blog header image](https://es-app.com/assets/nba234.png){.blog-image-header}
 
 
 Will there be a point in your life when your child is older than you? The answer is no. You were born first. As she grows older, you do too. If you are willing to ignore the tiny effects that the theory of relativity has on human ageing, then you would agree that both you and your child grow at the same rate. When a year passes for your child, a year passes for you as well.

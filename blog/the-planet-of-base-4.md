@@ -1,14 +1,12 @@
 The full blog post is still accessed through [here](https://www.1onepsilon.com/single-post/2017/02/10/The-Planet-of-Base-4). We are in the process of moving it to the current location.
 
-
 # The Planet of Base 4
 *February 10, 2017*
 
-
 **Yoni Nazarathy**
 
+![Blog header image](https://es-app.com/assets/jfi241.png){.blog-image-header}
 
- 
 
 Somewhere in the universe there is a planet inhabited by beings called the Quaternary Counters or QC for short.  This friendly race is quite similar to us humans. However the QCs only have two fingers on each hand. Four fingers in total.
 
