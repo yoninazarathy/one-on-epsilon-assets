@@ -1,4 +1,4 @@
-# February 2019 Editors' Picks
+# February 2019 Editors' Picks 
 
 **One on Epsilon Team**
 
