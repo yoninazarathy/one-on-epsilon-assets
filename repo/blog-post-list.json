@@ -403,6 +403,22 @@
     ],
     "picks": [
         { 
+            "title":"April 2019 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "apr-2019-editors-picks",
+            "url": "https://es-app.com/blog/apr-2019-editors-picks.md",
+            "imageUrl": "https://es-app.com/assets/eabs45.png" 
+        },
+        { 
+            "title":"March 2019 Editors' Picks",
+            "author":"One on Epsilon Team",
+            "publishDate":"",
+            "handle": "mar-2019-editors-picks",
+            "url": "https://es-app.com/blog/mar-2019-editors-picks.md",
+            "imageUrl": "https://es-app.com/assets/eabs45.png" 
+        },
+        { 
             "title":"February 2019 Editors' Picks",
             "author":"One on Epsilon Team",
             "publishDate":"",
