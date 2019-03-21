@@ -2,7 +2,7 @@
 
 **One on Epsilon Team**
 
-![Blog header image](https://es-app.com/assets/eabs45.png){.blog-image-header}
+![Blog header image](https://es-app.com/assets/hkhk19.jpg){.blog-image-header}
 
 ---
 
