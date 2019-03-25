@@ -28,4 +28,6 @@ Intro
 
 ---
 
-Closing.
+[Let us know](https://oneonepsilon.com/contact-us/) which of these videos you liked the most. We'd love to hear from you. You can also follow [@OneOnEpsilon](https://twitter.com/oneonepsilon) on Twitter for daily video shout outs and continue to support the incredible mathematics content creators on YouTube.
+
+[![Epsilon Cat](https://es-app.com/blog-assets/epsilonCat.jpg){.blog-image-inline-small}](https://www.youtube.com/watch?v=7zZhs3nMYKw)
