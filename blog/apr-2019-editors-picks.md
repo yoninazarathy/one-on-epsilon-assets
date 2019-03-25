@@ -25,4 +25,5 @@
 ){.blog-image-medium}](https://epsilonstream.com/video/tasqj8/){.es-play-overlay}
 
 ---
+
 Closing.
