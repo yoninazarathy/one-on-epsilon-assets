@@ -4,9 +4,8 @@
 
 ![Blog header image](https://es-app.com/assets/udpn23.jpg){.blog-image-header}
 
-
 ---
-**The Turing test: Can a computer pass for a human? - Alex Gendler** by [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA): 
+**The Turing test: Can a computer pass for a human? - Alex Gendler** by [TED-Ed](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA): In this video, 
 
 [![Inline image](https://i.ytimg.com/vi/3wLqsRLvV-c/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/rlvvec/){.es-play-overlay}
