@@ -15,13 +15,16 @@
 
 Have you ever considered why the living costs keep increasing and things get more and more expensive? Have you ever thought about why financial advisors would suggest you to invest your money into different products rather than keeping it all in the bank? These are because of the effect of an economical concept called inflation. Understanding what inflation is about can help us avoid losing the value of our money in a long term. Check this video out for some money education.  
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UMAELCrJxt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ---
 **How to find the Formula for the Area of a Trapezoid (Trapezium)?** by [Maths Doctor](https://www.youtube.com/watch?v=uLHc6Br2veg): You might be told to remember the formula for the area of a trapezoid. However, have you ever thought about where the formula is derived from? This video by Maths Doctor presents us with a visual explanation of the formula. Isn't it great to be able to understand the rules rather than just remembering them?   
 
-[![Inline image](https://i.ytimg.com/vi/_JpwlTasQJ8/mqdefault.jpg
-){.blog-image-medium}](https://epsilonstream.com/video/tasqj8/){.es-play-overlay}
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLHc6Br2veg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ---
 
