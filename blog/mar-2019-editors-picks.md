@@ -10,18 +10,23 @@
 [![Inline image](https://i.ytimg.com/vi/uf2ChRpFTZk/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/rpftzk/){.es-play-overlay}
 
+Viviani's theorem states that the sum of the lengths of three lines, which are drawn at 90 degrees from the sides of an equilateral triangle to any inner point, is always equal to the height. Reading like a mouthful? Why not try taking a visual approach by watching the animation of this theorem presented by Think Twice online. Visualisation is a great way to present and understand mathematical concepts, especially when someone with great programming skills does it. 
+
 ---
-**Finger multiplication on steroids** by [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg): 
+**13,983,816 and the Lottery** by [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A): 
 
 [![Inline image](https://i.ytimg.com/vi/T_LjhJKuFKw/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/jkufkw/){.es-play-overlay}
 
+Did you ever wonder what is the odds of you winning the lottery? You might know it is small, but how small and how can you mathematically calculate this? This Numberphile video features [James Clewett](https://twitter.com/_itch_?lang=en), his deliberate attempts of selecting 'the' ball and selecting 'no' balls and his explanation of the probability behind winning and losing. 
+
 ---
 **Frogs and Buns** by [James Tanton](https://www.youtube.com/channel/UCib_J32VI8rQI_LCFXn1XAA): 
 
-
 [![Inline image](https://i.ytimg.com/vi/AALwyB5KSjs/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/b5ksjs/){.es-play-overlay}
+
+Have you ever tried to do your fraction arithmetic using frogs and buns? It can be a lot of fun! Check this video out by James Tanton, who ever fails to surprise us with his innovative ideas on making maths fun and hands-on. 
 
 ---
 
