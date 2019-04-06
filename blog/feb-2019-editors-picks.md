@@ -7,16 +7,20 @@
 Intro
 
 ---
-**e to the pi i, a nontraditional take** by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): Don't understand & maybe this one from Mathologer is better [<https://www.youtube.com/watch?v=-dhHrg-KbJ0>] but I am not sure if we have included it before...
+**e to the pi i for dummies** by [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg): 
 
-[![Inline image](https://i.ytimg.com/vi/F_0yfvm0UoU/mqdefault.jpg
-){.blog-image-medium}](https://epsilonstream.com/video/vm0uou/){.es-play-overlay}
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-dhHrg-KbJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
 
 ---
-**The mathematical soul of juggling** by [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg): Too long... Change to Singing banana problem??
+**Maths Problem: Complete Noughts and Crosses (Burnside's Lemma)** by [Singingbanna](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA): 
 
-[![Inline image](https://i.ytimg.com/vi/VsQ-OPIZ5kg/mqdefault.jpg
-){.blog-image-medium}](https://epsilonstream.com/video/piz5kg/){.es-play-overlay}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wdDF7_vfLcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ---
 **United States of Voronoi** by [Tipping Point Math
