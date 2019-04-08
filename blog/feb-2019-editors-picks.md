@@ -4,7 +4,7 @@
 
 ![Blog header image](https://es-app.com/assets/mrmr19.jpg){.blog-image-header}
 
-Intro
+Here are our editors' picks for this month. One of the videos by singingbanana is a solution to a video picked [last month](https://epsilonstream.com/blog/jan-2019-editors-picks/).
 
 ---
 **e to the pi i for dummies** by [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg): 
@@ -16,9 +16,11 @@ Intro
 
 
 ---
-**Maths Problem: Complete Noughts and Crosses (Burnside's Lemma)** by [Singingbanna](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA): 
+**Maths Problem: Complete Noughts and Crosses (Burnside's Lemma)** by [Singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA): 
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdDF7_vfLcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
 

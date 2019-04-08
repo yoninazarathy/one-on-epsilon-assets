@@ -4,21 +4,23 @@
 
 ![Blog header image](https://es-app.com/assets/hkhk19.jpg){.blog-image-header}
 
+Here are our editors' picks for this month.
+
 ---
-**Viviani's theorem | Visualization + Proof | for your daily dose of geometry** by [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg): Viviani's theorem states that the sum of the lengths of three lines, which are drawn at 90 degrees from the sides of an equilateral triangle to any inner point, is always equal to the height. Reading like a mouthful? Why not try taking a visual approach by watching the animation of this theorem presented by Think Twice online. Visualisation is a great way to present and understand mathematical concepts, especially when someone with great programming skills does it. 
+**Viviani's theorem | Visualization + Proof | for your daily dose of geometry** by [Think Twice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg): The textual description of Viviani's theorem can be a mouthful:  *For any interior point of an equilateral triangle, the sum of the distances to the sides equals the height of the triangle*. Why not try a visual approach? Watching this animation presented by Think Twice. Visualization is a great way to present and understand mathematical concepts.
 
 [![Inline image](https://i.ytimg.com/vi/uf2ChRpFTZk/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/rpftzk/){.es-play-overlay}
 
 ---
-**13,983,816 and the Lottery** by [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A): Did you ever wonder what is the odds of you winning the lottery? You might know it is small, but how small and how can you mathematically calculate this? This Numberphile video features [James Clewett](https://twitter.com/_itch_?lang=en), his deliberate attempts of selecting 'the' ball and selecting 'no' balls and his explanation of the probability behind winning and losing. 
+**13,983,816 and the Lottery** by [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A): Did you ever wonder what are the odds of winning the lottery? You might know it is small, but how small and how can you calculate this? This Numberphile video features [James Clewett](https://twitter.com/_itch_?lang=en), his deliberate attempts of selecting 'the' ball and selecting 'no' balls and his explanation of the probability behind winning and losing. 
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U7f8j3mVMbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ---
-**Frogs and Buns** by [James Tanton](https://www.youtube.com/channel/UCib_J32VI8rQI_LCFXn1XAA): Have you ever tried to do your fraction arithmetic using frogs and buns? It can be a lot of fun! Check this video out by James Tanton, who ever fails to surprise us with his innovative ideas on making maths fun and hands-on. 
+**Frogs and Buns** by [James Tanton](https://www.youtube.com/channel/UCib_J32VI8rQI_LCFXn1XAA): Have you ever tried to do fraction arithmetic using frogs and buns? It can be a lot of fun! Check out this video by James Tanton. The creator of the [Global Math Project](https://www.globalmathproject.org/) never fails to surprise us with his innovative ideas, making maths fun and hands-on. 
 
 [![Inline image](https://i.ytimg.com/vi/AALwyB5KSjs/mqdefault.jpg
 ){.blog-image-medium}](https://epsilonstream.com/video/b5ksjs/){.es-play-overlay}
